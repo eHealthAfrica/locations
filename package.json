@@ -4,7 +4,7 @@
   "description": "JSON location data",
   "main": ".#make.js",
   "scripts": {
-    "test": "mocha"
+    "test": "node make.js && mocha"
   },
   "repository": {
     "type": "git",

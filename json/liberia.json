@@ -1,5 +1,11 @@
 {
   "counties": [{
+    "code": 58,
+    "name": "Montserrado"
+  }, {
+    "code": 59,
+    "name": "Other"
+  }, {
     "code": 60,
     "name": "Bong"
   }, {
@@ -38,5 +44,30 @@
   }, {
     "code": 72,
     "name": "Sinoe"
+  }],
+  "districts": [{
+    "code": 73,
+    "name": "Careysburg",
+    "county": 58
+  }, {
+    "code": 74,
+    "name": "Commonwealth",
+    "county": 63
+  }, {
+    "code": 75,
+    "name": "Greater Monrovia",
+    "county": 58
+  }, {
+    "code": 76,
+    "name": "St. Paul River",
+    "county": 58
+  }, {
+    "code": 77,
+    "name": "Todee",
+    "county": 58
+  }, {
+    "code": 78,
+    "name": "Other",
+    "county": 59
   }]
 }
