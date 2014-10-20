@@ -3,6 +3,6 @@ var lib = require('../lib/make'),
 describe('modularise', function() {
   it('works', function() {
     var code = lib.modularise('country', {region: 'Sicily'});
-    assert.equal(code, "angular.module('eHealth.locations', []).constant('locations-country', {\"region\":\"Sicily\"});");
+    assert.equal(code, "angular.module('eHealth.locations', []).constant('locations_country', {\"region\":\"Sicily\"});");
   });
 });
