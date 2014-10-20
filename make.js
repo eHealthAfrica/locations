@@ -4,7 +4,7 @@ var fs = require('fs'),
     lib = require('./lib/make');
 
 [
-  'sierra-leone',
+  'sierra_leone',
   'liberia'
 ].forEach(function(country) {
   var data = require('./json/'+country+'.json');
