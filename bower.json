@@ -1,0 +1,17 @@
+{
+  "name": "locations",
+  "version": "0.0.0",
+  "homepage": "https://github.com/eHealthAfrica/locations",
+  "authors": [
+    "danse <f.occhipinti@gmail.com>"
+  ],
+  "description": "JSON location data",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

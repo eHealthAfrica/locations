@@ -1,0 +1,23 @@
+{
+  "name": "locations",
+  "version": "0.0.0",
+  "description": "JSON location data",
+  "main": ".#make.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eHealthAfrica/locations"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/eHealthAfrica/locations/issues"
+  },
+  "dependencies": {
+    "mustache": "~0.8.2"
+  },
+  "devDependencies": {
+    "mocha": "~1.21.5"
+  }
+}
