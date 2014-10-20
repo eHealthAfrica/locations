@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/eHealthAfrica/locations.svg?branch=develop)](https://travis-ci.org/eHealthAfrica/locations)
+
 ## locations
 
 JSON files listing locations in Sierra Leone and Liberia
