@@ -8,6 +8,15 @@ describe('the library', function() {
     });
     assert.equal(code, "angular.module('eHealth.locations', []).constant('locations_italy', {\"region\":\"Sicily\"});");
   });
+  it('modularises a single country twice', function() {
+    var country = {
+      name: 'italy',
+      data: {region: 'Sicily'}
+    };
+    var code = lib.modularise(country);
+    code = lib.modularise(country);
+    assert.equal(code, "angular.module('eHealth.locations', []).constant('locations_italy', {\"region\":\"Sicily\"});");
+  });
   it('modularises multiple countries', function() {
     var code = lib.modulariseMultiple([{
       name: 'i',

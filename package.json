@@ -15,7 +15,8 @@
     "url": "https://github.com/eHealthAfrica/locations/issues"
   },
   "dependencies": {
-    "mustache": "~0.8.2"
+    "mustache": "~0.8.2",
+    "lodash": "~2.4.1"
   },
   "devDependencies": {
     "mocha": "~1.21.5"

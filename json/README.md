@@ -32,3 +32,7 @@ be built by appending an `s` to the name.
 Identifiers (`id`) should be unique within every level.
 
 Use lowercase strings for names.
+
+Keep the levels in a consistent order in their array. For example
+level zero at index zero, level one at index one, and so on. The
+explicit `level` parameter is added for error checking.
