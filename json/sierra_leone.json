@@ -1,6 +1,6 @@
 [
   {
-    "level": 0,
+    "depth": 0,
     "name": "province",
     "items": [
       {
@@ -22,7 +22,7 @@
     ]
   },
   {
-    "level": 1,
+    "depth": 1,
     "name": "district",
     "items": [
       {
@@ -103,7 +103,7 @@
     ]
   },
   {
-    "level": 2,
+    "depth": 2,
     "name": "chiefdom",
     "items": [
       {
