@@ -1,6 +1,6 @@
 [
   {
-    "level": 0,
+    "depth": 0,
     "name": "county",
     "plural": "counties",
     "items": [
@@ -67,7 +67,7 @@
     ]
   },
   {
-    "level": 1,
+    "depth": 1,
     "name": "district",
     "items": [
       {
