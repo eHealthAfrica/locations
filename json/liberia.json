@@ -6,99 +6,520 @@
     "items": [
       {
         "name": "montserrado",
-        "id": 58
-      },
-      {
-        "name": "other",
-        "id": 59
+        "id": 1
       },
       {
         "name": "bong",
-        "id": 60
+        "id": 2
       },
       {
         "name": "gbarpolu",
-        "id": 61
+        "id": 3
       },
       {
         "name": "grand bassa",
-        "id": 62
+        "id": 4
       },
       {
         "name": "grand cape mount",
-        "id": 63
+        "id": 5
       },
       {
         "name": "grand gedeh",
-        "id": 64
+        "id": 6
       },
       {
         "name": "grand kru",
-        "id": 65
+        "id": 7
       },
       {
         "name": "lofa",
-        "id": 66
+        "id": 8
       },
       {
         "name": "margibi",
-        "id": 67
+        "id": 9
       },
       {
         "name": "mary land",
-        "id": 68
+        "id": 10
       },
       {
         "name": "nimba",
-        "id": 69
+        "id": 11
       },
       {
         "name": "rivercess",
-        "id": 70
+        "id": 12
       },
       {
         "name": "rivergee",
-        "id": 71
+        "id": 13
       },
       {
         "name": "sinoe",
-        "id": 72
+        "id": 14
+      },
+      {
+        "name": "bomi",
+        "id": 15
       }
     ]
   },
   {
     "depth": 1,
     "name": "district",
+    "plural": "districs",
     "items": [
       {
+        "id": 1,
+        "name": "Careysburg",
+        "parentId": 1
+      },
+      {
+        "id": 2,
+        "name": "Commonwealth",
+        "parentId": 1
+      },
+      {
+        "id": 3,
+        "name": "Greater monrovia",
+        "parentId": 1
+      },
+      {
+        "id": 4,
+        "name": "St. paul river",
+        "parentId": 1
+      },
+      {
+        "id": 5,
+        "name": "Todee",
+        "parentId": 1
+      },
+      {
+        "id": 6,
+        "name": "Zota",
+        "parentId": 2
+      },
+      {
+        "id": 7,
+        "name": "Jorquelleh",
+        "parentId": 2
+      },
+      {
+        "id": 8,
+        "name": "Suakoko",
+        "parentId": 2
+      },
+      {
+        "id": 9,
+        "name": "Sanoyea",
+        "parentId": 2
+      },
+      {
+        "id": 10,
+        "name": "Kokoyah",
+        "parentId": 2
+      },
+      {
+        "id":11,
+        "name": "Salala",
+        "parentId": 2
+      },
+      {
+        "id": 12,
+        "name": "Panta/kpaai",
+        "parentId": 2
+      },
+      {
+        "id": 13,
+        "name": "Fuamah",
+        "parentId": 2
+      },
+      {
+        "id": 14,
+        "name": "Gbarma",
+        "parentId": 3
+      },
+      {
+        "id": 15,
+        "name": "Belle",
+        "parentId": 3
+      },
+      {
+        "id": 16,
+        "name": "Bopolu",
+        "parentId": 3
+      },
+      {
+        "id": 17,
+        "name": "Bokomu",
+        "parentId": 3
+      },
+      {
+        "id": 18,
+        "name": "Kongba",
+        "parentId": 3
+      },
+      {
+        "id": 19,
+        "name": "Campwood",
+        "parentId": 4
+      },
+      {
+        "id": 20,
+        "name": "#4",
+        "parentId": 4
+      },
+      {
+        "id": 21,
+        "name": "Owensgrove",
+        "parentId": 4
+      },
+      {
+        "id": 22,
+        "name": "Buchanan",
+        "parentId": 4
+      },
+      {
+        "id": 23,
+        "name": "#1",
+        "parentId": 4
+      },
+      {
+        "id": 24,
+        "name": "#2a",
+        "parentId": 4
+      },
+      {
+        "id": 25,
+        "name": "#3a",
+        "parentId": 4
+      },
+      {
+        "id": 26,
+        "name": "Senjeh",
+        "parentId": 5
+      },
+      {
+        "id": 27,
+        "name": "Suehn mecca",
+        "parentId": 5
+      },
+      {
+        "id": 28,
+        "name": "Tewor",
+        "parentId": 5
+      },
+      {
+        "id": 29,
+        "name": "Gola konneh",
+        "parentId": 5
+      },
+      {
+        "id": 30,
+        "name": "Garwular",
+        "parentId": 5
+      },
+      {
+        "id": 31,
+        "name": "Porkpa",
+        "parentId": 5
+      },
+      {
+        "id": 32,
+        "name": "B'hai",
+        "parentId": 6
+      },
+      {
+        "id": 33,
+        "name": "Gbao",
+        "parentId": 6
+      },
+      {
+        "id": 34,
+        "name": "Cavalla",
+        "parentId": 6
+      },
+      {
+        "id": 35,
+        "name": "Putu",
+        "parentId": 6
+      },
+      {
+        "id": 36,
+        "name": "Tchien",
+        "parentId": 6
+      },
+      {
+        "id": 37,
+        "name": "Konobo",
+        "parentId": 6
+      },
+      {
+        "id": 38,
+        "name": "Farjah",
+        "parentId": 7
+      },
+      {
+        "id": 39,
+        "name": "Jraoh",
+        "parentId": 7
+      },
+      {
+        "id": 40,
+        "name": "Trehn",
+        "parentId": 7
+      },
+      {
+        "id": 41,
+        "name": "Dorbor",
+        "parentId": 7
+      },
+      {
+        "id": 42,
+        "name": "Barclayville",
+        "parentId": 7
+      },
+      {
+        "id": 43,
+        "name": "Buah",
+        "parentId": 7
+      },
+      {
+        "id": 44,
+        "name": "Zorzor",
+        "parentId": 8
+      },
+      {
+        "id": 45,
+        "name": "Vahun",
+        "parentId": 8
+      },
+      {
+        "id": 46,
+        "name": "Foya",
+        "parentId": 8
+      },
+      {
+        "id": 47,
+        "name": "Voinjama",
+        "parentId": 8
+      },
+      {
+        "id": 48,
+        "name": "Kolahun",
+        "parentId": 8
+      },
+      {
+        "id": 49,
+        "name": "Salayea",
+        "parentId": 8
+      },
+      {
+        "id": 50,
+        "name": "Gibi",
+        "parentId": 9
+      },
+      {
+        "id": 51,
+        "name": "Kakata",
+        "parentId": 9
+      },
+      {
+        "id": 52,
+        "name": "Mambam kaba",
+        "parentId": 9
+      },
+      {
+        "id": 53,
+        "name": "Firestone",
+        "parentId": 9
+      },
+      {
+        "id": 54,
+        "name": "Karluway #1",
+        "parentId": 10
+      },
+      {
+        "id": 55,
+        "name": "Karluway #2",
+        "parentId": 10
+      },
+      {
+        "id": 56,
+        "name": "Whojah",
+        "parentId": 10
+      },
+      {
+        "id": 57,
+        "name": "Harper",
+        "parentId": 10
+      },
+      {
+        "id": 58,
+        "name": "Pleebo-sodoken",
+        "parentId": 10
+      },
+      {
+        "id": 59,
+        "name": "Gbehlay- geh",
+        "parentId": 11
+      },
+      {
+        "id": 60,
+        "name": "Yarwin mehsonnah",
+        "parentId": 11
+      },
+      {
+        "id": 61,
+        "name": "Saclepea - mah",
+        "parentId": 11
+      },
+      {
+        "id": 62,
+        "name": "Tappita",
+        "parentId": 11
+      },
+      {
+        "id": 63,
+        "name": "Sanniqullie-mah",
+        "parentId": 11
+      },
+      {
+        "id": 64,
+        "name": "Zoe-geh",
+        "parentId": 11
+      },
+      {
+        "id": 65,
+        "name": "Timbo",
+        "parentId": 12
+      },
+      {
+        "id": 66,
+        "name": "Jowen",
+        "parentId": 12
+      },
+      {
+        "id": 67,
+        "name": "Jo-river",
+        "parentId": 12
+      },
+      {
+        "id": 68,
+        "name": "Doedain",
+        "parentId": 12
+      },
+      {
+        "id": 69,
+        "name": "Central c",
+        "parentId": 12
+      },
+      {
+        "id": 70,
+        "name": "Yarnee",
+        "parentId": 12
+      },
+      {
+        "id": 71,
+        "name": "Gbeapo",
+        "parentId": 13
+      },
+      {
+        "id": 72,
+        "name": "Sarbo",
+        "parentId": 13
+      },
+      {
         "id": 73,
-        "name": "careysburg",
-        "parentId": 58
+        "name": "Tienpo",
+        "parentId": 13
       },
       {
         "id": 74,
-        "name": "commonwealth",
-        "parentId": 58
+        "name": "Chedepo",
+        "parentId": 13
       },
       {
         "id": 75,
-        "name": "greater monrovia",
-        "parentId": 58
+        "name": "Potupo",
+        "parentId": 13
       },
       {
         "id": 76,
-        "name": "st. paul river",
-        "parentId": 58
+        "name": "Webbo",
+        "parentId": 13
       },
       {
         "id": 77,
-        "name": "todee",
-        "parentId": 58
+        "name": "Kpanyan",
+        "parentId": 14
       },
       {
         "id": 78,
-        "name": "other",
-        "parentId": 59
+        "name": "Tarjuowon",
+        "parentId": 14
+      },
+      {
+        "id": 79,
+        "name": "Gblonee",
+        "parentId": 14
+      },
+      {
+        "id": 80,
+        "name": "Jedoepo",
+        "parentId": 14
+      },
+      {
+        "id": 81,
+        "name": "Trasue",
+        "parentId": 14
+      },
+      {
+        "id": 82,
+        "name": "Dugbe",
+        "parentId": 14
+      },
+      {
+        "id": 83,
+        "name": "Pynes town",
+        "parentId": 14
+      },
+      {
+        "id": 84,
+        "name": "Bokon jaedae",
+        "parentId": 14
+      },
+      {
+        "id": 85,
+        "name": "Butan",
+        "parentId": 14
+      },
+      {
+        "id": 86,
+        "name": "Greenville",
+        "parentId": 14
+      },
+      {
+        "id": 87,
+        "name": "Klay",
+        "parentId": 15
+      },
+      {
+        "id": 88,
+        "name": "Dewoin",
+        "parentId": 15
+      },
+      {
+        "id": 89,
+        "name": "Senjeh",
+        "parentId": 15
+      },
+      {
+        "id": 90,
+        "name": "Suehn mecca",
+        "parentId": 15
       }
     ]
   }
