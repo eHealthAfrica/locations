@@ -8,7 +8,8 @@ var modulesDir = './angular-modules/';
 console.log('fetching data');
 var countries = [
   'sierra_leone',
-  'liberia'
+  'liberia',
+  'guinea'
 ].map(function(country) {
   var data = require('./json/'+country+'.json');
   return ({
