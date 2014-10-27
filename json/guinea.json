@@ -1,0 +1,215 @@
+[
+  {
+    "depth": 0,
+    "name": "région",
+    "plural": "régions",
+    "items": [
+      {
+        "name": "conakry",
+        "id": "C"
+      },
+      {
+        "name": "boké",
+        "id": "B"
+      },
+      {
+        "name": "faranah",
+        "id": "F"
+      },
+      {
+        "name": "kankan",
+        "id": "K"
+      },
+      {
+        "name": "kindia",
+        "id": "D"
+      },
+      {
+        "name": "labé",
+        "id": "L"
+      },
+      {
+        "name": "mamou",
+        "id": "M"
+      },
+      {
+        "name": "nzérékoré",
+        "id": "N"
+      }
+    ]
+  },
+  {
+    "depth": 1,
+    "name": "préfecture",
+    "plural": "préfectures",
+    "items": [
+      {
+        "id": "BE",
+        "name": "beyla",
+        "parentId": "N"
+      },
+      {
+        "id": "BF",
+        "name": "boffa",
+        "parentId": "B"
+      },
+      {
+        "id": "BK",
+        "name": "boké",
+        "parentId": "B"
+      },
+      {
+        "id": "CO",
+        "name": "coyah",
+        "parentId": "D"
+      },
+      {
+        "id": "DB",
+        "name": "dabola",
+        "parentId": "F"
+      },
+      {
+        "id": "DL",
+        "name": "dalaba",
+        "parentId": "M"
+      },
+      {
+        "id": "DI",
+        "name": "dinguiraye",
+        "parentId": "F"
+      },
+      {
+        "id": "DU",
+        "name": "dubréka",
+        "parentId": "D"
+      },
+      {
+        "id": "FA",
+        "name": "faranah",
+        "parentId": "F"
+      },
+      {
+        "id": "FO",
+        "name": "forécariah",
+        "parentId": "D"
+      },
+      {
+        "id": "FR",
+        "name": "fria",
+        "parentId": "B"
+      },
+      {
+        "id": "GA",
+        "name": "gaoual",
+        "parentId": "B"
+      },
+      {
+        "id": "GU",
+        "name": "guékédou",
+        "parentId": "N"
+      },
+      {
+        "id": "KA",
+        "name": "kankan",
+        "parentId": "K"
+      },
+      {
+        "id": "KE",
+        "name": "kérouané",
+        "parentId": "K"
+      },
+      {
+        "id": "KD",
+        "name": "kindia",
+        "parentId": "D"
+      },
+      {
+        "id": "KS",
+        "name": "kissidougou",
+        "parentId": "F"
+      },
+      {
+        "id": "KB",
+        "name": "koubia",
+        "parentId": "L"
+      },
+      {
+        "id": "KN",
+        "name": "koundara",
+        "parentId": "B"
+      },
+      {
+        "id": "KO",
+        "name": "kouroussa",
+        "parentId": "K"
+      },
+      {
+        "id": "LA",
+        "name": "labé",
+        "parentId": "L"
+      },
+      {
+        "id": "LE",
+        "name": "lélouma",
+        "parentId": "L"
+      },
+      {
+        "id": "LO",
+        "name": "lola",
+        "parentId": "N"
+      },
+      {
+        "id": "MC",
+        "name": "macenta",
+        "parentId": "N"
+      },
+      {
+        "id": "ML",
+        "name": "mali",
+        "parentId": "L"
+      },
+      {
+        "id": "MM",
+        "name": "mamou",
+        "parentId": "M"
+      },
+      {
+        "id": "MD",
+        "name": "mandiana",
+        "parentId": "K"
+      },
+      {
+        "id": "NZ",
+        "name": "nzérékoré",
+        "parentId": "N"
+      },
+      {
+        "id": "PI",
+        "name": "pita",
+        "parentId": "M"
+      },
+      {
+        "id": "SI",
+        "name": "siguiri",
+        "parentId": "K"
+      },
+      {
+        "id": "TE",
+        "name": "télimélé",
+        "parentId": "D"
+      },
+      {
+        "id": "TO",
+        "name": "tougué",
+        "parentId": "L"
+      },
+      {
+        "id": "YO",
+        "name": "yomou",
+        "parentId": "N"
+      }
+    ]
+  }
+]
+
+
