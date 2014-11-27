@@ -9,7 +9,8 @@ console.log('fetching data');
 var countries = [
   'sierra_leone',
   'liberia',
-  'guinea'
+  'guinea',
+  'mali'
 ].map(function(country) {
   var data = require('./json/'+country+'.json');
   return ({
