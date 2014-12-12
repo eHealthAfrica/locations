@@ -1,30 +1,30 @@
 var lib = require('../lib/make'),
     assert = require('assert');
 describe('the library', function() {
-  it('modularises a single country', function() {
+  it('modularises a single file', function() {
     var code = lib.modularise({
-      name: 'italy',
-      data: {region: 'Sicily'}
+      name: 'some',
+      data: {d: 'd'}
     });
-    assert.equal(code, "angular.module('eHealth.locations', []).constant('locations_italy', {\"region\":\"Sicily\"});");
+    assert.equal(code, "angular.module('eHealth.symptoms', []).constant('symptoms_some', {\"d\":\"d\"});");
   });
-  it('modularises a single country twice', function() {
-    var country = {
-      name: 'italy',
-      data: {region: 'Sicily'}
+  it('modularises a single file twice', function() {
+    var file = {
+      name: 'some',
+      data: {d: 'd'}
     };
-    var code = lib.modularise(country);
-    code = lib.modularise(country);
-    assert.equal(code, "angular.module('eHealth.locations', []).constant('locations_italy', {\"region\":\"Sicily\"});");
+    var code = lib.modularise(file);
+    code = lib.modularise(file);
+    assert.equal(code, "angular.module('eHealth.symptoms', []).constant('symptoms_some', {\"d\":\"d\"});");
   });
-  it('modularises multiple countries', function() {
+  it('modularises multiple files', function() {
     var code = lib.modulariseMultiple([{
-      name: 'i',
-      data: {r: 's'}
+      name: 'one',
+      data: {o: '1'}
     }, {
-      name: 's',
-      data: {r: 'a'}
+      name: 'two',
+      data: {t: '2'}
     }]);
-    assert.equal(code, "angular.module('eHealth.locations', []).constant('locations_i', {\"r\":\"s\"}).constant('locations_s', {\"r\":\"a\"});");
+    assert.equal(code, "angular.module('eHealth.symptoms', []).constant('symptoms_one', {\"o\":\"1\"}).constant('symptoms_two', {\"t\":\"2\"});");
   });
 });
