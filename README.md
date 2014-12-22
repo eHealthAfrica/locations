@@ -7,6 +7,7 @@ JSON files listing locations in
 - Liberia
 - Mali
 - Sierra Leone
+- Madagascar
 
 ### Adding locations and Making
 
