@@ -4,6 +4,10 @@ var fs = require('fs'),
     _ = require('lodash'),
     data;
 
+var toTitleCase = function(str){
+  return str.replace(/([^\W_]+[^\s-]*) */g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
+};
+
 var getSubRegions = function (index, parentId, indentation, isLast) {
   if(data[index]){
     var subregions = _.filter(data[index].items, function(subregion) {
@@ -11,21 +15,19 @@ var getSubRegions = function (index, parentId, indentation, isLast) {
     });
     isLast = false;
     subregions.forEach(function(region, listNumber){
+      var thisIndentation = indentation + '├ ';
       if(subregions.length === listNumber + 1){
-        console.log(indentation+'└ '+ region.name+' ('+region.id+')');
-        if(subregions.length === 1 ){
-          isLast = true;
-        }
-      } else {
-        console.log(indentation+'├ '+ region.name+' ('+region.id+')');
+        thisIndentation = indentation + '└ ';
+        isLast = true;
       }
+      console.log(thisIndentation + toTitleCase(region.name)+' ('+region.id+')');
       var subIndentation;
       if(isLast){
-        subIndentation = indentation+'  ';
+        subIndentation = indentation + '  ';
       } else {
-        subIndentation = indentation+'| ';
+        subIndentation = indentation + '| ';
       }
-      getSubRegions(index + 1, region.id, subIndentation);
+      getSubRegions(index + 1, region.id, subIndentation, isLast);
     });
   }
 };
@@ -33,7 +35,7 @@ var getSubRegions = function (index, parentId, indentation, isLast) {
 var iterateThroughRegions = function(){
   if(data[0]){
     data[0].items.forEach(function(region, listNumber){
-      console.log(listNumber+1+'. '+ region.name);
+      console.log(listNumber+1+'. '+ toTitleCase(region.name));
       getSubRegions(1, region.id, '   ', false);
     });
   }
