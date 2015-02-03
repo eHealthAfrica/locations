@@ -54,7 +54,7 @@ if(process.argv.length === 2){
 } else {
   var dataString = fs.readFileSync('./json/'+process.argv[2]+'.json').toString();
   data = JSON.parse(dataString);
-  var title = 'Administrative regions of '+ process.argv[2];
+  var title = 'Administrative Regions of '+ toTitleCase(process.argv[2]);
   getUnderline(title);
   console.log(title);
   getUnderline(title);
