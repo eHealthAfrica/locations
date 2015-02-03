@@ -35,7 +35,7 @@ var getSubRegions = function (index, parentId, indentation, isLast) {
 var iterateThroughRegions = function(){
   if(data[0]){
     data[0].items.forEach(function(region, listNumber){
-      console.log(listNumber+1+'. '+ toTitleCase(region.name) + '('+region.id+')');
+      console.log(listNumber+1+'. '+ toTitleCase(region.name) + ' ('+region.id+')');
       getSubRegions(1, region.id, '   ', false);
     });
   }
