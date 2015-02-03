@@ -13,7 +13,7 @@ var getSubRegions = function (index, parentId, indentation, isLast) {
     subregions.forEach(function(region, listNumber){
       if(subregions.length === listNumber + 1){
         console.log(indentation+'└ '+ region.name+' ('+region.id+')');
-        if(subregions.length !== 1 ){
+        if(subregions.length === 1 ){
           isLast = true;
         }
       } else {
