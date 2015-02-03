@@ -52,7 +52,16 @@ var getUnderline = function (string) {
 if(process.argv.length === 2){
   console.log('Please add a country parameter, i.e. $node readable.js guinea');
 } else {
-  var dataString = fs.readFileSync('./json/'+process.argv[2]+'.json').toString();
+  try {
+    var dataString = fs.readFileSync('./json/'+process.argv[2]+'.json').toString();
+  } catch (err) {
+    if (err.code === 'ENOENT') {
+      console.log('Error: File not found: ./json/'+process.argv[2]+'.json');
+    } else {
+      throw err;
+    }
+    return;
+  }
   data = JSON.parse(dataString);
   var title = 'Administrative Regions of '+ toTitleCase(process.argv[2]);
   getUnderline(title);
