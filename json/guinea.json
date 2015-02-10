@@ -222,7 +222,7 @@
     "items": [
       {
         "id": 1,
-        "name": "albadaria",
+        "name": "albadariah",
         "parentId": "KS"
       },
       {
@@ -233,7 +233,7 @@
       {
         "id": 3,
         "name": "arfamoussaya",
-        "parentId": "DB"
+        "parentId": "DA"
       },
       {
         "id": 4,
@@ -248,7 +248,7 @@
       {
         "id": 6,
         "name": "baguinet",
-        "parentId": "TE"
+        "parentId": "FR"
       },
       {
         "id": 7,
@@ -278,7 +278,7 @@
       {
         "id": 12,
         "name": "balizia",
-        "parentId": "LO"
+        "parentId": "MC"
       },
       {
         "id": 13,
@@ -298,12 +298,12 @@
       {
         "id": 16,
         "name": "bangouyah",
-        "parentId": "FR"
+        "parentId": "KD"
       },
       {
         "id": 17,
-        "name": "banguingny",
-        "parentId": "TE"
+        "name": "banguigny",
+        "parentId": "FR"
       },
       {
         "id": 18,
@@ -313,12 +313,12 @@
       {
         "id": 19,
         "name": "banié",
-        "parentId": "NZ"
+        "parentId": "YO"
       },
       {
         "id": 20,
         "name": "banko",
-        "parentId": "DB"
+        "parentId": "DA"
       },
       {
         "id": 21,
@@ -347,7 +347,7 @@
       },
       {
         "id": 26,
-        "name": "bate-nafadji",
+        "name": "baté-nafadji",
         "parentId": "KA"
       },
       {
@@ -373,17 +373,17 @@
       {
         "id": 31,
         "name": "bheeta",
-        "parentId": "NZ"
+        "parentId": "YO"
       },
       {
         "id": 32,
         "name": "bignamou",
-        "parentId": "NZ"
+        "parentId": "YO"
       },
       {
         "id": 33,
         "name": "binikala",
-        "parentId": "LO"
+        "parentId": "MC"
       },
       {
         "id": 34,
@@ -408,7 +408,7 @@
       {
         "id": 38,
         "name": "bofossou",
-        "parentId": "LO"
+        "parentId": "MC"
       },
       {
         "id": 39,
@@ -418,7 +418,7 @@
       {
         "id": 40,
         "name": "bolodou",
-        "parentId": "YO"
+        "parentId": "GU"
       },
       {
         "id": 41,
@@ -428,7 +428,7 @@
       {
         "id": 42,
         "name": "bossou",
-        "parentId": "GU"
+        "parentId": "LO"
       },
       {
         "id": 43,
@@ -448,12 +448,12 @@
       {
         "id": 46,
         "name": "bourouwal",
-        "parentId": "KD"
+        "parentId": "TE"
       },
       {
         "id": 47,
         "name": "bowé",
-        "parentId": "NZ"
+        "parentId": "YO"
       },
       {
         "id": 48,
@@ -493,7 +493,7 @@
       {
         "id": 55,
         "name": "damankanyah",
-        "parentId": "FR"
+        "parentId": "KD"
       },
       {
         "id": 56,
@@ -508,12 +508,12 @@
       {
         "id": 58,
         "name": "daramagnaky",
-        "parentId": "KD"
+        "parentId": "TE"
       },
       {
         "id": 59,
         "name": "daro",
-        "parentId": "LO"
+        "parentId": "MC"
       },
       {
         "id": 60,
@@ -548,7 +548,7 @@
       {
         "id": 66,
         "name": "diécké",
-        "parentId": "NZ"
+        "parentId": "YO"
       },
       {
         "id": 67,
@@ -638,7 +638,7 @@
       {
         "id": 84,
         "name": "fangamadou",
-        "parentId": "YO"
+        "parentId": "GU"
       },
       {
         "id": 85,
@@ -658,7 +658,7 @@
       {
         "id": 88,
         "name": "fassankoni",
-        "parentId": "LO"
+        "parentId": "MC"
       },
       {
         "id": 89,
@@ -703,7 +703,7 @@
       {
         "id": 97,
         "name": "foumbadou",
-        "parentId": "GU"
+        "parentId": "LO"
       },
       {
         "id": 98,
@@ -713,12 +713,12 @@
       {
         "id": 99,
         "name": "fria-centre",
-        "parentId": "TE"
+        "parentId": "FR"
       },
       {
         "id": 100,
         "name": "friguiagbé",
-        "parentId": "FR"
+        "parentId": "KD"
       },
       {
         "id": 101,
@@ -732,8 +732,8 @@
       },
       {
         "id": 103,
-        "name": "gama berema",
-        "parentId": "GU"
+        "name": "gama-béréma",
+        "parentId": "LO"
       },
       {
         "id": 104,
@@ -793,7 +793,7 @@
       {
         "id": 115,
         "name": "gougoudjé",
-        "parentId": "KD"
+        "parentId": "TE"
       },
       {
         "id": 116,
@@ -803,12 +803,12 @@
       {
         "id": 117,
         "name": "guéassou",
-        "parentId": "YO"
+        "parentId": "LO"
       },
       {
         "id": 118,
         "name": "guéckédou-centre",
-        "parentId": "YO"
+        "parentId": "GU"
       },
       {
         "id": 119,
@@ -863,12 +863,12 @@
       {
         "id": 129,
         "name": "kalinko",
-        "parentId": "FO"
+        "parentId": "DI"
       },
       {
         "id": 130,
         "name": "kallia",
-        "parentId": "DI"
+        "parentId": "FO"
       },
       {
         "id": 131,
@@ -928,7 +928,7 @@
       {
         "id": 142,
         "name": "kassadou",
-        "parentId": "YO"
+        "parentId": "GU"
       },
       {
         "id": 143,
@@ -953,7 +953,7 @@
       {
         "id": 147,
         "name": "kindia-centre",
-        "parentId": "FR"
+        "parentId": "KD"
       },
       {
         "id": 148,
@@ -987,13 +987,13 @@
       },
       {
         "id": 154,
-        "name": "koba, faranah",
+        "name": "koba, dalaba",
         "parentId": "DL"
       },
       {
         "id": 155,
-        "name": "koba, kindia",
-        "parentId": "KD"
+        "name": "koba, télimélé",
+        "parentId": "TE"
       },
       {
         "id": 156,
@@ -1018,7 +1018,7 @@
       {
         "id": 160,
         "name": "kokota",
-        "parentId": "GU"
+        "parentId": "LO"
       },
       {
         "id": 161,
@@ -1033,11 +1033,11 @@
       {
         "id": 163,
         "name": "kolenté",
-        "parentId": "FR"
+        "parentId": "KD"
       },
       {
         "id": 164,
-        "name": "kollet, labé",
+        "name": "kollet, tougué",
         "parentId": "TO"
       },
       {
@@ -1048,7 +1048,7 @@
       {
         "id": 166,
         "name": "kollet, télimélé",
-        "parentId": "KD"
+        "parentId": "TE"
       },
       {
         "id": 167,
@@ -1078,12 +1078,12 @@
       {
         "id": 172,
         "name": "konkouré",
-        "parentId": "KE"
+        "parentId": "MM"
       },
       {
         "id": 173,
         "name": "konsotamy",
-        "parentId": "KD"
+        "parentId": "TE"
       },
       {
         "id": 174,
@@ -1098,7 +1098,7 @@
       {
         "id": 176,
         "name": "kouankan",
-        "parentId": "LO"
+        "parentId": "MC"
       },
       {
         "id": 177,
@@ -1148,12 +1148,12 @@
       {
         "id": 186,
         "name": "koundou",
-        "parentId": "YO"
+        "parentId": "GU"
       },
       {
         "id": 187,
         "name": "kounsankoro",
-        "parentId": "MM"
+        "parentId": "KE"
       },
       {
         "id": 188,
@@ -1183,7 +1183,7 @@
       {
         "id": 193,
         "name": "koyamah",
-        "parentId": "LO"
+        "parentId": "MC"
       },
       {
         "id": 194,
@@ -1197,8 +1197,8 @@
       },
       {
         "id": 196,
-        "name": "lain",
-        "parentId": "GU"
+        "name": "lainé",
+        "parentId": "LO"
       },
       {
         "id": 197,
@@ -1238,12 +1238,12 @@
       {
         "id": 204,
         "name": "lola-centre",
-        "parentId": "GU"
+        "parentId": "LO"
       },
       {
         "id": 205,
         "name": "macenta-centre",
-        "parentId": "LO"
+        "parentId": "MC"
       },
       {
         "id": 206,
@@ -1253,7 +1253,7 @@
       {
         "id": 207,
         "name": "madina-oula",
-        "parentId": "FR"
+        "parentId": "KD"
       },
       {
         "id": 208,
@@ -1282,7 +1282,7 @@
       },
       {
         "id": 213,
-        "name": "maléa",
+        "name": "maléah",
         "parentId": "SI"
       },
       {
@@ -1293,7 +1293,7 @@
       {
         "id": 215,
         "name": "mambia",
-        "parentId": "FR"
+        "parentId": "KD"
       },
       {
         "id": 216,
@@ -1362,8 +1362,8 @@
       },
       {
         "id": 229,
-        "name": "missira, labé",
-        "parentId": "KD"
+        "name": "missira, télimélé",
+        "parentId": "TE"
       },
       {
         "id": 230,
@@ -1373,7 +1373,7 @@
       {
         "id": 231,
         "name": "molota",
-        "parentId": "FR"
+        "parentId": "KD"
       },
       {
         "id": 232,
@@ -1397,7 +1397,7 @@
       },
       {
         "id": 236,
-        "name": "moussaya",
+        "name": "moussayah",
         "parentId": "FO"
       },
       {
@@ -1438,7 +1438,7 @@
       {
         "id": 244,
         "name": "nongoa",
-        "parentId": "YO"
+        "parentId": "GU"
       },
       {
         "id": 245,
@@ -1458,7 +1458,7 @@
       {
         "id": 248,
         "name": "n'zébéla",
-        "parentId": "LO"
+        "parentId": "MC"
       },
       {
         "id": 249,
@@ -1468,7 +1468,7 @@
       {
         "id": 250,
         "name": "n'zoo",
-        "parentId": "GU"
+        "parentId": "LO"
       },
       {
         "id": 251,
@@ -1478,7 +1478,7 @@
       {
         "id": 252,
         "name": "ouéndé-kénéma",
-        "parentId": "YO"
+        "parentId": "GU"
       },
       {
         "id": 253,
@@ -1488,7 +1488,7 @@
       {
         "id": 254,
         "name": "ourémaï",
-        "parentId": "LO"
+        "parentId": "MC"
       },
       {
         "id": 255,
@@ -1498,7 +1498,7 @@
       {
         "id": 256,
         "name": "panziazou",
-        "parentId": "LO"
+        "parentId": "MC"
       },
       {
         "id": 257,
@@ -1513,7 +1513,7 @@
       {
         "id": 259,
         "name": "péla",
-        "parentId": "NZ"
+        "parentId": "YO"
       },
       {
         "id": 260,
@@ -1573,7 +1573,7 @@
       {
         "id": 271,
         "name": "samayah",
-        "parentId": "FR"
+        "parentId": "KD"
       },
       {
         "id": 272,
@@ -1628,7 +1628,7 @@
       {
         "id": 282,
         "name": "santou",
-        "parentId": "KD"
+        "parentId": "TE"
       },
       {
         "id": 283,
@@ -1643,22 +1643,22 @@
       {
         "id": 285,
         "name": "sarékaly",
-        "parentId": "KD"
+        "parentId": "TE"
       },
       {
         "id": 286,
         "name": "sengbédou",
-        "parentId": "DI"
+        "parentId": "MC"
       },
       {
         "id": 287,
         "name": "sélouma",
-        "parentId": "LO"
+        "parentId": "DI"
       },
       {
         "id": 288,
         "name": "sérédou",
-        "parentId": "LO"
+        "parentId": "MC"
       },
       {
         "id": 289,
@@ -1688,7 +1688,7 @@
       {
         "id": 294,
         "name": "sinta",
-        "parentId": "KD"
+        "parentId": "TE"
       },
       {
         "id": 295,
@@ -1698,7 +1698,7 @@
       {
         "id": 296,
         "name": "sogolon",
-        "parentId": "KD"
+        "parentId": "TE"
       },
       {
         "id": 297,
@@ -1713,7 +1713,7 @@
       {
         "id": 299,
         "name": "souguéta",
-        "parentId": "FR"
+        "parentId": "KD"
       },
       {
         "id": 300,
@@ -1732,12 +1732,12 @@
       },
       {
         "id": 303,
-        "name": "tanéné, boké",
+        "name": "tanéné, dubréka",
         "parentId": "DU"
       },
       {
         "id": 304,
-        "name": "tanéné, dubréka",
+        "name": "tanéné, boké",
         "parentId": "BK"
       },
       {
@@ -1748,7 +1748,7 @@
       {
         "id": 306,
         "name": "tarihoye",
-        "parentId": "KD"
+        "parentId": "TE"
       },
       {
         "id": 307,
@@ -1757,13 +1757,13 @@
       },
       {
         "id": 308,
-        "name": "tekoulo",
-        "parentId": "YO"
+        "name": "tékoulo",
+        "parentId": "GU"
       },
       {
         "id": 309,
         "name": "télimélé-centre",
-        "parentId": "KD"
+        "parentId": "TE"
       },
       {
         "id": 310,
@@ -1773,17 +1773,17 @@
       {
         "id": 311,
         "name": "termessadou-dibo",
-        "parentId": "YO"
+        "parentId": "GU"
       },
       {
         "id": 312,
-        "name": "termesse",
+        "name": "termessé",
         "parentId": "KN"
       },
       {
         "id": 313,
         "name": "thionthian",
-        "parentId": "KD"
+        "parentId": "TE"
       },
       {
         "id": 314,
@@ -1832,17 +1832,17 @@
       },
       {
         "id": 323,
-        "name": "tormelin",
-        "parentId": "TE"
+        "name": "tormélin",
+        "parentId": "FR"
       },
       {
         "id": 324,
-        "name": "touba, boké",
+        "name": "touba, gaoual",
         "parentId": "GA"
       },
       {
         "id": 325,
-        "name": "touba, labé",
+        "name": "touba, mali",
         "parentId": "ML"
       },
       {
@@ -1858,7 +1858,7 @@
       {
         "id": 328,
         "name": "tounkarata",
-        "parentId": "GU"
+        "parentId": "LO"
       },
       {
         "id": 329,
@@ -1868,12 +1868,12 @@
       {
         "id": 330,
         "name": "vassérédou",
-        "parentId": "LO"
+        "parentId": "MC"
       },
       {
         "id": 331,
         "name": "watanka",
-        "parentId": "LO"
+        "parentId": "MC"
       },
       {
         "id": 332,
@@ -1913,7 +1913,7 @@
       {
         "id": 339,
         "name": "yomou-centre",
-        "parentId": "NZ"
+        "parentId": "YO"
       },
       {
         "id": 340,
