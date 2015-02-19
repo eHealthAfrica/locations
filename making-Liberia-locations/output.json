@@ -93,10 +93,6 @@
         "DHISCode": "TirZneFdOzE",
         "DHISCompleteName": "SINO",
         "id": "SINO"
-      },
-      {
-        "name": "OLD -- Montserrado",
-        "id": 1
       }
     ]
   },
@@ -1245,91 +1241,6 @@
         "DHISCompleteName": "SINO : Wedjah",
         "id": "SINO : Wedjah",
         "parentId": "SINO"
-      },
-      {
-        "id": 1,
-        "name": "OLD -- District #1",
-        "parentId": 1
-      },
-      {
-        "id": 2,
-        "name": "OLD -- District #2",
-        "parentId": 1
-      },
-      {
-        "id": 3,
-        "name": "OLD -- District #3",
-        "parentId": 1
-      },
-      {
-        "id": 4,
-        "name": "OLD -- District #4",
-        "parentId": 1
-      },
-      {
-        "id": 5,
-        "name": "OLD -- District #5",
-        "parentId": 1
-      },
-      {
-        "id": 6,
-        "name": "OLD -- District #6",
-        "parentId": 1
-      },
-      {
-        "id": 7,
-        "name": "OLD -- District #7",
-        "parentId": 1
-      },
-      {
-        "id": 8,
-        "name": "OLD -- District #8",
-        "parentId": 1
-      },
-      {
-        "id": 9,
-        "name": "OLD -- District #9",
-        "parentId": 1
-      },
-      {
-        "id": 10,
-        "name": "OLD -- District #10",
-        "parentId": 1
-      },
-      {
-        "id": 11,
-        "name": "OLD -- District #11",
-        "parentId": 1
-      },
-      {
-        "id": 12,
-        "name": "OLD -- District #12",
-        "parentId": 1
-      },
-      {
-        "id": 13,
-        "name": "OLD -- District #13",
-        "parentId": 1
-      },
-      {
-        "id": 14,
-        "name": "OLD -- District #14",
-        "parentId": 1
-      },
-      {
-        "id": 15,
-        "name": "OLD -- District #15",
-        "parentId": 1
-      },
-      {
-        "id": 16,
-        "name": "OLD -- District #16",
-        "parentId": 1
-      },
-      {
-        "id": 17,
-        "name": "OLD -- District #17",
-        "parentId": 1
       }
     ]
   },
