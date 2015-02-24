@@ -102,8 +102,8 @@
   },
   {
     "depth": 1,
-    "name": "district",
-    "plural": "districts",
+    "name": "zone or district",
+    "plural": "zones or districts",
     "items": [
       {
         "name": "Commonwealth-B District",
