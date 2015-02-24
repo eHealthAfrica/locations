@@ -1,5 +1,10 @@
 ### 1.6.0 -- 20 February 2015
 
+#### Unreleased
+
+Fix:
+- Changed Liberia level 2 name to "zone or district"
+
 #### Major
 
 Add DHIS locations for Liberia, deprecate current ones, see story
