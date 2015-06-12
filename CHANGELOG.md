@@ -5,6 +5,12 @@ file. This file is structured according to http://keepachangelog.com/
 
 - - -
 
+## [1.7.0] 12.06.2015
+
+### Added
+Add clans locations for Liberia as new country option,
+the DHIS locations remains with same code.
+
 ## [1.6.1] 24.02.2015
 
 ### Fixed
