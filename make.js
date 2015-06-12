@@ -9,6 +9,7 @@ console.log('fetching data');
 var countries = [
   'sierra_leone',
   'liberia',
+  'liberia_clans',
   'guinea',
   'mali',
   'madagascar'

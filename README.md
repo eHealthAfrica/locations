@@ -4,7 +4,8 @@
 
 JSON files listing locations in
 - Guinea
-- Liberia
+- Liberia (Health division)
+- Liberia (Clans division)
 - Mali
 - Sierra Leone
 - Madagascar
