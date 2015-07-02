@@ -5,6 +5,12 @@ file. This file is structured according to http://keepachangelog.com/
 
 - - -
 
+## 2.0.0 02.07.2015
+
+### Changed
+Changes some chiefdoms for Sierra Leone! This is a breaking change,
+see https://github.com/eHealthAfrica/locations/issues/27
+
 ## [1.7.0] 12.06.2015
 
 ### Added
