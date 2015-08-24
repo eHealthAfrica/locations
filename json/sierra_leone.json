@@ -26,71 +26,127 @@
     "name": "district",
     "items": [
       {
+        "coordinates": {
+          "lat": 7.96276438159488,
+          "lon": -11.7196907051462
+        },
         "id": "1",
         "name": "bo",
         "parentId": "S"
       },
       {
+        "coordinates": {
+          "lat": 8.08778993310664,
+          "lon": -10.6935678546489
+        },
         "id": "11",
         "name": "kailahun",
         "parentId": "E"
       },
       {
+        "coordinates": {
+          "lat": 7.94623190282982,
+          "lon": -11.1961678904605
+        },
         "id": "12",
         "name": "kenema",
         "parentId": "E"
       },
       {
+        "coordinates": {
+          "lat": 8.6934229701536,
+          "lon": -10.9395436641229
+        },
         "id": "13",
         "name": "kono",
         "parentId": "E"
       },
       {
+        "coordinates": {
+          "lat": 7.50289333102348,
+          "lon": -12.2806091679861
+        },
         "id": "2",
         "name": "bonthe",
         "parentId": "S"
       },
       {
+        "coordinates": {
+          "lat": 9.31924294734618,
+          "lon": -12.1664340441872
+        },
         "id": "21",
         "name": "bombali",
         "parentId": "N"
       },
       {
+        "coordinates": {
+          "lat": 9.18416019513434,
+          "lon": -12.8092451667966
+        },
         "id": "22",
         "name": "kambia",
         "parentId": "N"
       },
       {
+        "coordinates": {
+          "lat": 9.44997930513683,
+          "lon": -11.3432788947695
+        },
         "id": "23",
         "name": "koinadugu",
         "parentId": "N"
       },
       {
+        "coordinates": {
+          "lat": 8.72599068493539,
+          "lon": -12.743056637234
+        },
         "id": "24",
         "name": "port loko",
         "parentId": "N"
       },
       {
+        "coordinates": {
+          "lat": 8.66821758743615,
+          "lon": -11.882454265453
+        },
         "id": "25",
         "name": "tonkolili",
         "parentId": "N"
       },
       {
+        "coordinates": {
+          "lat": 8.06365373534222,
+          "lon": -12.4261830981779
+        },
         "id": "3",
         "name": "moyamba",
         "parentId": "S"
       },
       {
+        "coordinates": {
+          "lat": 8.46451240712045,
+          "lon": -13.1990776868318
+        },
         "id": "31",
         "name": "western urban",
         "parentId": "W"
       },
       {
+        "coordinates": {
+          "lat": 8.32370413787741,
+          "lon": -13.0997193508203
+        },
         "id": "32",
         "name": "western rural",
         "parentId": "W"
       },
       {
+        "coordinates": {
+          "lat": 7.30967720828693,
+          "lon": -11.5730377996412
+        },
         "id": "4",
         "name": "pujehun",
         "parentId": "S"
@@ -107,746 +163,1342 @@
     "name": "chiefdom",
     "items": [
       {
+        "coordinates": {
+          "lat": 7.95251999013444,
+          "lon": -10.6516021395881
+        },
         "id": "11-01",
         "name": "dia",
         "parentId": "11"
       },
       {
+        "coordinates": {
+          "lat": 7.88200774864323,
+          "lon": -10.897685557937
+        },
         "id": "11-02",
         "name": "jawi",
         "parentId": "11"
       },
       {
+        "coordinates": {
+          "lat": 8.40626683686644,
+          "lon": -10.4052864554888
+        },
         "id": "11-03",
         "name": "kissi kama",
         "parentId": "11"
       },
       {
+        "coordinates": {
+          "lat": 8.3934599201706,
+          "lon": -10.3572480758519
+        },
         "id": "11-04",
         "name": "kissi teng",
         "parentId": "11"
       },
       {
+        "coordinates": {
+          "lat": 8.26913968620363,
+          "lon": -10.3478225796991
+        },
         "id": "11-05",
         "name": "kissi tongi",
         "parentId": "11"
       },
       {
+        "coordinates": {
+          "lat": 8.1539492117763,
+          "lon": -10.777860252987
+        },
         "id": "11-06",
         "name": "peje bongre",
         "parentId": "11"
       },
       {
+        "coordinates": {
+          "lat": 8.19076804037337,
+          "lon": -10.8290987515547
+        },
         "id": "11-07",
         "name": "peje west (kpejewaa)",
         "parentId": "11"
       },
       {
+        "coordinates": {
+          "lat": 8.22471705534719,
+          "lon": -10.5582056968245
+        },
         "id": "11-08",
         "name": "luawa",
         "parentId": "11"
       },
       {
+        "coordinates": {
+          "lat": 7.77556502403447,
+          "lon": -10.7712365976417
+        },
         "id": "11-09",
         "name": "malema",
         "parentId": "11"
       },
       {
+        "coordinates": {
+          "lat": 7.98144326568059,
+          "lon": -10.7496391101619
+        },
         "id": "11-10",
         "name": "mandu",
         "parentId": "11"
       },
       {
+        "coordinates": {
+          "lat": 8.00830355662304,
+          "lon": -10.9227976154835
+        },
         "id": "11-11",
         "name": "jaluahun",
         "parentId": "11"
       },
       {
+        "coordinates": {
+          "lat": 8.36197564203402,
+          "lon": -10.7145979597494
+        },
         "id": "11-12",
         "name": "penguia",
         "parentId": "11"
       },
       {
+        "coordinates": {
+          "lat": 8.09186111828376,
+          "lon": -10.6772084553922
+        },
         "id": "11-13",
         "name": "upper bambara",
         "parentId": "11"
       },
       {
+        "coordinates": {
+          "lat": 8.325483518341,
+          "lon": -10.8226424757331
+        },
         "id": "11-14",
         "name": "yawei",
         "parentId": "11"
       },
       {
+        "coordinates": {
+          "lat": 7.76395035968895,
+          "lon": -11.1353171648653
+        },
         "id": "12-01",
         "name": "dama",
         "parentId": "12"
       },
       {
+        "coordinates": {
+          "lat": 8.19553944905828,
+          "lon": -11.2015888678404
+        },
         "id": "12-02",
         "name": "dodo",
         "parentId": "12"
       },
       {
+        "coordinates": {
+          "lat": 7.6931279937642,
+          "lon": -11.025820071162
+        },
         "id": "12-03",
         "name": "gaura",
         "parentId": "12"
       },
       {
+        "coordinates": {
+          "lat": 8.45306367428097,
+          "lon": -11.416081961093
+        },
         "id": "12-04",
         "name": "gorama mende",
         "parentId": "12"
       },
       {
+        "coordinates": {
+          "lat": 8.02523813556404,
+          "lon": -11.2897760771262
+        },
         "id": "12-05",
         "name": "kandu legbewama",
         "parentId": "12"
       },
       {
+        "coordinates": {
+          "lat": 8.45627580580882,
+          "lon": -12.8545223092469
+        },
         "id": "12-06",
         "name": "koya",
         "parentId": "12"
       },
       {
+        "coordinates": {
+          "lat": 7.66617666340137,
+          "lon": -11.4756506371995
+        },
         "id": "12-07",
         "name": "langrama",
         "parentId": "12"
       },
       {
+        "coordinates": {
+          "lat": 8.22576316998081,
+          "lon": -11.0503189775857
+        },
         "id": "12-08",
         "name": "lower bambara",
         "parentId": "12"
       },
       {
+        "coordinates": {
+          "lat": 8.23384155438569,
+          "lon": -10.9207711839676
+        },
         "id": "12-09",
         "name": "malegohun",
         "parentId": "12"
       },
       {
+        "coordinates": {
+          "lat": 7.66816289493839,
+          "lon": -11.4050806516531
+        },
         "id": "12-10",
         "name": "nyawa",
         "parentId": "12"
       },
       {
+        "coordinates": {
+          "lat": 7.56636643485661,
+          "lon": -10.9366817453321
+        },
         "id": "12-11",
         "name": "nomo",
         "parentId": "12"
       },
       {
+        "coordinates": {
+          "lat": 7.96071344819894,
+          "lon": -11.123662743001
+        },
         "id": "12-12",
         "name": "nongowa",
         "parentId": "12"
       },
       {
+        "coordinates": {
+          "lat": 8.19571577199215,
+          "lon": -11.3112083975351
+        },
         "id": "12-13",
         "name": "simbaru",
         "parentId": "12"
       },
       {
+        "coordinates": {
+          "lat": 7.85628471327287,
+          "lon": -11.3457927447957
+        },
         "id": "12-14",
         "name": "small bo",
         "parentId": "12"
       },
       {
+        "coordinates": {
+          "lat": 7.48840252014192,
+          "lon": -11.1650678365786
+        },
         "id": "12-15",
         "name": "tunkia",
         "parentId": "12"
       },
       {
+        "coordinates": {
+          "lat": 8.31499573224458,
+          "lon": -11.3630455924502
+        },
         "id": "12-16",
         "name": "wando",
         "parentId": "12"
       },
       {
+        "coordinates": {
+          "lat": 8.6452253959683,
+          "lon": -10.8357160803798
+        },
         "id": "13-01",
         "name": "fiama",
         "parentId": "13"
       },
       {
+        "coordinates": {
+          "lat": 8.47312023302179,
+          "lon": -10.8478721492568
+        },
         "id": "13-02",
         "name": "gbaneh",
         "parentId": "13"
       },
       {
+        "coordinates": {
+          "lat": 8.64103485379022,
+          "lon": -10.5706800644889
+        },
         "id": "13-03",
         "name": "gbaneh kandor",
         "parentId": "13"
       },
       {
+        "coordinates": {
+          "lat": 8.72669169511254,
+          "lon": -10.9218805476021
+        },
         "id": "13-04",
         "name": "gbenseh",
         "parentId": "13"
       },
       {
+        "coordinates": {
+          "lat": 8.39655366462616,
+          "lon": -11.0996771820643
+        },
         "id": "13-05",
         "name": "gorama (ngorama)",
         "parentId": "13"
       },
       {
+        "coordinates": {
+          "lat": 8.72173191134516,
+          "lon": -11.0268733099821
+        },
         "id": "13-06",
         "name": "kamara",
         "parentId": "13"
       },
       {
+        "coordinates": {
+          "lat": 8.82720078940158,
+          "lon": -10.6821435700952
+        },
         "id": "13-07",
         "name": "lei",
         "parentId": "13"
       },
       {
+        "coordinates": {
+          "lat": 8.6852869254274,
+          "lon": -10.5105270135485
+        },
         "id": "13-08",
         "name": "mafindor",
         "parentId": "13"
       },
       {
+        "coordinates": {
+          "lat": 8.56868578421003,
+          "lon": -11.0975715438567
+        },
         "id": "13-09",
         "name": "nimikoro",
         "parentId": "13"
       },
       {
+        "coordinates": {
+          "lat": 8.58235302565665,
+          "lon": -11.2564367984052
+        },
         "id": "13-10",
         "name": "nimiyama",
         "parentId": "13"
       },
       {
+        "coordinates": {
+          "lat": 8.8619901525792,
+          "lon": -11.078884821024
+        },
         "id": "13-11",
         "name": "sandor",
         "parentId": "13"
       },
       {
+        "coordinates": {
+          "lat": 8.59893607637397,
+          "lon": -10.6861494895156
+        },
         "id": "13-12",
         "name": "soa",
         "parentId": "13"
       },
       {
+        "coordinates": {
+          "lat": 8.54623060984822,
+          "lon": -10.9657732253433
+        },
         "id": "13-13",
         "name": "tankoro",
         "parentId": "13"
       },
       {
+        "coordinates": {
+          "lat": 8.98783883958195,
+          "lon": -10.6322204993715
+        },
         "id": "13-14",
         "name": "toli",
         "parentId": "13"
       },
       {
+        "coordinates": {
+          "lat": 9.25939373956015,
+          "lon": -11.9212015942695
+        },
         "id": "21-01",
         "name": "biriwa",
         "parentId": "21"
       },
       {
+        "coordinates": {
+          "lat": 8.76881993215673,
+          "lon": -12.0769416993634
+        },
         "id": "21-02",
         "name": "bombali sebora",
         "parentId": "21"
       },
       {
+        "coordinates": {
+          "lat": 9.28728673982367,
+          "lon": -12.2928122528279
+        },
         "id": "21-03",
         "name": "gbanti kamaranka",
         "parentId": "21"
       },
       {
+        "coordinates": {
+          "lat": 9.0673033447309,
+          "lon": -12.1750067324239
+        },
         "id": "21-04",
         "name": "gbendembu gowahun",
         "parentId": "21"
       },
       {
+        "coordinates": {
+          "lat": 9.00427924042247,
+          "lon": -12.4287842225799
+        },
         "id": "21-05",
         "name": "libeisaygahun",
         "parentId": "21"
       },
       {
+        "coordinates": {
+          "lat": 9.29124841382777,
+          "lon": -12.0615002139663
+        },
         "id": "21-06",
         "name": "magbaiamba",
         "parentId": "21"
       },
       {
+        "coordinates": {
+          "lat": 8.85166005338151,
+          "lon": -12.1940413353021
+        },
         "id": "21-07",
         "name": "makari gbanti",
         "parentId": "21"
       },
       {
+        "coordinates": {
+          "lat": 8.80627439618761,
+          "lon": -11.9500945495831
+        },
         "id": "21-08",
         "name": "paki masabong",
         "parentId": "21"
       },
       {
+        "coordinates": {
+          "lat": 9.00062041326957,
+          "lon": -11.9235633964043
+        },
         "id": "21-09",
         "name": "safroko limba",
         "parentId": "21"
       },
       {
+        "coordinates": {
+          "lat": 9.4252095296875,
+          "lon": -12.1433485318841
+        },
         "id": "21-10",
         "name": "sanda loko",
         "parentId": "21"
       },
       {
+        "coordinates": {
+          "lat": 9.16122861646113,
+          "lon": -12.3112050672256
+        },
         "id": "21-11",
         "name": "sanda tenraran",
         "parentId": "21"
       },
       {
+        "coordinates": {
+          "lat": 9.50720586589162,
+          "lon": -12.2533504028428
+        },
         "id": "21-12",
         "name": "sella limba",
         "parentId": "21"
       },
       {
+        "coordinates": {
+          "lat": 9.7373593579359,
+          "lon": -12.237016923303
+        },
         "id": "21-13",
         "name": "tambakha",
         "parentId": "21"
       },
       {
+        "coordinates": {
+          "lat": 9.15000775700116,
+          "lon": -12.9620289274529
+        },
         "id": "22-01",
         "name": "gbinle dixing",
         "parentId": "22"
       },
       {
+        "coordinates": {
+          "lat": 9.42803997842463,
+          "lon": -12.6497046389726
+        },
         "id": "22-02",
         "name": "bramaia",
         "parentId": "22"
       },
       {
+        "coordinates": {
+          "lat": 9.04996595670007,
+          "lon": -12.9070879791577
+        },
         "id": "22-03",
         "name": "magbema",
         "parentId": "22"
       },
       {
+        "coordinates": {
+          "lat": 8.88578573961767,
+          "lon": -13.0345899102098
+        },
         "id": "22-04",
         "name": "mambolo",
         "parentId": "22"
       },
       {
+        "coordinates": {
+          "lat": 9.11155506344934,
+          "lon": -12.7857834161966
+        },
         "id": "22-05",
         "name": "masungbala",
         "parentId": "22"
       },
       {
+        "coordinates": {
+          "lat": 8.99761726093941,
+          "lon": -13.1435862291626
+        },
         "id": "22-06",
         "name": "samu",
         "parentId": "22"
       },
       {
+        "coordinates": {
+          "lat": 9.31269075138179,
+          "lon": -12.5796773088896
+        },
         "id": "22-07",
         "name": "tonko limba",
         "parentId": "22"
       },
       {
+        "coordinates": {
+          "lat": 9.87058911840065,
+          "lon": -11.4720397491567
+        },
         "id": "23-01",
         "name": "dembelia sinkunia",
         "parentId": "23"
       },
       {
+        "coordinates": {
+          "lat": 9.28118603097033,
+          "lon": -11.5874910822711
+        },
         "id": "23-02",
         "name": "diang",
         "parentId": "23"
       },
       {
+        "coordinates": {
+          "lat": 9.8340964565938,
+          "lon": -11.6216792899483
+        },
         "id": "23-03",
         "name": "dembelia musaia",
         "parentId": "23"
       },
       {
+        "coordinates": {
+          "lat": 9.50439607867737,
+          "lon": -11.8669340255131
+        },
         "id": "23-04",
         "name": "kasunko",
         "parentId": "23"
       },
       {
+        "coordinates": {
+          "lat": 9.45037620121123,
+          "lon": -10.9575189803849
+        },
         "id": "23-05",
         "name": "mongo",
         "parentId": "23"
       },
       {
+        "coordinates": {
+          "lat": 9.12401125496838,
+          "lon": -10.8798969673644
+        },
         "id": "23-06",
         "name": "neya",
         "parentId": "23"
       },
       {
+        "coordinates": {
+          "lat": 9.11230540885117,
+          "lon": -11.2953942015239
+        },
         "id": "23-07",
         "name": "nieni",
         "parentId": "23"
       },
       {
+        "coordinates": {
+          "lat": 9.51858157195837,
+          "lon": -11.3466330118593
+        },
         "id": "23-08",
         "name": "sengbe",
         "parentId": "23"
       },
       {
+        "coordinates": {
+          "lat": 9.80887962345342,
+          "lon": -11.259302996866
+        },
         "id": "23-09",
         "name": "sulima",
         "parentId": "23"
       },
       {
+        "coordinates": {
+          "lat": 9.76616576526503,
+          "lon": -11.7822814467319
+        },
         "id": "23-10",
         "name": "wara wara bafodea",
         "parentId": "23"
       },
       {
+        "coordinates": {
+          "lat": 9.55660438420618,
+          "lon": -11.6119150328517
+        },
         "id": "23-11",
         "name": "wara wara yagala",
         "parentId": "23"
       },
       {
+        "coordinates": {
+          "lat": 8.93636836580952,
+          "lon": -12.787158032448
+        },
         "id": "24-01",
         "name": "bureh kasseh mabonteh",
         "parentId": "24"
       },
       {
+        "coordinates": {
+          "lat": 8.81994896276036,
+          "lon": -12.4496184205805
+        },
         "id": "24-02",
         "name": "buya romende",
         "parentId": "24"
       },
       {
+        "coordinates": {
+          "lat": 8.93705018341116,
+          "lon": -12.6168070874155
+        },
         "id": "24-03",
         "name": "dibia",
         "parentId": "24"
       },
       {
+        "coordinates": {
+          "lat": 8.62078868074391,
+          "lon": -13.1755770269746
+        },
         "id": "24-04",
         "name": "kaffu bullom",
         "parentId": "24"
       },
       {
+        "coordinates": {
+          "lat": 8.45627580580882,
+          "lon": -12.8545223092469
+        },
         "id": "24-05",
         "name": "koya",
         "parentId": "24"
       },
       {
+        "coordinates": {
+          "lat": 8.73088647689016,
+          "lon": -13.0556759400933
+        },
         "id": "24-06",
         "name": "loko masama",
         "parentId": "24"
       },
       {
+        "coordinates": {
+          "lat": 8.72440348197477,
+          "lon": -12.783248814424
+        },
         "id": "24-07",
         "name": "maforki",
         "parentId": "24"
       },
       {
+        "coordinates": {
+          "lat": 8.67378040927107,
+          "lon": -12.5566615846065
+        },
         "id": "24-08",
         "name": "marampa",
         "parentId": "24"
       },
       {
+        "coordinates": {
+          "lat": 8.56399069407839,
+          "lon": -12.4982648895577
+        },
         "id": "24-09",
         "name": "masimra",
         "parentId": "24"
       },
       {
+        "coordinates": {
+          "lat": 9.14080480933033,
+          "lon": -12.5656710630204
+        },
         "id": "24-10",
         "name": "sanda magbolonton",
         "parentId": "24"
       },
       {
+        "coordinates": {
+          "lat": 8.86810082698142,
+          "lon": -12.5820573460458
+        },
         "id": "24-11",
         "name": "t. m. safroko",
         "parentId": "24"
       },
       {
+        "coordinates": {
+          "lat": 8.47019500760511,
+          "lon": -11.8905930072467
+        },
         "id": "25-01",
         "name": "gbonkolenken",
         "parentId": "25"
       },
       {
+        "coordinates": {
+          "lat": 8.85493124666163,
+          "lon": -11.7356178599817
+        },
         "id": "25-02",
         "name": "kafe simiria",
         "parentId": "25"
       },
       {
+        "coordinates": {
+          "lat": 9.09458233422136,
+          "lon": -11.743717072376
+        },
         "id": "25-03",
         "name": "kalansongoia",
         "parentId": "25"
       },
       {
+        "coordinates": {
+          "lat": 8.66726539504921,
+          "lon": -11.9777993489373
+        },
         "id": "25-04",
         "name": "kholifa",
         "parentId": "25"
       },
       {
+        "coordinates": {
+          "lat": 8.54448903484266,
+          "lon": -12.1678913859671
+        },
         "id": "25-05",
         "name": "kholifa mabang",
         "parentId": "25"
       },
       {
+        "coordinates": {
+          "lat": 8.68645412906152,
+          "lon": -11.4902458519174
+        },
         "id": "25-06",
         "name": "kunike",
         "parentId": "25"
       },
       {
+        "coordinates": {
+          "lat": 8.58305125784299,
+          "lon": -11.6505705711496
+        },
         "id": "25-07",
         "name": "kunike barina",
         "parentId": "25"
       },
       {
+        "coordinates": {
+          "lat": 8.66918458279075,
+          "lon": -12.2547677374432
+        },
         "id": "25-08",
         "name": "malal",
         "parentId": "25"
       },
       {
+        "coordinates": {
+          "lat": 9.00536776594455,
+          "lon": -11.5584756793349
+        },
         "id": "25-09",
         "name": "sambaia",
         "parentId": "25"
       },
       {
+        "coordinates": {
+          "lat": 8.6614957690713,
+          "lon": -11.8194881708252
+        },
         "id": "25-10",
         "name": "tane",
         "parentId": "25"
       },
       {
+        "coordinates": {
+          "lat": 8.40305299007881,
+          "lon": -12.3277026786915
+        },
         "id": "25-11",
         "name": "yoni",
         "parentId": "25"
       },
       {
+        "coordinates": {
+          "lat": 8.09095586362923,
+          "lon": -11.421396854888
+        },
         "id": "1-01",
         "name": "badja",
         "parentId": "1"
       },
       {
+        "coordinates": {
+          "lat": 7.5971708020872,
+          "lon": -11.8587101865651
+        },
         "id": "1-02",
         "name": "bagbo",
         "parentId": "1"
       },
       {
+        "coordinates": {
+          "lat": 8.07914084680335,
+          "lon": -11.5326750714972
+        },
         "id": "1-03",
         "name": "bagwe",
         "parentId": "1"
       },
       {
+        "coordinates": {
+          "lat": 7.93463545759822,
+          "lon": -11.4852034757387
+        },
         "id": "1-04",
         "name": "baoma",
         "parentId": "1"
       },
       {
+        "coordinates": {
+          "lat": 8.12666182495,
+          "lon": -12.7165067813221
+        },
         "id": "1-05",
         "name": "bumpe",
         "parentId": "1"
       },
       {
+        "coordinates": {
+          "lat": 8.08136417698752,
+          "lon": -11.8426726509609
+        },
         "id": "1-06",
         "name": "gbo",
         "parentId": "1"
       },
       {
+        "coordinates": {
+          "lat": 7.7675984534537,
+          "lon": -11.6249088651073
+        },
         "id": "1-07",
         "name": "jaiama bongor",
         "parentId": "1"
       },
       {
+        "coordinates": {
+          "lat": 7.98077194540206,
+          "lon": -11.6710249023738
+        },
         "id": "1-08",
         "name": "kakua",
         "parentId": "1"
       },
       {
+        "coordinates": {
+          "lat": 8.24515829163489,
+          "lon": -11.4897519207918
+        },
         "id": "1-09",
         "name": "komboya",
         "parentId": "1"
       },
       {
+        "coordinates": {
+          "lat": 7.68821110830645,
+          "lon": -11.8878829629775
+        },
         "id": "1-10",
         "name": "lugbu",
         "parentId": "1"
       },
       {
+        "coordinates": {
+          "lat": 8.13849605328231,
+          "lon": -11.6209023955563
+        },
         "id": "1-11",
         "name": "nyawa lenga",
         "parentId": "1"
       },
       {
+        "coordinates": {
+          "lat": 8.11497666085749,
+          "lon": -11.7289372161948
+        },
         "id": "1-12",
         "name": "selenga",
         "parentId": "1"
       },
       {
+        "coordinates": {
+          "lat": 7.85509415616666,
+          "lon": -11.7905566552028
+        },
         "id": "1-13",
         "name": "tikonko",
         "parentId": "1"
       },
       {
+        "coordinates": {
+          "lat": 8.31766492201109,
+          "lon": -11.682005355684
+        },
         "id": "1-14",
         "name": "valunia",
         "parentId": "1"
       },
       {
+        "coordinates": {
+          "lat": 7.69721699177454,
+          "lon": -11.5477289611481
+        },
         "id": "1-15",
         "name": "wunde",
         "parentId": "1"
       },
       {
+        "coordinates": {
+          "lat": 7.47330235922791,
+          "lon": -12.3833683440753
+        },
         "id": "2-01",
         "name": "bendu cha",
         "parentId": "2"
       },
       {
+        "coordinates": {
+          "lat": 7.43433617301128,
+          "lon": -11.9675695773302
+        },
         "id": "2-02",
         "name": "bum",
         "parentId": "2"
       },
       {
+        "coordinates": {
+          "lat": 7.5934039802624,
+          "lon": -12.8904426181597
+        },
         "id": "2-03",
         "name": "dema",
         "parentId": "2"
       },
       {
+        "coordinates": {
+          "lat": 7.66387155097725,
+          "lon": -12.3855541925469
+        },
         "id": "2-04",
         "name": "imperri",
         "parentId": "2"
       },
       {
+        "coordinates": {
+          "lat": 7.58391455510996,
+          "lon": -12.2092441510656
+        },
         "id": "2-05",
         "name": "jong",
         "parentId": "2"
       },
       {
+        "coordinates": {
+          "lat": 7.60404293654116,
+          "lon": -12.0308262145756
+        },
         "id": "2-06",
         "name": "kpando kemo",
         "parentId": "2"
       },
       {
+        "coordinates": {
+          "lat": 7.27376000540606,
+          "lon": -11.9861158874446
+        },
         "id": "2-07",
         "name": "kwamebai krim",
         "parentId": "2"
       },
       {
+        "coordinates": {
+          "lat": 7.36614557637767,
+          "lon": -12.2411505408586
+        },
         "id": "2-08",
         "name": "nongoba bullom",
         "parentId": "2"
       },
       {
+        "coordinates": {
+          "lat": 7.54923932784156,
+          "lon": -12.6458335712374
+        },
         "id": "2-09",
         "name": "sitia",
         "parentId": "2"
       },
       {
+        "coordinates": {
+          "lat": 7.5348141009903,
+          "lon": -12.093169780319
+        },
         "id": "2-10",
         "name": "sogbini",
         "parentId": "2"
       },
       {
+        "coordinates": {
+          "lat": 7.43671921303693,
+          "lon": -12.1257777890722
+        },
         "id": "2-11",
         "name": "yawbeko",
         "parentId": "2"
       },
       {
+        "coordinates": {
+          "lat": 7.90108779109818,
+          "lon": -12.4723678985165
+        },
         "id": "3-01",
         "name": "bagruwa",
         "parentId": "3"
       },
       {
+        "coordinates": {
+          "lat": 8.12666182495,
+          "lon": -12.7165067813221
+        },
         "id": "3-02",
         "name": "bumpe",
         "parentId": "3"
       },
       {
+        "coordinates": {
+          "lat": 8.01982687584591,
+          "lon": -12.1548313910924
+        },
         "id": "3-03",
         "name": "dasse",
         "parentId": "3"
       },
       {
+        "coordinates": {
+          "lat": 8.24764602257344,
+          "lon": -12.3056887140512
+        },
         "id": "3-04",
         "name": "fakunya",
         "parentId": "3"
       },
       {
+        "coordinates": {
+          "lat": 7.92612591358969,
+          "lon": -12.7683969011186
+        },
         "id": "3-05",
         "name": "kagboro",
         "parentId": "3"
       },
       {
+        "coordinates": {
+          "lat": 8.11338033534323,
+          "lon": -12.3880074713453
+        },
         "id": "3-06",
         "name": "kaiyamba",
         "parentId": "3"
       },
       {
+        "coordinates": {
+          "lat": 8.2402590798733,
+          "lon": -11.8978258993061
+        },
         "id": "3-07",
         "name": "kamajei",
         "parentId": "3"
       },
       {
+        "coordinates": {
+          "lat": 8.17103451619696,
+          "lon": -12.542516111895
+        },
         "id": "3-08",
         "name": "kongbora",
         "parentId": "3"
       },
       {
+        "coordinates": {
+          "lat": 8.21578210720762,
+          "lon": -12.097041596766
+        },
         "id": "3-09",
         "name": "kori",
         "parentId": "3"
       },
       {
+        "coordinates": {
+          "lat": 8.06952281278788,
+          "lon": -11.9590312037785
+        },
         "id": "3-10",
         "name": "kowa",
         "parentId": "3"
       },
       {
+        "coordinates": {
+          "lat": 7.85241106959796,
+          "lon": -12.2768071800597
+        },
         "id": "3-11",
         "name": "lower banta",
         "parentId": "3"
       },
       {
+        "coordinates": {
+          "lat": 8.25866083361523,
+          "lon": -12.8098743415339
+        },
         "id": "3-12",
         "name": "ribbi",
         "parentId": "3"
       },
       {
+        "coordinates": {
+          "lat": 7.78436492296588,
+          "lon": -12.6651950635922
+        },
         "id": "3-13",
         "name": "timdel",
         "parentId": "3"
       },
       {
+        "coordinates": {
+          "lat": 7.72959173157413,
+          "lon": -12.1821769461887
+        },
         "id": "3-14",
         "name": "upper banta",
         "parentId": "3"
       },
       {
+        "coordinates": {
+          "lat": 7.45920029084239,
+          "lon": -11.4195811539461
+        },
         "id": "4-01",
         "name": "barri",
         "parentId": "4"
       },
       {
+        "coordinates": {
+          "lat": 7.28867043491377,
+          "lon": -11.5650170786058
+        },
         "id": "4-02",
         "name": "gallinas perri",
         "parentId": "4"
       },
       {
+        "coordinates": {
+          "lat": 7.16102621904818,
+          "lon": -11.6366114489699
+        },
         "id": "4-03",
         "name": "kpaka",
         "parentId": "4"
       },
       {
+        "coordinates": {
+          "lat": 7.30574779130045,
+          "lon": -11.2911004515079
+        },
         "id": "4-04",
         "name": "makpele",
         "parentId": "4"
       },
       {
+        "coordinates": {
+          "lat": 7.50400731646137,
+          "lon": -11.8101422497085
+        },
         "id": "4-05",
         "name": "malen",
         "parentId": "4"
       },
       {
+        "coordinates": {
+          "lat": 7.15110494493873,
+          "lon": -11.7732440681877
+        },
         "id": "4-06",
         "name": "mano sakrim",
         "parentId": "4"
       },
       {
+        "coordinates": {
+          "lat": 7.39664651744361,
+          "lon": -11.7332012751525
+        },
         "id": "4-07",
         "name": "panga kabonde",
         "parentId": "4"
       },
       {
+        "coordinates": {
+          "lat": 7.31553271983379,
+          "lon": -11.7687320532183
+        },
         "id": "4-08",
         "name": "panga krim",
         "parentId": "4"
       },
       {
+        "coordinates": {
+          "lat": 7.55118666506043,
+          "lon": -11.5448028672897
+        },
         "id": "4-09",
         "name": "peje",
         "parentId": "4"
       },
       {
+        "coordinates": {
+          "lat": 7.10694322251653,
+          "lon": -11.4484893695079
+        },
         "id": "4-10",
         "name": "soro gbema",
         "parentId": "4"
       },
       {
+        "coordinates": {
+          "lat": 7.57198038515559,
+          "lon": -11.6477319030409
+        },
         "id": "4-11",
         "name": "sowa",
         "parentId": "4"
       },
       {
+        "coordinates": {
+          "lat": 7.22481020824499,
+          "lon": -11.7783295037863
+        },
         "id": "4-12",
         "name": "yakemo kpukumu krim",
         "parentId": "4"
@@ -857,6 +1509,10 @@
         "parentId": "5"
       },
       {
+        "coordinates": {
+          "lat": 7.53259164124122,
+          "lon": -12.5013369911515
+        },
         "id": "5-02",
         "name": "bonthe town",
         "parentId": "5"
@@ -870,339 +1526,423 @@
         "id": "31-10",
         "name": "Aberdeen",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-11",
         "name": "Albert Academy",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-12",
         "name": "Allen Town I",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-13",
         "name": "Allen Town II",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-14",
         "name": "Ascension Town",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-15",
         "name": "Bombay",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-16",
         "name": "Bottom Oku",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-17",
         "name": "Brookfields",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-18",
         "name": "Brookfields-Congo",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-19",
         "name": "Brookfields-Red Pu",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-20",
         "name": "Cline Town",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-21",
         "name": "Cockerill-Aberdeen",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-22",
         "name": "Cockle-Bay / Colleg",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-23",
         "name": "Coconut Farm / Asho",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-24",
         "name": "Congo Town",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-25",
         "name": "Congo Water I",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-26",
         "name": "Congo Water II",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-27",
         "name": "Foulah Town",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-28",
         "name": "Fourah Bay",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-29",
         "name": "George Brook",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-30",
         "name": "Ginger Hall",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-31",
         "name": "Grass Field",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-32",
         "name": "Hill Station",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-33",
         "name": "Industrial Estate (Wellington)",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-34",
         "name": "Jalloh Terrace",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-35",
         "name": "Juba / Kaningo",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-36",
         "name": "Kingtom",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-37",
         "name": "Kissy Brook",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-38",
         "name": "Kissy Bye Pass I",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-39",
         "name": "Kissy Bye Pass II",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-40",
         "name": "Kissy Mental",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-41",
         "name": "Kissy Mess Mess",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-42",
         "name": "Kossoh Town",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-43",
         "name": "Kroo Town",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-44",
         "name": "Kuntolor",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-45",
         "name": "Lowcost Housing",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-46",
         "name": "Lumley",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-47",
         "name": "Magazine",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-48",
         "name": "Malama / Kamayama",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-49",
         "name": "Mamba Ridge I",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-50",
         "name": "Mamba Ridge II",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-51",
         "name": "Mayenkineh",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-52",
         "name": "Mount Aureol",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-53",
         "name": "Mountain Regent",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-54",
         "name": "Murray Town",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-55",
         "name": "New England - Hannes",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-56",
         "name": "New England - Hill C",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-57",
         "name": "Old Warf",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-58",
         "name": "Pamuronko",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-59",
         "name": "Pipelin / Wilkinson",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-60",
         "name": "Portee",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-61",
         "name": "Quarry",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-62",
         "name": "Robis",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-63",
         "name": "Rokupa",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-64",
         "name": "Sanders Brook",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-65",
         "name": "Shell",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-66",
         "name": "Sorie Town",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-67",
         "name": "Susan's Bay",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-68",
         "name": "Tasso Island",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-69",
         "name": "Tengbeh Town",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-70",
         "name": "Thunderhill",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-71",
         "name": "Tower Hill",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "31-72",
         "name": "Wilberforce",
         "parentId": "31"
-      }, {
+      },
+      {
         "id": "32-11",
         "name": "Koya - Fabaina Area",
         "parentId": "32"
-      }, {
+      },
+      {
         "id": "32-12",
         "name": "koya - Madonkeh",
         "parentId": "32"
-      }, {
+      },
+      {
         "id": "32-13",
         "name": "Koya - Magbafti",
         "parentId": "32"
-      }, {
+      },
+      {
         "id": "32-14",
         "name": "Koya - Malambay",
         "parentId": "32"
-      }, {
+      },
+      {
         "id": "32-15",
         "name": "Koya - Newton",
         "parentId": "32"
-      }, {
+      },
+      {
         "id": "32-16",
         "name": "Koya - Songo",
         "parentId": "32"
-      }, {
+      },
+      {
         "id": "32-17",
         "name": "Mountain - Bathurst",
         "parentId": "32"
-      }, {
+      },
+      {
         "id": "32-18",
         "name": "Mountain - Charlotte",
         "parentId": "32"
-      }, {
+      },
+      {
         "id": "32-19",
         "name": "Mountain - Gloucester",
         "parentId": "32"
-      }, {
+      },
+      {
         "id": "32-20",
         "name": "Mountain - Leicester",
         "parentId": "32"
-      }, {
+      },
+      {
         "id": "32-21",
         "name": "Mountain - Regent",
         "parentId": "32"
-      }, {
+      },
+      {
         "id": "32-22",
         "name": "Waterloo - Benguema Village A",
         "parentId": "32"
-      }, {
+      },
+      {
         "id": "32-23",
         "name": "Waterloo - Campbell Town VIII",
         "parentId": "32"
-      }, {
+      },
+      {
         "id": "32-24",
         "name": "Waterloo - Hastings Village A",
         "parentId": "32"
-      }, {
+      },
+      {
         "id": "32-25",
         "name": "Waterloo - Waterloo Village A",
         "parentId": "32"
-      }, {
+      },
+      {
         "id": "32-26",
         "name": "York - Gbendembu",
         "parentId": "32"
-      }, {
+      },
+      {
         "id": "32-27",
         "name": "York - Goderich - Adonkia/M",
         "parentId": "32"
-      }, {
+      },
+      {
         "id": "32-28",
         "name": "York - Goderich - Funkia",
         "parentId": "32"
-      }, {
+      },
+      {
         "id": "32-29",
         "name": "York - Hamilton",
         "parentId": "32"
-      }, {
+      },
+      {
         "id": "32-30",
         "name": "York - Kent",
         "parentId": "32"
-      }, {
+      },
+      {
         "id": "32-31",
         "name": "York - Sattia / Tombo",
         "parentId": "32"
-      }, {
+      },
+      {
         "id": "32-32",
         "name": "York - York",
         "parentId": "32"
