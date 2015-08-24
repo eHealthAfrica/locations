@@ -16,8 +16,8 @@
 */
 
 var fs = require('fs')
-var locations = require('./json/sierra_leone.json')
-var coordinates = require('./sources/sl_coordinates_levels_2_3.json')
+var locations = require('../sources/sierra_leone.json')
+var coordinates = require('../sources/sl_coordinates_levels_2_3.json')
 
 // match locations names with names from the coordinates files, and add the coordinates
 function extract () {
