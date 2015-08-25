@@ -2,9 +2,9 @@
   "name": "locations",
   "version": "2.0.0",
   "description": "JSON location data",
-  "main": "make.js",
+  "main": "readable.js",
+  "license": "MIT",
   "scripts": {
-    "test": "node make.js && mocha"
   },
   "repository": {
     "type": "git",
@@ -13,12 +13,5 @@
   "author": "",
   "bugs": {
     "url": "https://github.com/eHealthAfrica/locations/issues"
-  },
-  "dependencies": {
-    "mustache": "~0.8.2",
-    "lodash": "~2.4.1"
-  },
-  "devDependencies": {
-    "mocha": "~1.21.5"
   }
 }
