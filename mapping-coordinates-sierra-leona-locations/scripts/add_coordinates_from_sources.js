@@ -16,8 +16,9 @@
 */
 
 var fs = require('fs')
-var locations = require('../sources/sierra_leone.json')
+var locations = require('../../json/sierra_leone.json')
 var coordinates = require('../sources/sl_coordinates_levels_2_3.json')
+function hasCoordinates (x) { return !!x.coordinates }
 
 // match locations names with names from the coordinates files, and add the coordinates
 function extract () {
@@ -25,8 +26,9 @@ function extract () {
     if (level.depth > 0) {
       level.items = level.items.map(function (item) {
         var c = coordinates['adminDivision' + (level.depth + 1)][item.name]
-        if (c) {
+        if (!hasCoordinates(item) && c) {
           item.coordinates = c
+          item.deprecated = true
         }
         return item
       })
@@ -40,7 +42,7 @@ function extract () {
 function missing (loc) {
   return loc.map(function (level) {
     if (level.depth > 0) {
-      level.items = level.items.filter(function (item) { return !!item.coordinates })
+      level.items = level.items.filter(function (item) { return hasCoordinates(item) })
     }
     return level
   })

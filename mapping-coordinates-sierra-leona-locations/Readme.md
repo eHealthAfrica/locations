@@ -8,7 +8,7 @@ This folder aims to complete:  `Add geocoords to locations.json file + identify 
 `tree scripts`
 
 scripts
-├── [](add_coordinates_from_sources.js) is the code used to produce the locations with coordinates
+├── [](add_coordinates_from_sources.js) is the code used to produce the locations with coordinates. It currently takes as input the locations file for Sierra Leona
 └── [](complete_coordinates_from_parent_locations.js) is the code used to complete missing coordinates with parent coordiantes
 
 `tree sources`
@@ -33,6 +33,9 @@ files:
 - [](./locations_with_missing_coordinates.txt) lists the names of the locations missing coordinates.
 - [](./manual_mapping.csv) In order to complete the [](./locations_with_missing_coordinates.txt) this manual mappings have been applied
 - [](./locations_with_coordinates_manually_completed.json) is the end file with the added coordinates both by the script and manually.
+- [](./diff_sierra_leona.diff) diff with deprecated readable locations. Used for [adding deprecated locations](https://github.com/eHealthAfrica/sl-ebola-call-admin/issues/904 )
+- [](./diff_sierra_leona_json.diff) diff with deprecated locations. Used for [adding deprecated locations](https://github.com/eHealthAfrica/sl-ebola-call-admin/issues/904 )
+
 
 Run
 ==

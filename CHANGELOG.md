@@ -6,7 +6,8 @@ file. This file is structured according to http://keepachangelog.com/
 - - -
 ## [unreleased]
 ### Added
-Coordinates to some Sierra Leona locations
+Deprecated coordinates (from version 1.7.0 Sierra Leona) with deprecated flag
+Centroid coordinates to Sierra Leone locations we had data for
 
 ## [2.0.0] 02.07.2015
 

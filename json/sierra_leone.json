@@ -2286,6 +2286,113 @@
           "lat": 8.32370413787741,
           "lon": -13.0997193508203
         }
+      },
+      {
+        "id": "31-02",
+        "name": "east ii",
+        "parentId": "31",
+        "coordinates": {
+          "lat": 8.48154503642979,
+          "lon": -13.2182994969562
+        },
+        "deprecated": true
+      },
+      {
+        "id": "31-03",
+        "name": "east iii",
+        "parentId": "31",
+        "coordinates": {
+          "lat": 8.44041385547874,
+          "lon": -13.1719292372613
+        },
+        "deprecated": true
+      },
+      {
+        "id": "31-04",
+        "name": "central i",
+        "parentId": "31",
+        "coordinates": {
+          "lat": 8.4793555530438,
+          "lon": -13.2294763206835
+        },
+        "deprecated": true
+      },
+      {
+        "id": "31-05",
+        "name": "central ii",
+        "parentId": "31",
+        "coordinates": {
+          "lat": 8.48540135491406,
+          "lon": -13.2367200242601
+        },
+        "deprecated": true
+      },
+      {
+        "id": "31-06",
+        "name": "west i",
+        "parentId": "31",
+        "coordinates": {
+          "lat": 8.4838685167465,
+          "lon": -13.2465659625195
+        },
+        "deprecated": true
+      },
+      {
+        "id": "31-07",
+        "name": "west ii",
+        "parentId": "31",
+        "coordinates": {
+          "lat": 8.46914564263616,
+          "lon": -13.2414227399491
+        },
+        "deprecated": true
+      },
+      {
+        "id": "31-08",
+        "name": "west iii",
+        "parentId": "31",
+        "coordinates": {
+          "lat": 8.46624840135427,
+          "lon": -13.2676599246947
+        },
+        "deprecated": true
+      },
+      {
+        "id": "32-01",
+        "name": "koya",
+        "parentId": "32",
+        "coordinates": {
+          "lat": 8.45627580580882,
+          "lon": -12.8545223092469
+        },
+        "deprecated": true
+      },
+      {
+        "id": "32-02",
+        "name": "mountain",
+        "parentId": "32",
+        "coordinates": {
+          "lon": -13.2088936197622,
+          "lat": 8.4304628157938
+        }
+      },
+      {
+        "id": "32-03",
+        "name": "waterloo",
+        "parentId": "32",
+        "coordinates": {
+          "lon": -13.1013860139795,
+          "lat": 8.34559172364164
+        }
+      },
+      {
+        "id": "32-04",
+        "name": "york",
+        "parentId": "32",
+        "coordinates": {
+          "lon": -13.1618315770272,
+          "lat": 8.29971112615566
+        }
       }
     ]
   }
