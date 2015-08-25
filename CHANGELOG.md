@@ -4,12 +4,12 @@ All notable changes to this project will be documented in this
 file. This file is structured according to http://keepachangelog.com/
 
 - - -
-## unreleased
+## [3.0.0] 25.08.2015
 ### Added
 Deprecated coordinates (from version 1.7.0 Sierra Leona) with deprecated flag
-Centroid coordinates to Sierra Leone locations we had data for
+Centroid coordinates to Sierra Leone locations. In case of no info, parent's coordinates
 ### Removed
-Build functionality moved to https://github.com/eHealthAfrica/angular-locations
+Build functionality & tests moved to https://github.com/eHealthAfrica/angular-locations
 
 ## [2.0.0] 02.07.2015
 
@@ -36,3 +36,4 @@ Add DHIS locations for Liberia, deprecate current ones, see story
 belonging to county `1`, Montserrado, in the database. We are keeping
 them, although we are changing the name in order to make it clear that
 they are deprecated
+
