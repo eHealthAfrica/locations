@@ -1,0 +1,184 @@
+[
+ {
+  "json_featuretype":"SR_Admin_Level_2"
+  ,"ADM2_NAME":"Pujehun"
+  ,"ADM2_CODE":"SLE0304"
+  ,"ADM1_NAME":"Southern"
+  ,"ADM1_CODE":"SLE03"
+  ,"CNTRY_NAME":"Sierra Leone"
+  ,"CNTRY_CODE":"SLE"
+  ,"WHO_CODE":"SIL"
+  ,"Difference":-14
+  ,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+  ,"json_geometry":{"type":"Point","coordinates":[-11.5730377996412,7.30967720828693]}
+ }
+ ,{
+   "json_featuretype":"SR_Admin_Level_2"
+   ,"ADM2_NAME":"Bonthe"
+   ,"ADM2_CODE":"SLE0302"
+   ,"ADM1_NAME":"Southern"
+   ,"ADM1_CODE":"SLE03"
+   ,"CNTRY_NAME":"Sierra Leone"
+   ,"CNTRY_CODE":"SLE"
+   ,"WHO_CODE":"SIL"
+   ,"Difference":-4
+   ,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+   ,"json_geometry":{"type":"Point","coordinates":[-12.2806091679861,7.50289333102348]}
+  }
+ ,{
+   "json_featuretype":"SR_Admin_Level_2"
+   ,"ADM2_NAME":"Kenema"
+   ,"ADM2_CODE":"SLE0102"
+   ,"ADM1_NAME":"Eastern"
+   ,"ADM1_CODE":"SLE01"
+   ,"CNTRY_NAME":"Sierra Leone"
+   ,"CNTRY_CODE":"SLE"
+   ,"WHO_CODE":"SIL"
+   ,"Difference":-41
+   ,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+   ,"json_geometry":{"type":"Point","coordinates":[-11.1961678904605,7.94623190282982]}
+  }
+ ,{
+   "json_featuretype":"SR_Admin_Level_2"
+   ,"ADM2_NAME":"Bo"
+   ,"ADM2_CODE":"SLE0301"
+   ,"ADM1_NAME":"Southern"
+   ,"ADM1_CODE":"SLE03"
+   ,"CNTRY_NAME":"Sierra Leone"
+   ,"CNTRY_CODE":"SLE"
+   ,"WHO_CODE":"SIL"
+   ,"Difference":-93
+   ,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+   ,"json_geometry":{"type":"Point","coordinates":[-11.7196907051462,7.96276438159488]}
+  }
+ ,{
+   "json_featuretype":"SR_Admin_Level_2"
+   ,"ADM2_NAME":"Moyamba"
+   ,"ADM2_CODE":"SLE0303"
+   ,"ADM1_NAME":"Southern"
+   ,"ADM1_CODE":"SLE03"
+   ,"CNTRY_NAME":"Sierra Leone"
+   ,"CNTRY_CODE":"SLE"
+   ,"WHO_CODE":"SIL"
+   ,"Difference":-32
+   ,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+   ,"json_geometry":{"type":"Point","coordinates":[-12.4261830981779,8.06365373534222]}
+  }
+ ,{
+   "json_featuretype":"SR_Admin_Level_2"
+   ,"ADM2_NAME":"Kailahun"
+   ,"ADM2_CODE":"SLE0101"
+   ,"ADM1_NAME":"Eastern"
+   ,"ADM1_CODE":"SLE01"
+   ,"CNTRY_NAME":"Sierra Leone"
+   ,"CNTRY_CODE":"SLE"
+   ,"WHO_CODE":"SIL"
+   ,"Difference":-5
+   ,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+   ,"json_geometry":{"type":"Point","coordinates":[-10.6935678546489,8.08778993310664]}
+  }
+ ,{
+   "json_featuretype":"SR_Admin_Level_2"
+   ,"ADM2_NAME":"Western Rural"
+   ,"ADM2_CODE":"SLE0401"
+   ,"ADM1_NAME":"Western"
+   ,"ADM1_CODE":"SLE04"
+   ,"CNTRY_NAME":"Sierra Leone"
+   ,"CNTRY_CODE":"SLE"
+   ,"WHO_CODE":"SIL"
+   ,"Difference":-59
+   ,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+   ,"json_geometry":{"type":"Point","coordinates":[-13.0997193508203,8.32370413787741]}
+  }
+ ,{
+   "json_featuretype":"SR_Admin_Level_2"
+   ,"ADM2_NAME":"Kono"
+   ,"ADM2_CODE":"SLE0103"
+   ,"ADM1_NAME":"Eastern"
+   ,"ADM1_CODE":"SLE01"
+   ,"CNTRY_NAME":"Sierra Leone"
+   ,"CNTRY_CODE":"SLE"
+   ,"WHO_CODE":"SIL"
+   ,"Difference":-36
+   ,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+   ,"json_geometry":{"type":"Point","coordinates":[-10.9395436641229,8.6934229701536]}
+  }
+ ,{
+   "json_featuretype":"SR_Admin_Level_2"
+   ,"ADM2_NAME":"Western Urban"
+   ,"ADM2_CODE":"SLE0402"
+   ,"ADM1_NAME":"Western"
+   ,"ADM1_CODE":"SLE04"
+   ,"CNTRY_NAME":"Sierra Leone"
+   ,"CNTRY_CODE":"SLE"
+   ,"WHO_CODE":"SIL"
+   ,"Difference":-130
+   ,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+   ,"json_geometry":{"type":"Point","coordinates":[-13.1990776868318,8.46451240712045]}
+  }
+ ,{
+   "json_featuretype":"SR_Admin_Level_2"
+   ,"ADM2_NAME":"Tonkolili"
+   ,"ADM2_CODE":"SLE0205"
+   ,"ADM1_NAME":"Northern"
+   ,"ADM1_CODE":"SLE02"
+   ,"CNTRY_NAME":"Sierra Leone"
+   ,"CNTRY_CODE":"SLE"
+   ,"WHO_CODE":"SIL"
+   ,"Difference":-29
+   ,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+   ,"json_geometry":{"type":"Point","coordinates":[-11.882454265453,8.66821758743615]}
+  }
+ ,{
+   "json_featuretype":"SR_Admin_Level_2"
+   ,"ADM2_NAME":"Port Loko"
+   ,"ADM2_CODE":"SLE0204"
+   ,"ADM1_NAME":"Northern"
+   ,"ADM1_CODE":"SLE02"
+   ,"CNTRY_NAME":"Sierra Leone"
+   ,"CNTRY_CODE":"SLE"
+   ,"WHO_CODE":"SIL"
+   ,"Difference":-15
+   ,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+   ,"json_geometry":{"type":"Point","coordinates":[-12.743056637234,8.72599068493539]}
+  }
+ ,{
+   "json_featuretype":"SR_Admin_Level_2"
+   ,"ADM2_NAME":"Bombali"
+   ,"ADM2_CODE":"SLE0201"
+   ,"ADM1_NAME":"Northern"
+   ,"ADM1_CODE":"SLE02"
+   ,"CNTRY_NAME":"Sierra Leone"
+   ,"CNTRY_CODE":"SLE"
+   ,"WHO_CODE":"SIL"
+   ,"Difference":-4
+   ,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+   ,"json_geometry":{"type":"Point","coordinates":[-12.1664340441872,9.31924294734618]}
+  }
+ ,{
+   "json_featuretype":"SR_Admin_Level_2"
+   ,"ADM2_NAME":"Kambia"
+   ,"ADM2_CODE":"SLE0202"
+   ,"ADM1_NAME":"Northern"
+   ,"ADM1_CODE":"SLE02"
+   ,"CNTRY_NAME":"Sierra Leone"
+   ,"CNTRY_CODE":"SLE"
+   ,"WHO_CODE":"SIL"
+   ,"Difference":36
+   ,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+   ,"json_geometry":{"type":"Point","coordinates":[-12.8092451667966,9.18416019513434]}
+  }
+ ,{
+   "json_featuretype":"SR_Admin_Level_2"
+   ,"ADM2_NAME":"Koinadugu"
+   ,"ADM2_CODE":"SLE0203"
+   ,"ADM1_NAME":"Northern"
+   ,"ADM1_CODE":"SLE02"
+   ,"CNTRY_NAME":"Sierra Leone"
+   ,"CNTRY_CODE":"SLE"
+   ,"WHO_CODE":"SIL"
+   ,"Difference":7
+   ,"json_ogc_wkt_crs":"GEOGCS[\"WGS84 Lat/Longs\",DATUM[\"WGS_1984\",SPHEROID[\"World Geodetic System of 1984, GEM 10C\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+   ,"json_geometry":{"type":"Point","coordinates":[-11.3432788947695,9.44997930513683]}
+  }
+]
