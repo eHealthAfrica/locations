@@ -8,16 +8,16 @@ This folder aims to complete:  `Add geocoords to locations.json file + identify 
 `tree scripts`
 
 scripts
-- ├── [add_coordinates_from_sources.js](add_coordinates_from_sources.js) is the code used to produce the locations with coordinates. It currently takes as input the locations file for Sierra Leona
-- └── [complete_coordinates_from_parent_locations.js](complete_coordinates_from_parent_locations.js) is the code used to complete missing coordinates with parent coordiantes
+- ├── [add_coordinates_from_sources.js](scripts/add_coordinates_from_sources.js) is the code used to produce the locations with coordinates. It currently takes as input the locations file for Sierra Leona
+- └── [complete_coordinates_from_parent_locations.js](scripts/complete_coordinates_from_parent_locations.js) is the code used to complete missing coordinates with parent coordiantes
 
 `tree sources`
 
 sources
-- ├── [sierra_leone.json](sierra_leone.json) source file without coordinates
-- ├── [sl-level-2.json](sl-level-2.json) GIS provided file with locations + coordinates
-- ├── [sl-level-3.json](sl-level-3.json) GIS provided file with locations + coordinates
-- └── [sl_coordinates_levels_2_3.json](sl_coordinates_levels_2_3.json) Generated source file from https://github.com/eHealthAfrica/search/blob/master/resources/elasticsearch/scripts/transform/GeoLocations.groovy
+- ├── [sierra_leone.json](sources/sierra_leone.json) source file without coordinates
+- ├── [sl-level-2.json](sources/sl-level-2.json) GIS provided file with locations + coordinates
+- ├── [sl-level-3.json](sources/sl-level-3.json) GIS provided file with locations + coordinates
+- └── [sl_coordinates_levels_2_3.json](sources/sl_coordinates_levels_2_3.json) Generated source file from https://github.com/eHealthAfrica/search/blob/master/resources/elasticsearch/scripts/transform/GeoLocations.groovy
 
 
 coordinates are added to each matched entries:
