@@ -2288,6 +2288,16 @@
         }
       },
       {
+        "id": "31-01",
+        "name": "east i",
+        "parentId": "31",
+        "coordinates": {
+          "lat": 8.48847896579152,
+          "lon": -13.2127543789937
+        },
+        "deprecated": true
+      },
+      {
         "id": "31-02",
         "name": "east ii",
         "parentId": "31",
