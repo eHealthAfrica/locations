@@ -1,6 +1,6 @@
 {
   "name": "locations",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "JSON location data",
   "main": "readable.js",
   "license": "MIT",

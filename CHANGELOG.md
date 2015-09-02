@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this
 file. This file is structured according to http://keepachangelog.com/
 
 - - -
+## [3.0.1] 02.09.2015
+### Added
+missing AdminDivision3 location to restore for SL (31-01)
+
 ## [3.0.0] 25.08.2015
 ### Added
 Deprecated coordinates (from version 1.7.0 Sierra Leona) with deprecated flag
