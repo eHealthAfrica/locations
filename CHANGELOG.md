@@ -12,6 +12,7 @@ missing AdminDivision3 location to restore for SL (31-01)
 ### Added
 - Deprecated some chiefdoms (from version 1.7.0 Sierra Leona) with deprecated flag
 - Centroid coordinates to Sierra Leone locations. In case of no info, parent's coordinates
+
 ### Removed
 - Build functionality & tests moved to https://github.com/eHealthAfrica/angular-locations
 
