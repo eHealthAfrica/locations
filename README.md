@@ -23,3 +23,12 @@ Adding a country requires 3 steps:
 There's a node.js CLI tool called `readable.js` in root. Run it with `$ node readable.js [countryName]`, for example `$ node readable.js guinea`.
 
 To save the output to a text file, do `$ node readable.js guinea > guinea.txt`
+
+### Providing GeoJson Locations
+
+There's a node.js CLI tool called `toGeoJSON.js` in root. Run it with `$ node toGeoJSON.js [countryName]`, for example `$ node toGeoJSON.js`.
+
+To save the output to a text file, do `$ node toGeoJSON.js guinea > geojson.json`
+
+It provides an output conforming with the [GeoJSON format](http://geojson.org/), ready to be loaded in tools like [geojson.io](http://geojson.io), were the
+locations can be visualized in the map if they have coordinates
