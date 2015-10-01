@@ -24,7 +24,7 @@ There's a node.js CLI tool called `readable.js` in root. Run it with `$ node rea
 
 To save the output to a text file, do `$ node readable.js guinea > guinea.txt`
 
-### Providing GeoJson Locations
+### Providing GeoJson Locations (for locations with coordinates)
 
 There's a node.js CLI tool called `toGeoJSON.js` in root. Run it with `$ node toGeoJSON.js [countryName]`, for example `$ node toGeoJSON.js`.
 
@@ -32,3 +32,11 @@ To save the output to a text file, do `$ node toGeoJSON.js guinea > geojson.json
 
 It provides an output conforming with the [GeoJSON format](http://geojson.org/), ready to be loaded in tools like [geojson.io](http://geojson.io), were the
 locations can be visualized in the map if they have coordinates
+
+### Fast visualizing geocoordinates
+
+the `toURL.js` script will output a url ready to be consumed by [geojson.io](http://geojson.io)
+
+example:
+`$ url=$(node toGeoJSON.js [countryName] | node toURL.js)  && open -a Firefox $url`
+

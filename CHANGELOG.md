@@ -9,6 +9,7 @@ file. This file is structured according to http://keepachangelog.com/
 - docs(license): added Apache-2.0
 ### Added
 - feat(tools): tranform to GeoJSON
+- feat(tools): add pipe script to get URL ready to be used with http://geojson.io
 
 ## [3.0.1] 02.09.2015
 ### Added

@@ -78,7 +78,6 @@ if (process.argv.length === 2) {
     process.exit(1)
   }
   data = JSON.parse(dataString)
-  console.log('')
   iterateThroughRegions()
 
   console.log(JSON.stringify(
