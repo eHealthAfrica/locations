@@ -6,7 +6,7 @@
     "danse <f.occhipinti@gmail.com>"
   ],
   "description": "JSON location data",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "main": "angular-modules/all.js",
   "ignore": [
     "**/.*",

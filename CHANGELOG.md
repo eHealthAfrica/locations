@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this
 file. This file is structured according to http://keepachangelog.com/
 
 - - -
+## [unreleased]
+### Changed
+- docs(license): added Apache-2.0
+
 ## [3.0.1] 02.09.2015
 ### Added
 missing AdminDivision3 location to restore for SL (31-01)
