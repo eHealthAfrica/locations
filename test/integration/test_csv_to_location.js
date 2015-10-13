@@ -7,7 +7,7 @@ test('from file to location object', function (t) {
       path: 'history/sierra_leone/add_sections_localities_admin_divisions/sources/bo_village.csv'
     })
   stream.on('finish', function () {
-    t.equals(stream.output.children[0].name, 'Badjia', 'location loaded properly')
+    t.equals(stream.output.children[0].name, 'badjia', 'location loaded properly')
     t.end()
   })
 })
