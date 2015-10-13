@@ -4,7 +4,8 @@ All notable changes to this project will be documented in this
 file. This file is structured according to http://keepachangelog.com/
 
 - - -
-## [unreleased]
+	
+## 3.1.0 13.10.2015
 ### Changed
 - docs(license): added Apache-2.0
 ### Added
