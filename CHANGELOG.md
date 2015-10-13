@@ -8,6 +8,8 @@ file. This file is structured according to http://keepachangelog.com/
 ### Changed
 - docs(license): added Apache-2.0
 ### Added
+- feat(locations): add level4 (section) and level 5 (locality) to some SL districts
+- feat(tools): library around a Location model to transform csv -> JSON locations file format
 - feat(tools): tranform to GeoJSON
 - feat(tools): add pipe script to get URL ready to be used with http://geojson.io
 

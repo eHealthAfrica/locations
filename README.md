@@ -8,6 +8,13 @@ JSON files listing locations in
 - Sierra Leone
 - Madagascar
 
+
+### Data Model
+
+We don't have an explicit (yet) data model for the json objects stored in the JSON files.
+Whenever data-models is referenced in the documentaiton of the project, it referes to the [informal-conventional data-model we
+are using for the JSON files in](./json/README.md)
+
 ### Adding locations
 
 Data is provided as JSON files in order to be used in all
@@ -40,3 +47,7 @@ the `toURL.js` script will output a url ready to be consumed by [geojson.io](htt
 example:
 `$ url=$(node toGeoJSON.js [countryName] | node toURL.js)  && open -a Firefox $url`
 
+### History of added locations
+
+The folder ./history contains the history of the different tasks to add locations.
+Some of this tasks use the code in the ./lib folder.
