@@ -5,6 +5,10 @@ file. This file is structured according to http://keepachangelog.com/
 
 - - -
 ## 3.1.1 14.10.2015
+
+Note that this version is not breaking, because version 3.1 did not
+make it to any production system
+
 ### Removed
 - feat(locations): level 5 (locality); wasn't required.
 
