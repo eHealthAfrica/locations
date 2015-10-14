@@ -4,7 +4,10 @@ All notable changes to this project will be documented in this
 file. This file is structured according to http://keepachangelog.com/
 
 - - -
-	
+## 3.1.1 14.10.2015
+### Removed
+- feat(locations): level 5 (locality); wasn't required.
+
 ## 3.1.0 13.10.2015
 ### Changed
 - docs(license): added Apache-2.0
