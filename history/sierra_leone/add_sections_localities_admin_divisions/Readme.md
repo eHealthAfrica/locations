@@ -35,7 +35,7 @@ match the already present id in the json/sierra_leone.json file.
 changes:
 - bo:  exchange `bagbe` and `bagbo`
 - bobmali: added dummy line for `bombali sebora`
-- kailahun :  put kissi tongi after kissi teng
+- kailahun :  put kissi tongi after kissi teng. Fix mispell error in the source: Corrected Kisis Tongi to Kissi Tongi
 - kambia: exchange `bramaia` with `gbinle dixin`
 - koinadugu NOTE making `dembelia musaia` === `folosaba dembelia` see comments in https://github.com/eHealthAfrica/sl-ebola-call-admin/issues/959
 - pujehun  Kpanga - Kabonde  moved after `Mano Sakrim`. `Futa Pejeh` moved after `Panga Krim`
