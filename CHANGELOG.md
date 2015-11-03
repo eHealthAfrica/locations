@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this
 file. This file is structured according to http://keepachangelog.com/
 
 - - -
+## 3.1.3 03.11.2015
+
+###Fixed
+- corrected locations with parentId '11-15' refering to unexistant parent (2) part
+
 ## 3.1.2 27.10.2015
 
 ###Fixed
