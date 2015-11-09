@@ -1,0 +1,1143 @@
+
+
+---- with Levensthein distance  0 found 1057 -----
+
+source name, source unified, source id, matched name, matched unified, matched id
+Bapawa, bapawa, SLE03041202, bapawa, bapawa, 4-12-09
+Batowa, batowa, SLE03041203, batowa, batowa, 4-12-12
+Bekowa, bekowa, SLE03041204, bekowa, bekowa, 4-12-02
+Deyombo, deyombo, SLE03041205, deyombo, deyombo, 4-12-11
+Fortune, fortune, SLE03041206, fortune, fortune, 4-12-03
+Kpukumu, kpukumu, SLE03041209, kpukumu, kpukumu, 4-12-08
+Seiwoh, seiwoh, SLE03041210, seiwoh, seiwoh, 4-12-07
+Yabai, yabai, SLE03041212, yabai, yabai, 4-12-04
+Bakoi, bakoi, SLE03040401, bakoi, bakoi, 4-07-03
+Kemo-Bo, kemobo, SLE03041207, kemo bo, kemobo, 4-12-05
+Banyande, banyande, SLE03040402, banyande, banyande, 4-07-07
+Pelegbulor, pelegbulor, SLE03040213, pelegbulor, pelegbulor, 4-02-08
+Jassende Kpeima, jassendekp, SLE03040301, jassende kpeima, jassendekp, 4-03-02
+Jassende Masaoma, jassendema, SLE03040302, jassende masaoma, jassendema, 4-03-05
+Kabonde, kabonde, SLE03040403, kabonde, kabonde, 4-07-01
+Fikie, fikie, SLE03020201, fikie, fikie, 2-02-01
+Vanjelu, vanjelu, SLE03011406, vanjelu, vanjelu, 1-14-08
+Dakona, dakona, SLE03040101, dakona, dakona, 4-01-08
+Gbengain, gbengain, SLE03020202, gbengain, gbengain, 2-02-02
+Kondogbe, kondogbe, SLE03040404, kondogbe, kondogbe, 4-07-04
+Petifu Bana, petifubana, SLE02040208, petifu bana, petifubana, 24-02-12
+Gbondubum, gbondubum, SLE03020203, gbondubum, gbondubum, 2-02-03
+Duramania, duramania, SLE02020104, duramania, duramania, 22-02-04
+Senjehun, senjehun, SLE03020604, senjehun, senjehun, 2-06-04
+Taokunor, taokunor, SLE03020606, taokunor, taokunor, 2-06-06
+Kwako Lanten, kwakolante, SLE03020702, kwako lanteh, kwakolante, 2-07-03
+Massa Settie, massasetti, SLE03020703, massa settie, massasetti, 2-07-01
+Mosenten Sahen II, mosentensa, SLE03020704, mosenten sahen i, mosentensa, 2-07-06
+Tubla, tubla, SLE03020705, tubla, tubla, 2-07-05
+Bullom, bullom, SLE03020803, bullom, bullom, 2-08-03
+Garinga, garinga, SLE03020804, garinga, garinga, 2-08-04
+Gbangbassa, gbangbassa, SLE03020805, gbangbassa, gbangbassa, 2-08-05
+Gbap, gbap, SLE03020806, gbap, gbap, 2-08-06
+Hahun, hahun, SLE03020807, hahun, hahun, 2-08-07
+Kessie, kessie, SLE03020808, kessie, kessie, 2-08-08
+Manyime, manyime, SLE03020809, manyime, manyime, 2-08-09
+Pelewahun, pelewahun, SLE03020810, pelewahun, pelewahun, 2-08-10
+Salma, salma, SLE03020811, salma, salma, 2-08-11
+Solon, solon, SLE03020812, solon, solon, 2-08-12
+Torma Subu, tormasubu, SLE03020813, torma subu, tormasubu, 2-08-13
+Sahaya, sahaya, SLE03020908, sahaya, sahaya, 2-09-05
+Sahn-Gbegu, sahngbegu, SLE03020909, sahn gbegu, sahngbegu, 2-09-12
+Sampoh, sampoh, SLE03020910, sampoh, sampoh, 2-09-07
+Roponka, roponka, SLE02040517, roponka, roponka, 24-05-17
+Fallay, fallay, SLE03040102, fallay, fallay, 4-01-09
+Jougba, jougba, SLE03040103, jougba, jougba, 4-01-02
+Karjei, karjei, SLE03040104, karjei, karjei, 4-01-07
+Bondor, bondor, SLE03040201, bondor, bondor, 4-02-09
+Dabeni, dabeni, SLE03040202, dabeni, dabeni, 4-02-10
+Malla, malla, SLE03040106, malla, malla, 4-01-04
+Sonjour I, sonjouri, SLE03040107, sonjour i, sonjouri, 4-01-05
+Sonjour II, sonjourii, SLE03040108, sonjour ii, sonjourii, 4-01-06
+Tetima, tetima, SLE03040109, tetima, tetima, 4-01-03
+Jassende Ngoleima, jassendeng, SLE03040304, jassende ngoliema, jassendeng, 4-03-06
+Dakona, dakona, SLE03040203, dakona, dakona, 4-02-07
+Gendema I, gendemai, SLE03040204, gendema i, gendemai, 4-02-13
+Gendema II, gendemaii, SLE03040205, gendema ii, gendemaii, 4-02-11
+Kemo-wa, kemowa, SLE03041208, kemo - wa, kemowa, 4-12-06
+Joya, joya, SLE03040208, joya, joya, 4-02-01
+Kemokai, kemokai, SLE03040209, kemokai, kemokai, 4-02-12
+Mallah, mallah, SLE03040211, mallah, mallah, 4-02-06
+Mewah, mewah, SLE03040212, mewah, mewah, 4-02-03
+Nyango - Njeigbla, nyangonjei, SLE03040305, nyango - njeigbla, nyangonjei, 4-03-04
+Parvu, parvu, SLE03040307, parvu, parvu, 4-03-01
+Sarbah, sarbah, SLE03040308, sarbah, sarbah, 4-03-03
+Lower Kayiemba, lowerkayie, SLE03040405, lower kayiemba, lowerkayie, 4-07-09
+Samba, samba, SLE03040408, samba, samba, 4-07-02
+Upper Kayiemba, upperkayie, SLE03040410, upper kayiemba, upperkayie, 4-07-05
+Kengo, kengo, SLE03040501, kengo, kengo, 4-04-02
+Pessekeh, pessekeh, SLE03040407, pessekeh, pessekeh, 4-07-06
+Setti -  Yakanday, settiyakan, SLE03040409, setti - yakanday, settiyakan, 4-07-08
+Samagbe, samagbe, SLE03040502, samagbe, samagbe, 4-04-03
+Kakpanda, kakpanda, SLE03040603, kakpanda, kakpanda, 4-05-01
+Seitua, seitua, SLE03040503, seitua, seitua, 4-04-01
+Selimeh, selimeh, SLE03040504, selimeh, selimeh, 4-04-04
+Bahoin, bahoin, SLE03040601, bahoin, bahoin, 4-05-04
+Kahaimoh, kahaimoh, SLE03040602, kahaimoh, kahaimoh, 4-05-09
+Kemoh, kemoh, SLE03040604, kemoh, kemoh, 4-06-05
+Sabba II, sabbaii, SLE03041103, sabba ii, sabbaii, 4-11-02
+Korwa, korwa, SLE03040605, korwa, korwa, 4-05-03
+Lower Pemba, lowerpemba, SLE03040606, lower pemba, lowerpemba, 4-05-08
+Seijeila, seijeila, SLE03040607, seijeila, seijeila, 4-05-07
+Taukunor, taukunor, SLE03040608, taukunor, taukunor, 4-05-02
+Upper Pemba, upperpemba, SLE03040609, upper pemba, upperpemba, 4-05-05
+Fassei, fassei, SLE03040801, fassei, fassei, 4-08-03
+Nimima, nimima, SLE01011205, nimima, nimima, 11-12-05
+Pemagbie, pemagbie, SLE03040802, pemagbie, pemagbie, 4-08-01
+Samba, samba, SLE03040803, samba, samba, 4-08-02
+Somasa, somasa, SLE03040804, somasa, somasa, 4-08-04
+Koilenga, koilenga, SLE03040901, koilenga, koilenga, 4-09-01
+Pejeh East, pejeheast, SLE03040902, pejeh east, pejeheast, 4-09-03
+Pejeh West, pejehwest, SLE03040903, pejeh west, pejehwest, 4-09-02
+Kemokai, kemokai, SLE03041001, kemokai, kemokai, 4-10-06
+Kengo, kengo, SLE03041002, kengo, kengo, 4-10-10
+Kiazombo, kiazombo, SLE03041003, kiazombo, kiazombo, 4-10-01
+Mano - River, manoriver, SLE03041004, mano-river, manoriver, 4-10-02
+Massaquoi I, massaquoii, SLE03041005, massaquoi ii, massaquoii, 4-10-05
+Massaquoi II, massaquoii, SLE03041006, massaquoi i, massaquoii, 4-10-04
+Moiwebu, moiwebu, SLE03041007, moiwebu, moiwebu, 4-10-03
+Sabba I, sabbai, SLE03041102, sabba i, sabbai, 4-11-01
+Upper Geoma, uppergeoma, SLE03041104, upper geoma, uppergeoma, 4-11-03
+Zoker I, zokeri, SLE03041008, zoker i, zokeri, 4-10-08
+Zoker II, zokerii, SLE03041009, zoker ii, zokerii, 4-10-09
+Zombo, zombo, SLE03041010, zombo, zombo, 4-10-07
+Lower Geoma, lowergeoma, SLE03041101, lower geoma, lowergeoma, 4-11-04
+Gba-Cha, gbacha, SLE03020101, gba- cha, gbacha, 2-01-04
+Sokenteh, sokenteh, SLE03020102, sokenteh, sokenteh, 2-01-01
+Tissagbe, tissagbe, SLE03020103, tissagbe, tissagbe, 2-01-03
+Yallan-gbokie, yallangbok, SLE03020104, yallan - gbokie, yallangbok, 2-01-02
+Koimato, koimato, SLE03020204, koimato, koimato, 2-02-04
+Lanje, lanje, SLE03020205, lanje, lanje, 2-02-05
+Tamba, tamba, SLE03020206, tamba, tamba, 2-02-06
+Torma, torma, SLE03020207, torma, torma, 2-02-07
+Tun-Tun Sullay, tuntunsull, SLE03020706, tun - tun sullay, tuntunsull, 2-07-07
+Yawma, yawma, SLE03020209, yawma, yawma, 2-02-09
+Chepo, chepo, SLE03020301, chepo, chepo, 2-03-02
+Dema, dema, SLE03020302, dema, dema, 2-03
+Yoh, yoh, SLE03020304, yoh, yoh, 2-03-04
+Babum, babum, SLE03020401, babum, babum, 2-04-06
+Bapus, bapus, SLE03020402, bapus, bapus, 2-04-01
+Bigo, bigo, SLE03020403, bigo, bigo, 2-04-05
+Baoma, baoma, SLE03020801, baoma, baoma, 2-08-01
+Moimaligie, moimaligie, SLE03020405, moimaligie, moimaligie, 2-04-04
+Basiaka, basiaka, SLE03020501, basiaka, basiaka, 2-05-01
+Bayengbe, bayengbe, SLE03020502, bayengbe, bayengbe, 2-05-02
+Sokrapan, sokrapan, SLE03020406, sokrapan, sokrapan, 2-04-03
+Beyinga, beyinga, SLE03020503, beyinga, beyinga, 2-05-03
+Falewuja, falewuja, SLE03020504, falewuja, falewuja, 2-05-04
+Kumabeh-Kwe, kumabehkwe, SLE03020505, kumabeh - kwe, kumabehkwe, 2-05-05
+Landi-Ngere, landingere, SLE03020506, landi - ngere, landingere, 2-05-06
+Timbo, timbo, SLE02011015, timbo, timbo, 21-10-15
+Sopan-Cleveland, sopancleve, SLE03020507, sopan - clevelan, sopancleve, 2-05-07
+Tucker-Nyambe, tuckernyam, SLE03020508, tucker - nyambe, tuckernyam, 2-05-08
+Bewoni, bewoni, SLE03020602, bewoni, bewoni, 2-06-02
+Gbonge, gbonge, SLE03020603, gbonge, gbonge, 2-06-03
+Bamba, bamba, SLE03020901, bamba, bamba, 2-09-03
+Gonoh, gonoh, SLE03020902, gonoh, gonoh, 2-09-11
+Kamai, kamai, SLE03020903, kamai, kamai, 2-09-06
+Kwalloh, kwalloh, SLE03020904, kwalloh, kwalloh, 2-09-08
+Moh, moh, SLE03020905, moh, moh, 2-09-09
+Ngepay, ngepay, SLE03020906, ngepay, ngepay, 2-09-04
+Saama, saama, SLE03020907, saama, saama, 2-09-10
+Yoni, yoni, SLE03020911, yoni, yoni, 2-09-02
+Bakumba, bakumba, SLE03021001, bakumba, bakumba, 2-10-03
+Beyorgboh, beyorgboh, SLE03021002, beyorgboh, beyorgboh, 2-10-02
+Ndopie, ndopie, SLE03021003, ndopie, ndopie, 2-10-01
+Pengor, pengor, SLE03021004, pengor, pengor, 2-10-04
+Hahun, hahun, SLE03021102, hahun, hahun, 2-11-02
+Ketaway, ketaway, SLE03021103, ketaway, ketaway, 2-11-03
+Semabu, semabu, SLE03030309, semabu, semabu, 3-03-09
+Old Town, oldtown, SLE03011203, old town, oldtown, 1-12-01
+Yorma, yorma, SLE03021105, yorma, yorma, 2-11-05
+Kawaya, kawaya, SLE03030103, kawaya, kawaya, 3-01-03
+Benduma, benduma, SLE03030101, benduma, benduma, 3-01-01
+Bambuibu Tommy, bambuibuto, SLE03030301, bambuibu tommy, bambuibuto, 3-03-01
+Kigbai, kigbai, SLE03030104, kigbai, kigbai, 3-01-04
+Mani, mani, SLE03030105, mani, mani, 3-01-05
+Bongoya, bongoya, SLE03030302, bongoya, bongoya, 3-03-02
+Mokassi, mokassi, SLE03030106, mokassi, mokassi, 3-01-06
+Moseilolo, moseilolo, SLE03030107, moseilolo, moseilolo, 3-01-07
+Bellentin, bellentin, SLE03030201, bellentin, bellentin, 3-02-01
+Palima, palima, SLE03030108, palima, palima, 3-01-08
+Sembehun, sembehun, SLE03030109, sembehun, sembehun, 3-01-09
+Wonkifore, wonkifore, SLE03030313, wonkifore, wonkifore, 3-03-13
+Bumpeh, bumpeh, SLE03030202, bumpeh, bumpeh, 3-02-02
+Greema, greema, SLE03030203, greema, greema, 3-02-03
+Saiama, saiama, SLE03030211, saiama, saiama, 3-02-11
+Kassipoto, kassipoto, SLE03030204, kassipoto, kassipoto, 3-02-04
+Mamu, mamu, SLE03030205, mamu, mamu, 3-02-05
+Domboma, domboma, SLE03030303, domboma, domboma, 3-03-03
+Massah, massah, SLE03030206, massah, massah, 3-02-06
+Mokebbie, mokebbie, SLE03030208, mokebbie, mokebbie, 3-02-07
+Motobon, motobon, SLE03030209, motobon, motobon, 3-02-09
+Moyemi, moyemi, SLE03030210, moyemi, moyemi, 3-02-10
+Foya Tewei, foyatewei, SLE03030304, foya tewei, foyatewei, 3-03-04
+Samu, samu, SLE03030212, samu, samu, 3-02-12
+Yengessa, yengessa, SLE03030213, yengessa, yengessa, 3-02-13
+Jayahun, jayahun, SLE03030305, jayahun, jayahun, 3-03-05
+Kenema, kenema, SLE03030306, kenema, kenema, 3-03-06
+Mano, mano, SLE03030307, mano, mano, 3-03-07
+Niti Korley, nitikorley, SLE03030308, niti korley, nitikorley, 3-03-08
+Taninahun Gomoh, taninahung, SLE03030310, taninahun gomoh, taninahung, 3-03-10
+Taninahun Kapuima, taninahunk, SLE03030311, taninahun kapuima, taninahunk, 3-03-11
+Timindi, timindi, SLE03030312, timindi, timindi, 3-03-12
+Fallay, fallay, SLE01021302, fallay, fallay, 12-13-02
+Fakoi, fakoi, SLE03030401, fakoi, fakoi, 3-04-01
+Gandorhun Central, gandorhunc, SLE03030402, gandorhun -centra, gandorhunc, 3-04-02
+Kovella, kovella, SLE03030403, kovella, kovella, 3-04-03
+Sandaru, sandaru, SLE01020305, sandaru, sandaru, 12-03-05
+Kpangulgo, kpangulgo, SLE03030404, kpangulgo, kpangulgo, 3-04-04
+Kunyafoi, kunyafoi, SLE03030405, kunyafoi, kunyafoi, 3-04-05
+Maninga, maninga, SLE03030406, maninga, maninga, 3-04-06
+Njawa, njawa, SLE03030407, njawa, njawa, 3-04-07
+Songo, songo, SLE03030408, songo, songo, 3-04-08
+Mobeh, mobeh, SLE03030508, mobeh, mobeh, 3-05-08
+Tangbla, tangbla, SLE03030409, tangbla, tangbla, 3-04-09
+To - Ndambalenga, tondambale, SLE03030410, to-ndambalenga, tondambale, 3-04-10
+Tullu, tullu, SLE03030411, tullu, tullu, 3-04-11
+Bendu A, bendua, SLE03030501, bendu (a), bendua, 3-05-01
+Gbuallay, gbuallay, SLE03030504, gbuallay, gbuallay, 3-05-04
+Sembehun, sembehun, SLE01020306, sembehun, sembehun, 12-03-06
+Bendu B, bendub, SLE03030502, bendu (b), bendub, 3-05-02
+Bumpetoke, bumpetoke, SLE03030503, bumpetoke, bumpetoke, 3-05-03
+Mano, mano, SLE03030507, mano, mano, 3-05-07
+Konolor, konolor, SLE03030505, konolor, konolor, 3-05-05
+Mambo, mambo, SLE03030506, mambo, mambo, 3-05-06
+Mofuss, mofuss, SLE03030509, mofuss, mofuss, 3-05-09
+Mokandor, mokandor, SLE03030510, mokandor, mokandor, 3-05-10
+Borley, borley, SLE01020501, borley, borley, 12-05-01
+Mokebe, mokebe, SLE03030511, mokebe, mokebe, 3-05-11
+Mokobo, mokobo, SLE03030512, mokobo, mokobo, 3-05-12
+Rembe, rembe, SLE03030517, rembe, rembe, 3-05-17
+Mamanka, mamanka, SLE02040109, mamanka, mamanka, 24-01-10
+Mopaileh, mopaileh, SLE03030513, mopaileh, mopaileh, 3-05-13
+Moyah, moyah, SLE03030514, moyah, moyah, 3-05-14
+Moyibo, moyibo, SLE03030515, moyibo, moyibo, 3-05-15
+Ngiehun, ngiehun, SLE03030516, ngiehun, ngiehun, 3-05-16
+Tassoh, tassoh, SLE03030518, tassoh, tassoh, 3-05-18
+Moforay, moforay, SLE03031002, moforay, moforay, 3-10-02
+Thumba A, thumbaa, SLE03030519, thumba a, thumbaa, 3-05-19
+Thumba B, thumbab, SLE03030520, thumba b, thumbab, 3-05-20
+Tabe, tabe, SLE03031007, tabe, tabe, 3-10-07
+Yondu, yondu, SLE03030521, yondu, yondu, 3-05-21
+Angigboya, angigboya, SLE03030601, angigboya, angigboya, 3-06-01
+Koromboya, koromboya, SLE03030602, koromboya, koromboya, 3-06-02
+Mofindoh, mofindoh, SLE03031104, mofindoh, mofindoh, 3-11-05
+Kpange, kpange, SLE03030603, kpange, kpange, 3-06-03
+Lungili, lungili, SLE03030604, lungili, lungili, 3-06-04
+Mobonor, mobonor, SLE03030803, mobonor, mobonor, 3-08-03
+Mendegelema, mendegelem, SLE03030605, mendegelema, mendegelem, 3-06-05
+Waliwahun, waliwahun, SLE03030607, waliwahun, waliwahun, 3-06-07
+Lombama, lombama, SLE01011204, lombama, lombama, 11-12-04
+Mosoe, mosoe, SLE03030606, mosoe, mosoe, 3-06-06
+Kowama, kowama, SLE03030701, kowama, kowama, 3-07-01
+Mogbuama, mogbuama, SLE03030702, mogbuama, mogbuama, 3-07-02
+Ngiegombu, ngiegombu, SLE03030703, ngiegombu, ngiegombu, 3-07-03
+Ngoahun, ngoahun, SLE03030704, ngoahun, ngoahun, 3-07-04
+Tawovehun, tawovehun, SLE03030706, tawovehun, tawovehun, 3-07-06
+Gibina, gibina, SLE03030801, gibina, gibina, 3-08-01
+Gondama, gondama, SLE03030802, gondama, gondama, 3-08-02
+Korjei, korjei, SLE01020701, korjei, korjei, 12-07-01
+Mongere, mongere, SLE03030805, mongere, mongere, 3-08-05
+Kpangbalia, kpangbalia, SLE03010204, kpangbalia, kpangbalia, 1-02-04
+Mowoto, mowoto, SLE03030807, mowoto, mowoto, 3-08-07
+Senehun, senehun, SLE03030808, senehun, senehun, 3-08-08
+Taninihun, taninihun, SLE03030809, taninihun, taninihun, 3-08-09
+Tongieh, tongieh, SLE03030810, tongieh, tongieh, 3-08-10
+Zone - 1, zonei, SLE03030901, zone one, zonei, 3-09-03
+Zone - 2, zoneii, SLE03030902, zone two, zoneii, 3-09-07
+Zone - 3, zoneiii, SLE03030903, zone three, zoneiii, 3-09-06
+Zone - 4, zoneiv, SLE03030904, zone four, zoneiv, 3-09-02
+Zone - 5, zonev, SLE03030905, zone five, zonev, 3-09-01
+Zone - 6, zonevi, SLE03030906, zone six, zonevi, 3-09-05
+Zone - 7, zonevii, SLE03030907, zone seven, zonevii, 3-09-04
+Kpandobu, kpandobu, SLE03031001, kpandobu, kpandobu, 3-10-01
+Fowai, fowai, SLE01020104, fowai, fowai, 12-01-04
+Mosumana, mosumana, SLE03031003, mosumana, mosumana, 3-10-03
+Ngiyeiya, ngiyeiya, SLE03031004, ngiyeiya, ngiyeiya, 3-10-04
+Njagbahun, njagbahun, SLE03031005, njagbahun, njagbahun, 3-10-05
+Njama, njama, SLE03031006, njama, njama, 3-10-06
+Tawoveihun, tawoveihun, SLE03031008, tawoveihun, tawoveihun, 3-10-08
+Bengelloh, bengelloh, SLE03031101, bengelloh, bengelloh, 3-11-01
+Mokotawa, mokotawa, SLE03031105, mokotawa, mokotawa, 3-11-06
+Gbangbatoke, gbangbatok, SLE03031102, gbangbatoke, gbangbatok, 3-11-02
+Kukuna, kukuna, SLE02020114, kukuna, kukuna, 22-02-13
+Ndendemoya, ndendemoya, SLE03031106, ndendemoya, ndendemoya, 3-11-07
+Ngolala, ngolala, SLE03031107, ngolala, ngolala, 3-11-08
+Wulbange, wulbange, SLE03031109, wulbange, wulbange, 3-11-10
+Kentineh, kentineh, SLE03031201, kentineh, kentineh, 3-12-01
+Klajie, klajie, SLE01020105, klajie, klajie, 12-01-05
+Masanka, masanka, SLE03031204, masanka, masanka, 3-12-03
+Masarakulay, masarakula, SLE03031205, masarakulay, masarakula, 3-12-04
+Motonkoh, motonkoh, SLE03031208, motonkoh, motonkoh, 3-12-08
+Mobureh, mobureh, SLE03031206, mobureh, mobureh, 3-12-06
+Motoni, motoni, SLE03031207, motoni, motoni, 3-12-07
+Kimaya, kimaya, SLE03010403, kimaya, kimaya, 1-04-04
+Upper Ribbi, upperribbi, SLE03031209, upper ribbi, upperribbi, 3-12-09
+Yoni, yoni, SLE03031210, yoni, yoni, 3-12-10
+Karteh, karteh, SLE01020205, karteh, karteh, 12-02-05
+Bembellor, bembellor, SLE03031301, bembellor, bembellor, 3-13-01
+Gambia, gambia, SLE03031302, gambia, gambia, 3-13-02
+Gbehan, gbehan, SLE03031303, gbehan, gbehan, 3-13-03
+Kamasunu, kamasunu, SLE03031304, kamasunu, kamasunu, 3-13-04
+Kambotoke, kambotoke, SLE03031305, kambotoke, kambotoke, 3-13-05
+Mendekelema, mendekelem, SLE01020304, mendekelema, mendekelem, 12-03-04
+Kebail, kebail, SLE03031306, kebail, kebail, 3-13-06
+Mandu, mandu, SLE03031307, mandu, mandu, 3-13-07
+Mye, mye, SLE03031308, mye, mye, 3-13-08
+Nonkoba, nonkoba, SLE03031309, nonkoba, nonkoba, 3-13-09
+Sahan, sahan, SLE03031310, sahan, sahan, 3-13-10
+Tombeh, tombeh, SLE03031311, tombeh, tombeh, 3-13-11
+Bei-Kelleh, beikelleh, SLE03031401, bei-kelleh, beikelleh, 3-14-01
+Kenafallay, kenafallay, SLE03031402, kenafallay, kenafallay, 3-14-02
+Kepay, kepay, SLE03031403, kepay, kepay, 3-14-03
+Mogongbe, mogongbe, SLE03031404, mogongbe, mogongbe, 3-14-04
+Songbo, songbo, SLE03031405, songbo, songbo, 3-14-05
+Dakowa, dakowa, SLE01020101, dakowa, dakowa, 12-01-01
+Danyadejo, danyadejo, SLE01020102, danyadejo, danyadejo, 12-01-02
+Dassama, dassama, SLE01020103, dassama, dassama, 12-01-03
+Lower Dabor, lowerdabor, SLE01020106, lower dabor, lowerdabor, 12-01-06
+Upper Dabor, upperdabor, SLE01020107, upper dabor, upperdabor, 12-01-07
+Bambara, bambara, SLE01020201, bambara, bambara, 12-02-01
+Bonya, bonya, SLE01020202, bonya, bonya, 12-02-02
+Bundoryama, bundoryama, SLE01020203, bundoryama, bundoryama, 12-02-03
+Gorama, gorama, SLE01020204, gorama, gorama, 12-02-04
+Korgay, korgay, SLE01020206, korgay, korgay, 12-02-06
+Seiwor, seiwor, SLE01020207, seiwor, seiwor, 12-02-07
+Giebu, giebu, SLE01020301, giebu, giebu, 12-03-01
+Joru, joru, SLE01020302, joru, joru, 12-03-02
+Kokoru, kokoru, SLE01020303, kokoru, kokoru, 12-03-03
+Biatong, biatong, SLE01020401, biatong, biatong, 12-04-01
+Famanjo, famanjo, SLE01020402, famanjo, famanjo, 12-04-02
+Kaklawa, kaklawa, SLE01020403, kaklawa, kaklawa, 12-04-03
+Kualley, kualley, SLE01020404, kualley, kualley, 12-04-04
+Gboro-Lokoma, gborolokom, SLE01020502, gboro-lokoma, gborolokom, 12-05-02
+Karga, karga, SLE01020503, karga, karga, 12-05-03
+Laminaia, laminaia, SLE02020115, laminaia, laminaia, 22-02-14
+Joi, joi, SLE01020601, joi, joi, 12-06-01
+Koya Gbundohun, koyagbundo, SLE01020602, koyagbundohun, koyagbundo, 12-06-02
+Menima, menima, SLE01020603, menima, menima, 12-06-03
+Serabu, serabu, SLE01020604, serabu, serabu, 12-06-04
+Upper Koya, upperkoya, SLE01020605, upper koya, upperkoya, 12-06-05
+Sansangie, sansangie, SLE02020116, sansangie, sansangie, 22-02-15
+Njeiwoma, njeiwoma, SLE01020702, njeiwoma, njeiwoma, 12-07-02
+Bonya, bonya, SLE01020801, bonya, bonya, 12-08-01
+Korjei Ngieya, korjeingie, SLE01020805, korjei ngieya, korjeingie, 12-08-05
+Seduya, seduya, SLE02020117, seduya, seduya, 22-02-16
+Fallay, fallay, SLE01020802, fallay, fallay, 12-08-02
+Gboro, gboro, SLE01020803, gboro, gboro, 12-08-03
+Korjei Buima, korjeibuim, SLE01020804, korjei buima, korjeibuim, 12-08-04
+Konjo Buiima, konjobuiim, SLE01020903, konjo buiima, konjobuiim, 12-09-03
+Nyawa, nyawa, SLE01020806, nyawa, nyawa, 12-08-06
+Sei, sei, SLE01020807, sei, sei, 12-08-07
+Hulorhun Njagbudor, hulorhunnj, SLE01020901, hulorhun njeigor, hulorhunnj, 12-09-02
+Hulorhun Njeigor, hulorhunnj, SLE01020902, hulorhun njagbudorhun, hulorhunnj, 12-09-01
+Konjo Njeigor, konjonjeig, SLE01020904, konjo njeigor, konjonjeig, 12-09-04
+Konjo Yematanga, konjoyemat, SLE01020905, konjo yematanga, konjoyemat, 12-09-05
+Lower Torgboma, lowertorgb, SLE01020906, lower torgboma, lowertorgb, 12-09-06
+Upper Torgboma, uppertorgb, SLE01020907, upper torgboma, uppertorgb, 12-09-07
+Bandawor, bandawor, SLE01021001, bandawor, bandawor, 12-10-01
+Mabondor, mabondor, SLE01021003, mabondor, mabondor, 12-10-04
+Niawa, niawa, SLE01021004, niawa, niawa, 12-10-05
+Vaama, vaama, SLE01021005, vaama, vaama, 12-10-06
+Faama, faama, SLE01021101, faama, faama, 12-11-02
+Ngiebu, ngiebu, SLE01021102, ngiebu, ngiebu, 12-11-01
+Dagbanya, dagbanya, SLE01021201, dagbanya, dagbanya, 12-12-01
+Dakpana, dakpana, SLE01021202, dakpana, dakpana, 12-12-02
+Kona Foiya, konafoiya, SLE01021207, kona foiya, konafoiya, 12-12-05
+Bundoryama, bundoryama, SLE01021301, bundoryama, bundoryama, 12-13-01
+Gbo Kakajama B, gbokakajam, SLE01021203, gbo kakajama, gbokakajam, 12-12-07
+Kona Kpindibu, konakpindi, SLE01021208, kona kpindibu, konakpindi, 12-12-06
+Gbo Lambayama B, gbolambaya, SLE01021204, gbo lambayama, gbolambaya, 12-12-08
+Kagbado Kamboima, kagbadokam, SLE01021205, kagbado kamboima, kagbadokam, 12-12-03
+Kagbado Njeigbla, kagbadonje, SLE01021206, kagbadonjeigbla, kagbadonje, 12-12-04
+Fonde, fonde, SLE01021303, fonde, fonde, 12-13-03
+Yalenga, yalenga, SLE01021304, yalenga, yalenga, 12-13-04
+Fallay, fallay, SLE01021401, fallay, fallay, 12-14-01
+Gorama, gorama, SLE01021402, gorama, gorama, 12-14-02
+Niawa, niawa, SLE01021604, niawa, niawa, 12-16-04
+Kamboma, kamboma, SLE01021403, kamboma, kamboma, 12-14-03
+Niawa, niawa, SLE01021404, niawa, niawa, 12-14-04
+Sowa, sowa, SLE01021405, sowa, sowa, 12-14-05
+Songhai, songhai, SLE01021605, songhai, songhai, 12-16-05
+Daru, daru, SLE01021501, daru, daru, 12-15-01
+Jewahun, jewahun, SLE01021505, jewahun, jewahun, 12-15-05
+Tongorwa, tongorwa, SLE01021606, tongorwa, tongorwa, 12-16-06
+Shekaia, shekaia, SLE02020118, shekaia, shekaia, 22-02-17
+Kuawuma, kuawuma, SLE01021506, kuawuma, kuawuma, 12-15-06
+Taninahun, taninahun, SLE01021507, taninahun, taninahun, 12-15-07
+Boryongor, boryongor, SLE01021601, boryongor, boryongor, 12-16-01
+Gbogbeima, gbogbeima, SLE01021602, gbogbeima, gbogbeima, 12-16-02
+Kemoh, kemoh, SLE01021603, kemoh, kemoh, 12-16-03
+Bulima, bulima, SLE01011201, bulima, bulima, 11-12-01
+Sulaimania, sulaimania, SLE02020119, sulaimania, sulaimania, 22-02-18
+Baiwalla, baiwalla, SLE01010101, baiwalla, baiwalla, 11-01-01
+Dodo, dodo, SLE01010102, dodo, dodo, 11-01-02
+Sakiema, sakiema, SLE01010103, sakiema, sakiema, 11-01-03
+Sienga, sienga, SLE01010104, sienga, sienga, 11-01-04
+Mahera, mahera, SLE02040510, mahera, mahera, 24-05-10
+Bobor, bobor, SLE01010201, bobor, bobor, 11-02-01
+Kaio, kaio, SLE01010202, kaio, kaio, 11-02-02
+Lower Giebu, lowergiebu, SLE01010203, lower giebu, lowergiebu, 11-02-03
+Lower Luyengeh, lowerluyen, SLE01010204, lower luyengeh, lowerluyen, 11-02-04
+Mano, mano, SLE01010205, mano, mano, 11-02-05
+Teneba Bramaia, tenebabram, SLE02020120, teneba bramaia, tenebabram, 22-02-19
+Sowa, sowa, SLE01010206, sowa, sowa, 11-02-06
+Upper Giebu, uppergiebu, SLE01010207, upper giebu, uppergiebu, 11-02-07
+Upper Luyengeh, upperluyen, SLE01010208, upper luyengeh, upperluyen, 11-02-08
+Dakaleley, dakaleley, SLE01010301, dakaleley, dakaleley, 11-03-01
+Kama Teng, kamateng, SLE01010302, kama teng, kamateng, 11-03-02
+Gao, gao, SLE01010802, gao, gao, 11-08-02
+Kama Toh, kamatoh, SLE01010303, kama toh, kamatoh, 11-03-03
+Bumasadu, bumasadu, SLE01010401, bumasadu, bumasadu, 11-04-01
+Konio, konio, SLE01010402, konio, konio, 11-04-02
+Kundu, kundu, SLE01010403, kundu, kundu, 11-04-03
+Mano-Sewallu, manosewall, SLE01010807, mano sewallu, manosewall, 11-08-08
+Lela, lela, SLE01010404, lela, lela, 11-04-04
+Torli, torli, SLE01010405, torli, torli, 11-04-05
+Bende Bengu, bendebengu, SLE01010501, bende bengu, bendebengu, 11-05-04
+Tongi Tingi, tongitingi, SLE01010504, tongi - tingi, tongitingi, 11-05-03
+Konio, konio, SLE01010502, konio, konio, 11-05-01
+Pokorli, pokorli, SLE01010503, pokorli, pokorli, 11-05-02
+Bongre, bongre, SLE01010601, bongre, bongre, 11-06-01
+Borkou, borkou, SLE01010602, borkou, borkou, 11-06-02
+Falloh, falloh, SLE01010603, falloh, falloh, 11-06-03
+Jorwu, jorwu, SLE01010604, jorwu, jorwu, 11-06-04
+Manowa, manowa, SLE01010605, manowa, manowa, 11-06-05
+Marwei, marwei, SLE01010606, marwei, marwei, 11-06-06
+Mende Buima, mendebuima, SLE01010808, mende -buima, mendebuima, 11-08-09
+Seimaya, seimaya, SLE01010607, seimaya, seimaya, 11-06-07
+Golama, golama, SLE01010702, golama, golama, 11-07-02
+Kpindima, kpindima, SLE01010704, kpindima, kpindima, 11-07-04
+Baoma, baoma, SLE01010801, baoma, baoma, 11-08-01
+Gbela, gbela, SLE01010803, gbela, gbela, 11-08-03
+Giehun, giehun, SLE01010804, giehun, giehun, 11-08-04
+Lower Kpombali, lowerkpomb, SLE01010805, lower kpombali, lowerkpomb, 11-08-05
+Luawa Foguiya, luawafogui, SLE01010806, luawa foguiya, luawafogui, 11-08-06
+Upper Kpombali, upperkpomb, SLE01010810, upper kpombali, upperkpomb, 11-08-10
+Bamburu, bamburu, SLE01010901, bamburu, bamburu, 11-09-01
+Njagbla, njagbla, SLE01010903, njagbla, njagbla, 11-09-03
+Pelegbambeima, pelegbambe, SLE01010904, pelegbambeima, pelegbambe, 11-09-04
+Upper Sami, uppersami, SLE01010905, upper sami, uppersami, 11-09-05
+Gbongre, gbongre, SLE01011001, gbongre, gbongre, 11-10-01
+Levuma Jeigbla, levumajeig, SLE01011002, levuma jeigbla, levumajeig, 11-10-02
+Lower Kuiva, lowerkuiva, SLE01011003, lower kuiva, lowerkuiva, 11-10-03
+Jonga, jonga, SLE01011106, jonga, jonga, 11-11-06
+Upper Kuiva, upperkuiva, SLE01011004, upper kuiva, upperkuiva, 11-10-04
+Bombowa, bombowa, SLE01011101, bombowa, bombowa, 11-11-01
+Dan Sei, dansei, SLE01011102, dan - sei, dansei, 11-11-02
+Falley, falley, SLE01011103, falley, falley, 11-11-03
+Fauya, fauya, SLE01011104, fauya, fauya, 11-11-04
+Turaya, turaya, SLE02020121, turaya, turaya, 22-02-20
+Kargbu, kargbu, SLE01011107, kargbu, kargbu, 11-11-07
+Keimaya, keimaya, SLE01011108, keimaya, keimaya, 11-11-08
+Lower Nyawa, lowernyawa, SLE01011109, lower nyawa, lowernyawa, 11-11-09
+Sei II, seiii, SLE01011111, sei ii, seiii, 11-11-11
+Gbinle, gbinle, SLE02020201, gbinle, gbinle, 22-01-01
+Bambara, bambara, SLE01011301, bambara, bambara, 11-13-01
+Goleiwoma, goleiwoma, SLE01011303, goleiwoma, goleiwoma, 11-13-02
+Lower Baimba, lowerbaimb, SLE03010701, lower baimba, lowerbaimb, 1-07-03
+Mano, mano, SLE03010205, mano, mano, 1-02-05
+Golu, golu, SLE01011304, golu, golu, 11-13-03
+Korbu, korbu, SLE01011305, korbu, korbu, 11-13-05
+Bendu, bendu, SLE01011401, bendu, bendu, 11-14-01
+Kuiva Buima, kuivabuima, SLE01011402, kuiva buima, kuivabuima, 11-14-02
+Kuiva Jagor, kuivajagor, SLE01011403, kuiva jagor, kuivajagor, 11-14-03
+Kuivawa, kuivawa, SLE01011404, kuivawa, kuivawa, 11-14-04
+Fallay, fallay, SLE03010102, fallay, fallay, 1-01-02
+Kpallay, kpallay, SLE03010103, kpallay, kpallay, 1-01-03
+Niagorehun, niagorehun, SLE03010206, niagorehun, niagorehun, 1-02-06
+Njargbahun, njargbahun, SLE03010104, njargbahun, njargbahun, 1-01-04
+Sei, sei, SLE03010105, sei, sei, 1-01-05
+Bum, bum, SLE03010201, bum, bum, 1-02-01
+Gorapon, gorapon, SLE03010202, gorapon, gorapon, 1-02-02
+Jimmi, jimmi, SLE03010203, jimmi, jimmi, 1-02-03
+Jongo, jongo, SLE03010301, jongo, jongo, 1-03-01
+Kemoh, kemoh, SLE03010302, kemoh, kemoh, 1-03-02
+Niawa, niawa, SLE03010303, niawa, niawa, 1-03-03
+Nyallay, nyallay, SLE03010304, nyallay, nyallay, 1-03-04
+Samawa, samawa, SLE03010305, samawa, samawa, 1-03-05
+Bambawo, bambawo, SLE03010401, bambawo, bambawo, 1-04-02
+Fallay, fallay, SLE03010402, fallay, fallay, 1-04-03
+Lower Pataloo, lowerpatal, SLE03010404, lower pataloo, lowerpatal, 1-04-05
+Upper Kama, upperkama, SLE03010707, upper kama, upperkama, 1-07-07
+Mawojeh, mawojeh, SLE03010405, mawojeh, mawojeh, 1-04-06
+Njeima, njeima, SLE03010406, njeima, njeima, 1-04-01
+Upper Pataloo, upperpatal, SLE03010408, upper pataloo, upperpatal, 1-04-08
+Kemoh, kemoh, SLE03010902, kemoh, kemoh, 1-09-01
+Bongo, bongo, SLE03010501, bongo, bongo, 1-05-01
+Bumpe, bumpe, SLE03010502, bumpe, bumpe, 1-05
+Foya, foya, SLE03010503, foya, foya, 1-05-03
+Kpetema, kpetema, SLE03010504, kpetema, kpetema, 1-05-04
+Sahn, sahn, SLE03010505, sahn, sahn, 1-05-06
+Serabu, serabu, SLE03010506, serabu, serabu, 1-05-07
+Sewama, sewama, SLE03010507, sewama, sewama, 1-05-05
+Taninahun, taninahun, SLE03010508, taninahun, taninahun, 1-05-08
+Nyawa, nyawa, SLE03010603, nyawa, nyawa, 1-06-03
+Yengema, yengema, SLE03010510, yengema, yengema, 1-05-10
+Gbo, gbo, SLE03010601, gbo, gbo, 1-06
+Maryu, maryu, SLE03010602, maryu, maryu, 1-06-02
+Lower Kama, lowerkama, SLE03010702, lower kama, lowerkama, 1-07-01
+Lower Niawa, lowerniawa, SLE03010703, lower niawa, lowerniawa, 1-07-04
+Nekpondo, nekpondo, SLE03010704, nekpondo, nekpondo, 1-07-05
+Tongowa, tongowa, SLE03010705, tongowa, tongowa, 1-07-02
+Upper Baimba, upperbaimb, SLE03010706, upper baimba, upperbaimb, 1-07-06
+Upper Niawa, upperniawa, SLE03010708, upper niawa, upperniawa, 1-07-08
+Korjeh, korjeh, SLE03010801, korjeh, korjeh, 1-08-02
+Kpandobu, kpandobu, SLE03010802, kpandobu, kpandobu, 1-08-03
+Mangaru, mangaru, SLE03010903, mangaru, mangaru, 1-09-03
+Sei, sei, SLE03010904, sei, sei, 1-09-05
+Nguabu, nguabu, SLE03010803, nguabu, nguabu, 1-08-04
+Nyallay, nyallay, SLE03010804, nyallay, nyallay, 1-08-01
+Nyawa, nyawa, SLE03010805, nyawa, nyawa, 1-08-05
+Kamakathie, kamakathie, SLE02050303, kamakathie, kamakathie, 25-03-03
+Samamie, samamie, SLE03010806, samamie, samamie, 1-08-06
+Sewa, sewa, SLE03010807, sewa, sewa, 1-08-07
+Sindeh, sindeh, SLE03010808, sindeh, sindeh, 1-08-08
+Kamba, kamba, SLE03011002, kamba, kamba, 1-10-03
+Kargbevu, kargbevu, SLE03011003, kargbevu, kargbevu, 1-10-04
+Kemoh, kemoh, SLE03011004, kemoh, kemoh, 1-10-05
+Magbao, magbao, SLE03011005, magbao, magbao, 1-10-06
+Yorma, yorma, SLE03011006, yorma, yorma, 1-10-07
+Kamakilla, kamakilla, SLE02050304, kamakilla, kamakilla, 25-03-04
+Lower Niawa, lowerniawa, SLE03011102, lower niawa, lowerniawa, 1-11-02
+Upper Niawa, upperniawa, SLE03011103, upper niawa, upperniawa, 1-11-04
+Yalenga, yalenga, SLE03011104, yalenga, yalenga, 1-11-05
+Kaduawo, kaduawo, SLE03011201, kaduawo, kaduawo, 1-12-03
+Mokpendeh, mokpendeh, SLE03011202, mokpendeh, mokpendeh, 1-12-05
+Morku, morku, SLE03011303, morku, morku, 1-13-03
+Magbankitha, magbankith, SLE02040713, magbankitha, magbankith, 24-07-14
+Ngolamajie, ngolamajie, SLE03011304, ngolamajie, ngolamajie, 1-13-01
+Njagbla I, njagblai, SLE03011305, njagbla i, njagblai, 1-13-04
+Yarlenga, yarlenga, SLE03011407, yarlenga, yarlenga, 1-14-09
+Njagbla II, njagblaii, SLE03011306, njagbla ii, njagblaii, 1-13-05
+Deilenga, deilenga, SLE03011401, deilenga, deilenga, 1-14-01
+Kendebu, kendebu, SLE03011402, kendebu, kendebu, 1-14-02
+Central Kargoi, centralkar, SLE03011501, central kargoi, centralkar, 1-15-01
+Seiwa, seiwa, SLE03011307, seiwa, seiwa, 1-13-02
+Sendeh, sendeh, SLE03011308, sendeh, sendeh, 1-13-06
+Magbengbeh, magbengbeh, SLE02040714, magbengbeh, magbengbeh, 24-07-06
+Lunia, lunia, SLE03011403, lunia, lunia, 1-14-04
+Ngovo, ngovo, SLE03011404, ngovo, ngovo, 1-14-06
+Seilenga, seilenga, SLE03011405, seilenga, seilenga, 1-14-07
+Manyeh, manyeh, SLE03011503, manyeh, manyeh, 1-15-02
+Upper Kargoi, upperkargo, SLE03011504, upper kargoi, upperkargo, 1-15-03
+Makump, makump, SLE02040306, makump, makump, 24-03-05
+Kasokira, kasokira, SLE02050305, kasokira, kasokira, 25-03-05
+Masaba, masaba, SLE02050604, masaba, masaba, 25-07-04
+Lower Massakong, lowermassa, SLE02050101, lower massakong, lowermassa, 25-01-01
+Petifu Mayawa A, petifumaya, SLE02050104, petifu mayawa (b), petifumaya, 25-01-04
+Lower Polie, lowerpolie, SLE02050102, lower polie, lowerpolie, 25-01-02
+Petifu Mayawa B, petifumaya, SLE02050105, petifu mayawa (a), petifumaya, 25-01-03
+Simiria, simiria, SLE02050207, simiria, simiria, 25-02-07
+Rogbalan, rogbalan, SLE02040307, rogbalan, rogbalan, 24-03-01
+Fuladugu, fuladugu, SLE02050301, fuladugu, fuladugu, 25-03-01
+Marunia, marunia, SLE02040721, marunia, marunia, 24-07-04
+Petifu Mayeppoh, petifumaye, SLE02050106, petifu mayepoh, petifumaye, 25-01-05
+Upper Massakong, uppermassa, SLE02050107, upper massakong, uppermassa, 25-01-06
+Upper Polie, upperpolie, SLE02050108, upper polie, upperpolie, 25-01-07
+Yiben, yiben, SLE02050110, yiben, yiben, 25-01-09
+Yele Manowo, yelemanowo, SLE02050109, yele manowo, yelemanowo, 25-01-08
+Mabonto, mabonto, SLE02050203, mabonto, mabonto, 25-02-03
+Kamarugu, kamarugu, SLE02050202, kamarugu, kamarugu, 25-02-02
+Makelfa, makelfa, SLE02050204, makelfa, makelfa, 25-02-04
+Makontande, makontande, SLE02050205, makontande, makontande, 25-02-05
+Mayaso, mayaso, SLE02050206, mayaso, mayaso, 25-02-06
+Lower Section, lowersecti, SLE02050306, lower section, lowersecti, 25-03-06
+Upper Section, uppersecti, SLE02050307, upper section, uppersecti, 25-03-07
+Mabilafu, mabilafu, SLE02050802, mabilafu, mabilafu, 25-08-02
+Mabang, mabang, SLE02050402, mabang, mabang, 25-05-03
+Marunia Sakie, maruniasak, SLE02050404, marunia sakie, maruniasak, 25-05-01
+Massebay, massebay, SLE02040722, massebay, massebay, 24-07-25
+Mamurie, mamurie, SLE02050603, mamurie, mamurie, 25-07-03
+Makali, makali, SLE02050601, makali, makali, 25-07-01
+Makong, makong, SLE02050602, makong, makong, 25-07-02
+Masingbi, masingbi, SLE02050701, masingbi, masingbi, 25-06-02
+Mathonkara, mathonkara, SLE02050605, mathonkara, mathonkara, 25-07-05
+Wonkibor, wonkibor, SLE02050606, wonkibor, wonkibor, 25-07-06
+Makoba, makoba, SLE02050803, makoba, makoba, 25-08-03
+Rolal, rolal, SLE02050702, rolal, rolal, 25-06-01
+Sanda, sanda, SLE02050703, sanda, sanda, 25-06-04
+Semorkanie, semorkanie, SLE02050704, semorkanie, semorkanie, 25-06-03
+Thamah, thamah, SLE02050705, thamah, thamah, 25-06-05
+Thambaya, thambaya, SLE02050706, thambaya, thambaya, 25-06-06
+Wana, wana, SLE02050707, wana, wana, 25-06-07
+Yenkeh, yenkeh, SLE02050708, yenkeh, yenkeh, 25-06-08
+Kiamp Kakolo, kiampkakol, SLE02050801, kiampkakolo, kiampkakol, 25-08-01
+Malal, malal, SLE02050804, malal, malal, 25-08
+Numula 5, numulav, SLE02030110, numula v, numulav, 23-01-07
+Mara, mara, SLE02050806, mara, mara, 25-08-05
+Matanka, matanka, SLE02050807, matanka, matanka, 25-08-06
+Sambaya, sambaya, SLE02050904, sambaya, sambaya, 25-09-04
+Rochen, rochen, SLE02050808, rochen, rochen, 25-08-08
+Borowah, borowah, SLE02050901, borowah, borowah, 25-09-01
+Maboboh Koray, mabobohkor, SLE02051001, maboboh - koray, mabobohkor, 25-10-01
+Mapakie, mapakie, SLE02051004, mapakie, mapakie, 25-10-04
+Buyan, buyan, SLE02050902, buyan, buyan, 25-09-02
+Dayie, dayie, SLE02050903, dayie, dayie, 25-09-03
+Makrugbeh, makrugbeh, SLE02051002, makrugbeh, makrugbeh, 25-10-02
+Mange-bana, mangebana, SLE02051003, mange bana, mangebana, 25-10-03
+Mabureh Mende, maburehmen, SLE02040205, mabureh mende, maburehmen, 24-02-11
+Mathunkara, mathunkara, SLE02051005, mathun kara, mathunkara, 25-10-05
+Malanchor, malanchor, SLE02051105, malanchor, malanchor, 25-11-05
+Matotoka, matotoka, SLE02051006, matotoka, matotoka, 25-10-06
+Makeni Rokefula, makeniroke, SLE02051104, makeni rokefula, makeniroke, 25-11-04
+Foindu, foindu, SLE02051101, foindu, foindu, 25-11-01
+Gaindema, gaindema, SLE02051102, gaindema, gaindema, 25-11-02
+Macrogba, macrogba, SLE02051103, macrogba, macrogba, 25-11-03
+Malompor, malompor, SLE02051106, malompor, malompor, 25-11-06
+Petifu-Lower, petifulowe, SLE02051111, petifu-lower, petifulowe, 25-11-11
+Karine, karine, SLE02040301, karine, karine, 24-03-06
+Marenka, marenka, SLE02040111, marenka, marenka, 24-01-11
+Minthormore, minthormor, SLE02040112, minthormore, minthormor, 24-01-07
+Mamaka, mamaka, SLE02051107, mamaka, mamaka, 25-11-07
+Masengbe, masengbe, SLE02051108, masengbe, masengbe, 25-11-08
+Kalangba, kalangba, SLE02040104, kalangba, kalangba, 24-01-15
+Mayira, mayira, SLE02051109, mayira, mayira, 25-11-09
+Petifu Upper, petifuuppe, SLE02051110, petifu - upper, petifuuppe, 25-11-10
+Ronietta, ronietta, SLE02051112, ronietta, ronietta, 25-11-12
+Kambia Morie, kambiamori, SLE02040105, kambia morie, kambiamori, 24-01-08
+Konta Ferry, kontaferry, SLE02040106, konta ferry, kontaferry, 24-01-14
+Mabombo, mabombo, SLE02040107, mabombo, mabombo, 24-01-06
+Makana, makana, SLE02040108, makana, makana, 24-01-13
+Yoni, yoni, SLE02051113, yoni, yoni, 25-11
+Barmoi, barmoi, SLE02040101, barmoi, barmoi, 24-01-04
+Kagbanthama, kagbantham, SLE02040102, kagbanthama, kagbantham, 24-01-01
+Kaiyeabor, kaiyeabor, SLE02040103, kaiyeabor, kaiyeabor, 24-01-05
+Romeni, romeni, SLE02040114, romeni, romeni, 24-01-02
+Rotifunk, rotifunk, SLE02040115, rotifunk, rotifunk, 24-01-03
+Yali-Sanda, yalisanda, SLE02040116, yali sanda, yalisanda, 24-01-12
+Kayembor, kayembor, SLE02040302, kayembor, kayembor, 24-03-02
+Foredugu, foredugu, SLE02040201, foredugu, foredugu, 24-02-08
+Filligungee, filligunge, SLE02020105, filligungee, filligunge, 22-02-05
+Gbaran Kamba, gbarankamb, SLE02040202, gbaran kamba, gbarankamb, 24-02-07
+Mabureh Buya, maburehbuy, SLE02040204, mabureh buya, maburehbuy, 24-02-03
+Robis, robis, SLE02040209, robis, robis, 24-02-09
+Rokel, rokel, SLE02040210, rokel, rokel, 24-02-10
+Rosint, rosint, SLE02040211, rosint, rosint, 24-02-04
+Worreh Mapoteh, worrehmapo, SLE02040212, worreh mapoteh, worrehmapo, 24-02-01
+Mafonda, mafonda, SLE02040304, mafonda, mafonda, 24-03-07
+Makabari, makabari, SLE02040305, makabari, makabari, 24-03-03
+Foronkoya, foronkoya, SLE02040401, foronkoya, foronkoya, 24-04-08
+Kasongha, kasongha, SLE02040402, kasongha, kasongha, 24-04-02
+Lungi, lungi, SLE02040403, lungi, lungi, 24-04-03
+Mahera, mahera, SLE02040404, mahera, mahera, 24-04-04
+Yongro, yongro, SLE02040408, yongro, yongro, 24-04-07
+Mamanki, mamanki, SLE02040405, mamanki, mamanki, 24-04-06
+Mayaya, mayaya, SLE02040406, mayaya, mayaya, 24-04-01
+Rosint, rosint, SLE02040407, rosint, rosint, 24-04-05
+Fondu, fondu, SLE02040502, fondu, fondu, 24-05-02
+Magbandoma, magbandoma, SLE02040508, magbandoma, magbandoma, 24-05-08
+Benkia, benkia, SLE02040501, benkia, benkia, 24-05-01
+Gbabai, gbabai, SLE02040505, gbabai, gbabai, 24-05-05
+Foredugu, foredugu, SLE02040503, foredugu, foredugu, 24-05-03
+Futa, futa, SLE02040504, futa, futa, 24-05-04
+Kagbala A, kagbalaa, SLE02040506, kagbala a, kagbalaa, 24-05-06
+Kagbala B, kagbalab, SLE02040507, kagbala b, kagbalab, 24-05-07
+Magbeni, magbeni, SLE02040509, magbeni, magbeni, 24-05-09
+Marefa, marefa, SLE02040511, marefa, marefa, 24-05-11
+Matene, matene, SLE02040512, matene, matene, 24-05-12
+Rosarr, rosarr, SLE02040518, rosarr, rosarr, 24-05-18
+Mawoma, mawoma, SLE02040514, mawoma, mawoma, 24-05-14
+Robia, robia, SLE02040515, robia, robia, 24-05-15
+Rokel, rokel, SLE02040516, rokel, rokel, 24-05-16
+Sanda, sanda, SLE02040519, sanda, sanda, 24-05-19
+Tumba, tumba, SLE02040520, tumba, tumba, 24-05-20
+Benkia, benkia, SLE02040601, benkia, benkia, 24-06-08
+Gbainty, gbainty, SLE02040602, gbainty, gbainty, 24-06-12
+Kamasondo, kamasondo, SLE02040603, kamasondo, kamasondo, 24-06-14
+Kantaya, kantaya, SLE02040604, kantaya, kantaya, 24-06-11
+Katonga, katonga, SLE02040605, katonga, katonga, 24-06-10
+Komrabai, komrabai, SLE02040606, komrabai, komrabai, 24-06-04
+Konta, konta, SLE02040607, konta, konta, 24-06-13
+Magbokorr, magbokorr, SLE02040608, magbokorr, magbokorr, 24-06-03
+Mannah, mannah, SLE02040609, mannah, mannah, 24-06-02
+Mapiterr, mapiterr, SLE02040610, mapiterr, mapiterr, 24-06-01
+Matheng, matheng, SLE02040611, matheng, matheng, 24-06-07
+Petifu, petifu, SLE02040612, petifu, petifu, 24-06-06
+Royema, royema, SLE02040613, royema, royema, 24-06-09
+Fenka, fenka, SLE02040703, fenka, fenka, 24-07-11
+Gberray Bana, gberrayban, SLE02040704, gberray bana, gberrayban, 24-07-03
+Gberray Morie, gberraymor, SLE02040705, gberray morie, gberraymor, 24-07-22
+Gberray Thunkara, gberraythu, SLE02040706, gberray thunka, gberraythu, 24-07-01
+Gbonko Mayira, gbonkomayi, SLE02040707, gbonko mayira, gbonkomayi, 24-07-05
+Kabata, kabata, SLE02040708, kabata, kabata, 24-07-18
+Komrabai-Waterloo, komrabaiwa, SLE02040709, komrabai-water, komrabaiwa, 24-07-13
+Maboni, maboni, SLE02040711, maboni, maboni, 24-07-24
+Maforay, maforay, SLE02040712, maforay, maforay, 24-07-08
+Magbeni, magbeni, SLE02040715, magbeni, magbeni, 24-07-19
+Malal, malal, SLE02040717, malal, malal, 24-07-20
+Mamanso, mamanso, SLE02040718, mamanso, mamanso, 24-07-16
+Mapolie, mapolie, SLE02040719, mapolie, mapolie, 24-07-02
+Maronko, maronko, SLE02040720, maronko, maronko, 24-07-15
+Mathera, mathera, SLE02040723, mathera, mathera, 24-07-07
+Moria, moria, SLE02040724, moria, moria, 24-07-10
+Romaka, romaka, SLE02040726, romaka, romaka, 24-07-17
+Rosarr, rosarr, SLE02040727, rosarr, rosarr, 24-07-09
+Tauya, tauya, SLE02040730, tauya, tauya, 24-07-21
+Magbele, magbele, SLE02040812, magbele, magbele, 24-08-05
+Mange, mange, SLE02040813, mange, mange, 24-08-03
+Marampa, marampa, SLE02040814, marampa, marampa, 24-08
+Biki, biki, SLE02040901, biki, biki, 24-09-01
+Mawullay, mawullay, SLE02040815, mawullay, mawullay, 24-08-07
+Petifu Madina, petifumadi, SLE02040816, petifu madina, petifumadi, 24-08-08
+Rogballan, rogballan, SLE02040817, rogballan, rogballan, 24-08-06
+Rolankonoh, rolankonoh, SLE02040818, rolankonoh, rolankonoh, 24-08-02
+Masimera, masimera, SLE02040906, masimera, masimera, 24-09-06
+Biss-Manika, bissmanika, SLE02040902, biss-manika, bissmanika, 24-09-02
+Katick, katick, SLE02040903, katick, katick, 24-09-03
+Mamalikie, mamalikie, SLE02040905, mamalikie, mamalikie, 24-09-05
+Matuku, matuku, SLE02040907, matuku, matuku, 24-09-07
+Mayola-Thatha, mayolathat, SLE02040908, mayola - thatha, mayolathat, 24-09-08
+Nonkoba, nonkoba, SLE02040909, nonkoba, nonkoba, 24-09-09
+Rokel, rokel, SLE02040910, rokel, rokel, 24-09-10
+Masien, masien, SLE02041010, masien, masien, 24-10-05
+Rokon/Komboya, rokon/komb, SLE02040911, rokon/komboya, rokon/komb, 24-09-11
+Yoni-Pet, yonipet, SLE02040912, yoni - pet, yonipet, 24-09-12
+Bankro, bankro, SLE02041001, bankro, bankro, 24-10-01
+Gbaneh-Loko, gbanehloko, SLE02041002, gbaneh-loko, gbanehloko, 24-10-07
+Kokar, kokar, SLE01030103, kokar, kokar, 13-01-03
+Gbogbodo, gbogbodo, SLE02041003, gbogbodo, gbogbodo, 24-10-11
+Gbonko, gbonko, SLE02041004, gbonko, gbonko, 24-10-13
+Kantia, kantia, SLE02041005, kantia, kantia, 24-10-12
+Malkiya, malkiya, SLE02041008, malkiya, malkiya, 24-10-06
+Mankneh, mankneh, SLE02041009, mankneh, mankneh, 24-10-04
+Menthen, menthen, SLE02041011, menthen, menthen, 24-10-09
+Robis, robis, SLE02041012, robis, robis, 24-10-14
+Rotigbonko, rotigbonko, SLE02041013, rotigbonko, rotigbonko, 24-10-02
+Sendugu, sendugu, SLE02041014, sendugu, sendugu, 24-10-10
+Gbaray Bana, gbaraybana, SLE02041101, gbaray bana, gbaraybana, 24-11-04
+Kambia, kambia, SLE02041102, kambia, kambia, 24-11-02
+Kanu, kanu, SLE02041103, kanu, kanu, 24-11-05
+Kargbo, kargbo, SLE02041104, kargbo, kargbo, 24-11-01
+Konkorie, konkorie, SLE02041105, konkorie, konkorie, 24-11-03
+Mafonikay, mafonikay, SLE02041106, mafonikay, mafonikay, 24-11-06
+Magbafth, magbafth, SLE02041107, magbafth, magbafth, 24-11-07
+Magbapsa, magbapsa, SLE02041108, magbapsa, magbapsa, 24-11-08
+Sangbada, sangbada, SLE01030706, sangbada, sangbada, 13-07-06
+Malakuray, malakuray, SLE02041109, malakuray, malakuray, 24-11-09
+Maron, maron, SLE02041110, maron, maron, 24-11-10
+Robombeh, robombeh, SLE02041111, robombeh, robombeh, 24-11-11
+Dumbia, dumbia, SLE01030101, dumbia, dumbia, 13-01-01
+Fiama, fiama, SLE01030102, fiama, fiama, 13-01
+Kooma, kooma, SLE01030104, kooma, kooma, 13-01-04
+Yorkor, yorkor, SLE01030105, yorkor, yorkor, 13-01-05
+Gbikidakor, gbikidakor, SLE01030202, gbikidakor, gbikidakor, 13-02-02
+Kamara, kamara, SLE01030203, kamara, kamara, 13-02-03
+Maikandor, maikandor, SLE01030204, maikandor, maikandor, 13-02-04
+Gbane Kandor, gbanekando, SLE01030301, gbane kandor, gbanekando, 13-03-01
+Gbane Tetema, gbanetetem, SLE01030303, gbane tetema, gbanetetem, 13-03-03
+Gbendekor, gbendekor, SLE01030304, gbendekor, gbendekor, 13-03-04
+Yanbidu, yanbidu, SLE01030305, yanbidu, yanbidu, 13-03-05
+Bassia, bassia, SLE02020102, bassia, bassia, 22-02-02
+Banfinfeh, banfinfeh, SLE01030401, banfinfeh, banfinfeh, 13-04-01
+Banyafeh, banyafeh, SLE01030402, banyafeh, banyafeh, 13-04-02
+Banyakor, banyakor, SLE01030403, banyakor, banyakor, 13-04-03
+Moindefeh, moindefeh, SLE01030404, moindefeh, moindefeh, 13-04-04
+Moindekor, moindekor, SLE01030405, moindekor, moindekor, 13-04-05
+Dangbaidu, dangbaidu, SLE01030601, dangbaidu, dangbaidu, 13-06-01
+Gbondu, gbondu, SLE01030602, gbondu, gbondu, 13-06-02
+Kongofinja, kongofinja, SLE01030603, kongofinja, kongofinja, 13-06-03
+Sukudu, sukudu, SLE01030604, sukudu, sukudu, 13-06-04
+Dia, dia, SLE01030701, dia, dia, 13-07-01
+Kamara, kamara, SLE01030702, kamara, kamara, 13-07-02
+Kensay, kensay, SLE01030703, kensay, kensay, 13-07-03
+Lei, lei, SLE01030705, lei, lei, 13-07
+Tankoro, tankoro, SLE01030707, tankoro, tankoro, 13-07-07
+Tingi-Kor, tingikor, SLE01030708, tingi - kor, tingikor, 13-07-08
+Yawai, yawai, SLE01030709, yawai, yawai, 13-07-09
+Kamiendor, kamiendor, SLE01030801, kamiendor, kamiendor, 13-08-01
+Kutey, kutey, SLE01030802, kutey, kutey, 13-08-02
+Mafindor, mafindor, SLE01030803, mafindor, mafindor, 13-08
+Bafinfeh, bafinfeh, SLE01030901, bafinfeh, bafinfeh, 13-09-01
+Bandafafeh, bandafafeh, SLE01030902, bandafafeh, bandafafeh, 13-09-02
+Njama, njama, SLE01031301, njama, njama, 13-13-01
+Gbogboafeh, gbogboafeh, SLE01030903, gbogboafeh, gbogboafeh, 13-09-03
+Jaiama, jaiama, SLE01030904, jaiama, jaiama, 13-09-04
+Masayiefeh, masayiefeh, SLE01030905, masayiefeh, masayiefeh, 13-09-05
+Bafinfeh, bafinfeh, SLE01031001, bafinfeh, bafinfeh, 13-10-01
+Bafinfeh, bafinfeh, SLE01031101, bafinfeh, bafinfeh, 13-11-01
+Dangbaidu, dangbaidu, SLE01031102, dangbaidu, dangbaidu, 13-11-02
+Njeikor, njeikor, SLE01031105, njeikor, njeikor, 13-11-05
+Foidu Mongor, foidumongo, SLE01031201, foidu mongor, foidumongo, 13-12-01
+Kokongokuma, kokongokum, SLE01031202, kokongokuma, kokongokum, 13-12-02
+Maindu, maindu, SLE01031203, maindu, maindu, 13-12-03
+Mofinkor, mofinkor, SLE01031204, mofinkor, mofinkor, 13-12-04
+Sawa Buma, sawabuma, SLE01031205, sawa buma, sawabuma, 13-12-05
+Tensekor, tensekor, SLE01031207, tensekor, tensekor, 13-12-08
+Tankoro, tankoro, SLE01031302, tankoro, tankoro, 13-13
+Woafeh, woafeh, SLE01031303, woafeh, woafeh, 13-13-03
+Bawadu, bawadu, SLE01031401, bawadu, bawadu, 13-14-01
+Manan, manan, SLE02030104, manan, manan, 23-01-08
+Mawundea, mawundea, SLE02030105, mawundea, mawundea, 23-01-10
+Numula 1, numulai, SLE02030106, numula i, numulai, 23-01-03
+Numula 2, numulaii, SLE02030107, numula ii, numulaii, 23-01-04
+Numula 3, numulaiii, SLE02030108, numula iii, numulaiii, 23-01-05
+Numula 4, numulaiv, SLE02030109, numula iv, numulaiv, 23-01-06
+Sinkunia, sinkunia, SLE02030111, sinkunia, sinkunia, 23-01-09
+Darakuru, darakuru, SLE02030201, darakuru, darakuru, 23-02-03
+Gbenekoro, gbenekoro, SLE02030202, gbenekoro, gbenekoro, 23-02-06
+Kania, kania, SLE02030203, kania, kania, 23-02-04
+Kondembaia, kondembaia, SLE02030204, kondembaia, kondembaia, 23-02-01
+Lengekoro, lengekoro, SLE02030205, lengekoro, lengekoro, 23-02-05
+Sokurala, sokurala, SLE02030206, sokurala, sokurala, 23-02-02
+Balandugu, balandugu, SLE02030301, balandugu, balandugu, 23-03-11
+Dogoloya, dogoloya, SLE02030302, dogoloya, dogoloya, 23-03-10
+Fissaya I, fissayai, SLE02030303, fissaya i, fissayai, 23-03-02
+Fissaya II, fissayaii, SLE02030304, fissaya ii, fissayaii, 23-03-03
+Nomokoya, nomokoya, SLE02030912, nomo koya, nomokoya, 23-09-07
+Gbentu III, gbentuiii, SLE02030305, gbentu iii, gbentuiii, 23-03-04
+Herekor, herekor, SLE02030306, herekor, herekor, 23-03-12
+Kalia, kalia, SLE02030307, kalia, kalia, 23-03-01
+Kakallain, kakallain, SLE02030402, kakallain, kakallain, 23-04-05
+Kamba, kamba, SLE02030308, kamba, kamba, 23-03-07
+Lagor, lagor, SLE02030309, lagor, lagor, 23-03-08
+Gbonkobor, gbonkobor, SLE02030401, gbonkobor, gbonkobor, 23-04-01
+Musaia, musaia, SLE02030310, musaia, musaia, 23-03-09
+Sankan I, sankani, SLE02030311, sankan i, sankani, 23-03-05
+Sankan II, sankanii, SLE02030312, sankan ii, sankanii, 23-03-06
+Kaponpon, kaponpon, SLE02031008, kaponpon, kaponpon, 23-10-04
+Kasunko, kasunko, SLE02030403, kasunko, kasunko, 23-04
+Kayaka, kayaka, SLE02030404, kayaka, kayaka, 23-04-04
+Tamiso I, tamisoi, SLE02030405, tamiso i, tamisoi, 23-04-03
+Tamiso II, tamisoii, SLE02030406, tamiso ii, tamisoii, 23-04-02
+Benadugu, benadugu, SLE02030501, benadugu, benadugu, 23-05-05
+Deldugu, deldugu, SLE02030502, deldugu, deldugu, 23-05-04
+Mankalia, mankalia, SLE02030503, mankalia, mankalia, 23-05-06
+Mongo I, mongoi, SLE02030504, mongo i, mongoi, 23-05-03
+Mongo II, mongoii, SLE02030505, mongo ii, mongoii, 23-05-01
+Morifindugu, morifindug, SLE02030506, morifindugu, morifindug, 23-05-02
+Kulor, kulor, SLE02030601, kulor, kulor, 23-06-04
+Neya I, neyai, SLE02030602, neya i, neyai, 23-06-05
+Neya II, neyaii, SLE02030603, neya ii, neyaii, 23-06-01
+Heremakono, heremakono, SLE02030802, heremakono, heremakono, 23-08-01
+Nyedu, nyedu, SLE02030604, nyedu, nyedu, 23-06-02
+Barawa, barawa, SLE02030701, barawa, barawa, 23-07-05
+Pampakoh, pampakoh, SLE02031009, pampakoh, pampakoh, 23-10-08
+Kalian, kalian, SLE02030702, kalian, kalian, 23-07-02
+Bendugu, bendugu, SLE02030801, bendugu, bendugu, 23-08-05
+Wollay, wollay, SLE02030704, wollay, wollay, 23-07-04
+Yiffin, yiffin, SLE02030705, yiffin, yiffin, 23-07-01
+Semamaia, semamaia, SLE02031010, semamaia, semamaia, 23-10-07
+Koinadugu, koinadugu, SLE02030803, koinadugu, koinadugu, 23-08-07
+Lower Kamadugu, lowerkamad, SLE02030804, lower kamadugu, lowerkamad, 23-08-02
+Bilimaia, bilimaia, SLE02030808, bilimaia, bilimaia, 23-08-06
+Biribaia, biribaia, SLE02030901, biribaia, biribaia, 23-09-01
+Dara, dara, SLE02030902, dara, dara, 23-09-02
+Upper Kamadugu, upperkamad, SLE02030805, upper kamadugu, upperkamad, 23-08-04
+Yiraia, yiraia, SLE02030806, yiraia, yiraia, 23-08-03
+Falaba, falaba, SLE02030903, falaba, falaba, 23-09-03
+Fudea, fudea, SLE02030904, fudea, fudea, 23-09-04
+Ganya, ganya, SLE02030905, ganya, ganya, 23-09-05
+Gberia Fotombu, gberiafoto, SLE02030906, gberia -fotombu, gberiafoto, 23-09-12
+Gberia-Timbako, gberiatimb, SLE02030907, gberia -timbako, gberiatimb, 23-09-11
+Kambaia, kambaia, SLE02030909, kambaia, kambaia, 23-09-10
+Koindu-Kura, koindukura, SLE02030910, koindu-kura, koindukura, 23-09-09
+Sonkoya, sonkoya, SLE02030913, sonkoya, sonkoya, 23-09-06
+Bafodia, bafodia, SLE02031001, bafodia, bafodia, 23-10-05
+Kadanso, kadanso, SLE02031002, kadanso, kadanso, 23-10-03
+Kakoya, kakoya, SLE02031003, kakoya, kakoya, 23-10-02
+Mambolo, mambolo, SLE02020402, mambolo, mambolo, 22-04
+Kamanikie, kamanikie, SLE02031004, kamanikie, kamanikie, 23-10-06
+Kamayortortor, kamayortor, SLE02031005, kamayortortor, kamayortor, 23-10-01
+Kambalia, kambalia, SLE02031006, kambalia, kambalia, 23-10-09
+Kambia, kambia, SLE02031007, kambia, kambia, 23-10-10
+Taelia, taelia, SLE02031011, taelia, taelia, 23-10-11
+Zone 1, zonei, SLE02031101, zone i, zonei, 23-11-01
+Zone 2, zoneii, SLE02031102, zone ii, zoneii, 23-11-02
+Zone 4, zoneiv, SLE02031104, zone iv, zoneiv, 23-11-06
+Zone 5, zonev, SLE02031105, zone v, zonev, 23-11-05
+Zone 6, zonevi, SLE02031106, zone vi, zonevi, 23-11-04
+Zone 7, zonevii, SLE02031107, zone vii, zonevii, 23-11-03
+Kabakeh/Balandugu, kabakeh/ba, SLE02010103, kabakeh/balandugu, kabakeh/ba, 21-01-03
+Bumban, bumban, SLE02010101, bumban, bumban, 21-01-01
+Bumbandain, bumbandain, SLE02010102, bumbandain, bumbandain, 21-01-02
+Karassa, karassa, SLE02010106, karassa, karassa, 21-01-06
+Kagbankuna, kagbankuna, SLE02010104, kagban kuna, kagbankuna, 21-01-04
+Kamabai, kamabai, SLE02010105, kamabai, kamabai, 21-01-05
+Kamaranka, kamaranka, SLE02010303, kamaranka, kamaranka, 21-03-03
+Karina, karina, SLE02010107, karina, karina, 21-01-07
+Kayonkoro, kayonkoro, SLE02010108, kayonkoro, kayonkoro, 21-01-08
+Makumray A, makumraya, SLE02010308, makumray 'a', makumraya, 21-03-08
+Makumray B, makumrayb, SLE02010309, makumray 'b', makumrayb, 21-03-09
+Gbenkfay, gbenkfay, SLE02010301, gbenkfay, gbenkfay, 21-03-01
+Gbonkobana, gbonkobana, SLE02010302, gbonko bana, gbonkobana, 21-03-02
+Kambia, kambia, SLE02010304, kambia, kambia, 21-03-04
+Kayourgbor, kayourgbor, SLE02010305, kayourgbor, kayourgbor, 21-03-05
+Makulon, makulon, SLE02010307, makulon, makulon, 21-03-07
+Rogberay, rogberay, SLE02010310, rogberay, rogberay, 21-03-10
+Romaneh, romaneh, SLE02010311, romaneh, romaneh, 21-03-11
+Royeama A, royeamaa, SLE02010312, royeama 'a', royeamaa, 21-03-12
+Royeama B, royeamab, SLE02010313, royeama 'b', royeamab, 21-03-13
+Sakuma A, sakumaa, SLE02010314, sakuma 'a', sakumaa, 21-03-14
+Sakuma B, sakumab, SLE02010315, sakuma 'b', sakumab, 21-03-15
+Sendugu A, sendugua, SLE02010316, sendugu 'a', sendugua, 21-03-16
+Sendugu B, sendugub, SLE02010317, sendugu 'b', sendugub, 21-03-17
+Garanganwa, garanganwa, SLE02010401, garanganwa, garanganwa, 21-04-03
+Makarihiteh, makarihite, SLE02010409, makarihiteh, makarihite, 21-04-11
+Gbendembu, gbendembu, SLE02010402, gbendembu, gbendembu, 21-04-04
+Kania, kania, SLE02010404, kania, kania, 21-04-06
+Makeregbohun, makeregboh, SLE02010410, makeregbohun, makeregboh, 21-04-12
+Lobanga, lobanga, SLE02010405, lobanga, lobanga, 21-04-07
+Lohindie, lohindie, SLE02010406, lohindie, lohindie, 21-04-08
+Loko-Madina, lokomadina, SLE02010407, loko-madina, lokomadina, 21-04-09
+Makai, makai, SLE02010408, makai, makai, 21-04-10
+Mamaka, mamaka, SLE02010412, mamaka, mamaka, 21-04-14
+Mamukay, mamukay, SLE02010413, mamukay, mamukay, 21-04-15
+Tanyehun, tanyehun, SLE02010419, tanyehun, tanyehun, 21-04-02
+Masongbo, masongbo, SLE02010414, masongbo, masongbo, 21-04-16
+Matehun, matehun, SLE02010415, matehun, matehun, 21-04-17
+Mayorthan, mayorthan, SLE02010416, mayorthan, mayorthan, 21-04-01
+Sahun, sahun, SLE02010417, sahun, sahun, 21-04-18
+Tambiama, tambiama, SLE02010418, tambiama, tambiama, 21-04-19
+Batkanu, batkanu, SLE02010501, batkanu, batkanu, 21-05-01
+Mafonda, mafonda, SLE02010502, mafonda, mafonda, 21-05-02
+Magbaingba, magbaingba, SLE02010503, magbaingba, magbaingba, 21-05-03
+Magbanamba, magbanamba, SLE02010504, magbanamba, magbanamba, 21-05-04
+Makaiba, makaiba, SLE02010505, makaiba, makaiba, 21-05-05
+Makayrembay, makayremba, SLE02010506, makayrembay, makayremba, 21-05-06
+Simbaya, simbaya, SLE02010512, simbaya, simbaya, 21-05-12
+Mandawahun, mandawahun, SLE02010507, mandawahun, mandawahun, 21-05-07
+Manyakoi, manyakoi, SLE02010508, manyakoi, manyakoi, 21-05-08
+Mayankay, mayankay, SLE02010509, mayankay, mayankay, 21-05-09
+Robaka, robaka, SLE02010510, robaka, robaka, 21-05-10
+Rotha-Tha, rothatha, SLE02010511, rotha-tha, rothatha, 21-05-11
+Hunduwa, hunduwa, SLE02010601, hunduwa, hunduwa, 21-06-05
+Kababala, kababala, SLE02010602, kababala, kababala, 21-06-06
+Kagberay, kagberay, SLE02010603, kagberay, kagberay, 21-06-07
+Kawungulu, kawungulu, SLE02010604, kawungulu, kawungulu, 21-06-01
+Kathegeya, kathegeya, SLE02010802, kathegeya, kathegeya, 21-08-02
+Makendema, makendema, SLE02010605, makendema, makendema, 21-06-02
+Mambiama, mambiama, SLE02010606, mambiama, mambiama, 21-06-08
+Manjahagha, manjahagha, SLE02010607, manjahagha, manjahagha, 21-06-03
+Yana, yana, SLE02010609, yana, yana, 21-06-04
+Gborbana, gborbana, SLE02010701, gborbana, gborbana, 21-07-01
+Mabanta, mabanta, SLE02010702, mabanta, mabanta, 21-07-02
+Magbenteh, magbenteh, SLE02010703, magbenteh, magbenteh, 21-07-03
+Mangay, mangay, SLE02010704, mangay, mangay, 21-07-04
+Rosint, rosint, SLE02010709, rosint, rosint, 21-07-09
+Punthun, punthun, SLE02010708, punthun, punthun, 21-07-08
+Kathanthan, kathanthan, SLE02010801, kathanthan, kathanthan, 21-08-01
+Tonkoba, tonkoba, SLE02010710, tonkoba, tonkoba, 21-07-10
+Yainkassa, yainkassa, SLE02010711, yainkassa, yainkassa, 21-07-11
+Mapaki, mapaki, SLE02010803, mapaki, mapaki, 21-08-03
+Masabong, masabong, SLE02010804, masabong, masabong, 21-08-04
+Mayagba, mayagba, SLE02010805, mayagba, mayagba, 21-08-05
+Rosanda, rosanda, SLE02010806, rosanda, rosanda, 21-08-06
+Maparay, maparay, SLE02011013, maparay, maparay, 21-10-13
+Binkolo, binkolo, SLE02010901, binkolo, binkolo, 21-09-01
+Bombali Bana, bombaliban, SLE02010902, bombali - bana, bombaliban, 21-09-02
+Kabonka, kabonka, SLE02010903, kabonka, kabonka, 21-09-03
+Kasengbeh, kasengbeh, SLE02010904, kasengbeh, kasengbeh, 21-09-04
+Kayassi, kayassi, SLE02010905, kayassi, kayassi, 21-09-05
+Mabamba, mabamba, SLE02010906, mabamba, mabamba, 21-09-06
+Masapi, masapi, SLE02010907, masapi, masapi, 21-09-07
+Banka, banka, SLE02011001, banka, banka, 21-10-02
+Benia, benia, SLE02011002, benia, benia, 21-10-03
+Kaindema, kaindema, SLE02011003, kaindema, kaindema, 21-10-04
+Kamalu, kamalu, SLE02011004, kamalu, kamalu, 21-10-05
+Kania, kania, SLE02011005, kania, kania, 21-10-06
+Kindia, kindia, SLE02011006, kindia, kindia, 21-10-07
+Laminaya, laminaya, SLE02011007, laminaya, laminaya, 21-10-08
+Rothatha, rothatha, SLE02011014, ro-tha-tha, rothatha, 21-10-14
+Madina, madina, SLE02011008, madina, madina, 21-10-01
+Maharibo, maharibo, SLE02011009, maharibo, maharibo, 21-10-09
+Makapa, makapa, SLE02011010, makapa, makapa, 21-10-10
+Makwie Loko, makwieloko, SLE02011011, makwie loko, makwieloko, 21-10-11
+Manathi, manathi, SLE02011012, manathi, manathi, 21-10-12
+Kalangba, kalangba, SLE02011101, kalangba, kalangba, 21-11-01
+Kukuna, kukuna, SLE02011102, kukuna, kukuna, 21-11-02
+Marampa, marampa, SLE02011103, marampa, marampa, 21-11-03
+Masisan, masisan, SLE02011104, masisan, masisan, 21-11-04
+Mateboi, mateboi, SLE02011105, mateboi, mateboi, 21-11-05
+Rogbin, rogbin, SLE02011106, rogbin, rogbin, 21-11-06
+Rogboreh, rogboreh, SLE02011107, rogboreh, rogboreh, 21-11-07
+Rosos, rosos, SLE02011108, rosos, rosos, 21-11-08
+Sendugu, sendugu, SLE02011109, sendugu, sendugu, 21-11-09
+Bugami, bugami, SLE02020103, bugami, bugami, 22-02-03
+Kamakwie, kamakwie, SLE02011201, kamakwie, kamakwie, 21-12-01
+Kamankoh, kamankoh, SLE02011202, kamankoh, kamankoh, 21-12-02
+Kayimbor, kayimbor, SLE02011203, kayimbor, kayimbor, 21-12-03
+Magbonkoni I, magbonkoni, SLE02011204, magbonkoni ii, magbonkoni, 21-12-05
+Magbonkoni II, magbonkoni, SLE02011205, magbonkoni i, magbonkoni, 21-12-04
+Manonkoh, manonkoh, SLE02011206, manonkoh, manonkoh, 21-12-06
+Samia, samia, SLE02011207, samia, samia, 21-12-07
+Dugutha, dugutha, SLE02011301, dugutha, dugutha, 21-13-01
+Moria, moria, SLE02011302, moria, moria, 21-13-02
+Paramount Chief Se, paramountc, SLE02011303, paramount chief sectio, paramountc, 21-13-03
+Simibue, simibue, SLE02011304, simibue, simibue, 21-13-04
+Thalla, thalla, SLE02011305, thalla, thalla, 21-13-05
+Banguraia, banguraia, SLE02020101, banguraia, banguraia, 22-02-01
+Fortumboyie, fortumboyi, SLE02020106, fortumboyie, fortumboyi, 22-02-06
+Gberekhuray, gberekhura, SLE02020107, gberekhuray, gberekhura, 22-02-07
+Gbolon, gbolon, SLE02020108, gbolon, gbolon, 22-02-08
+Kabaya, kabaya, SLE02020109, kabaya, kabaya, 22-02-09
+Kanku Bramaia, kankubrama, SLE02020110, kankubramaia, kankubrama, 22-02-10
+Kua Bramaia, kuabramaia, SLE02020112, kua bramaia, kuabramaia, 22-02-12
+Katalan, katalan, SLE02020203, katalan, katalan, 22-01-03
+Mafaray, mafaray, SLE02020204, mafaray, mafaray, 22-01-04
+Maton, maton, SLE02020205, maton, maton, 22-01-05
+Rogberay, rogberay, SLE02020206, rogberay, rogberay, 22-01-06
+Sanda, sanda, SLE02020207, sanda, sanda, 22-01-07
+Tawuya, tawuya, SLE02020208, tawuya, tawuya, 22-01-08
+Kambia, kambia, SLE02020303, kambia, kambia, 22-03-03
+Robat, robat, SLE02020305, robat, robat, 22-03-05
+Rokupr, rokupr, SLE02020306, rokupr, rokupr, 22-03-06
+Tormina, tormina, SLE02020307, tormina, tormina, 22-03-07
+Kalenkay, kalenkay, SLE02020401, kalenkay, kalenkay, 22-04-01
+Matetie, matetie, SLE02020403, matetie, matetie, 22-04-03
+Mayakie, mayakie, SLE02020404, mayakie, mayakie, 22-04-04
+Robis, robis, SLE02020405, robis, robis, 22-04-05
+Rowollon, rowollon, SLE02020406, rowollon, rowollon, 22-04-06
+Tombo-Wallah, tombowalla, SLE02020407, tombo - wallah, tombowalla, 22-04-07
+Bamoi, bamoi, SLE02020501, bamoi, bamoi, 22-05-01
+Mange, mange, SLE02020608, mange, mange, 22-06-08
+Benna, benna, SLE02020502, benna, benna, 22-05-02
+Kawula, kawula, SLE02020503, kawula, kawula, 22-05-03
+Mapolon, mapolon, SLE02020505, mapolon, mapolon, 22-05-05
+Maserie, maserie, SLE02020506, maserie, maserie, 22-05-06
+Matengha, matengha, SLE02020507, matengha, matengha, 22-05-07
+Matilba, matilba, SLE02020508, matilba, matilba, 22-05-08
+Nonko, nonko, SLE02020509, nonko, nonko, 22-05-09
+Samu, samu, SLE02020510, samu, samu, 22-05-10
+Sumbuya, sumbuya, SLE02020511, sumbuya, sumbuya, 22-05-11
+Thalla, thalla, SLE02020512, thalla, thalla, 22-05-12
+Bubuya, bubuya, SLE02020601, bubuya, bubuya, 22-06-01
+Kpanga Koimato, kpangakoim, SLE03020701, kpanga koimato, kpangakoim, 2-07-04
+Kassiri, kassiri, SLE02020602, kassiri, kassiri, 22-06-02
+Koya, koya, SLE02020603, koya, koya, 22-06-03
+Kychom, kychom, SLE02020604, kychom, kychom, 22-06-04
+Lusenia, lusenia, SLE02020605, lusenia, lusenia, 22-06-05
+Mafufuneh, mafufuneh, SLE02020606, mafufuneh, mafufuneh, 22-06-06
+Makuma, makuma, SLE02020607, makuma, makuma, 22-06-07
+Mapotolon, mapotolon, SLE02020609, mapotolon, mapotolon, 22-06-09
+Moribaia, moribaia, SLE02020610, moribaia, moribaia, 22-06-10
+Rokon, rokon, SLE02020611, rokon, rokon, 22-06-11
+Rosinor, rosinor, SLE02020612, rosinor, rosinor, 22-06-12
+Bubuya, bubuya, SLE02020701, bubuya, bubuya, 22-07-01
+Kathanthineh, kathanthin, SLE02020703, kathanthineh, kathanthin, 22-07-03
+Magbonkoh, magbonkoh, SLE02020704, magbonkoh, magbonkoh, 22-07-04
+Sowonde, sowonde, SLE03041211, sowonde, sowonde, 4-12-01
+York, york, SLE04010407, york, york, 32-04
+Njaifeh, njaifeh, SLE01031003, njaifeh, njaifeh, 13-10-03
+Njagbakahun, njagbakahu, SLE01031002, njagbakahun, njagbakahu, 13-10-02
+Lower Sami, lowersami, SLE01010902, lower sami, lowersami, 11-09-02
+Jagor, jagor, SLE01011202, jagor, jagor, 11-12-02
+Gorahun, gorahun, SLE01021504, gorahun, gorahun, 12-15-04
+Gbane Yemao, gbaneyemao, SLE01030201, gbane - yemao, gbaneyemao, 13-02-01
+Mongo, mongo, SLE01030205, mongo, mongo, 13-02-05
+Bunabu, bunabu, SLE01030501, bunabu, bunabu, 13-05-01
+Kangama, kangama, SLE01030502, kangama, kangama, 13-05-02
+Selokoma, selokoma, SLE01030503, selokoma, selokoma, 13-05-03
+Koaro, koaro, SLE01030704, koaro, koaro, 13-07-04
+Peyifeh, peyifeh, SLE01031004, peyifeh, peyifeh, 13-10-04
+Tama, tama, SLE01031005, tama, tama, 13-10-05
+Fakongofeh, fakongofeh, SLE01031103, fakongofeh, fakongofeh, 13-11-03
+Kawafeh, kawafeh, SLE01031104, kawafeh, kawafeh, 13-11-04
+Samgbafeh, samgbafeh, SLE01031106, samgbafeh, samgbafeh, 13-11-06
+Sumunjifeh, sumunjifeh, SLE01031108, sumunjifeh, sumunjifeh, 13-11-08
+Tharma Forest, tharmafore, SLE01031109, tharma forest, tharmafore, 13-11-09
+Sawa Fiama, sawafiama, SLE01031206, sawa fiama, sawafiama, 13-12-06
+Komadu, komadu, SLE01031402, komadu, komadu, 13-14-02
+Kwidu, kwidu, SLE01031403, kwidu, kwidu, 13-14-03
+Konta, konta, SLE02020111, konta, konta, 22-02-11
+Kamassassa, kamassassa, SLE02020702, kamassassa, kamassassa, 22-07-02
+Yebaya, yebaya, SLE02020706, yebaya, yebaya, 22-07-06
+Marunia Koray, maruniakor, SLE02050403, marunia koray, maruniakor, 25-05-04
+Saradu, saradu, SLE02030605, saradu, saradu, 23-06-03
+Sumbaria, sumbaria, SLE02030703, sumbaria, sumbaria, 23-07-03
+Kahekay, kahekay, SLE03020404, kahekay, kahekay, 2-04-02
+Yurika, yurika, SLE02040614, yurika, yurika, 24-06-05
+Ba-Kobotu, bakobotu, SLE03020601, ba-kobotu, bakobotu, 2-06-01
+Benkeh, benkeh, SLE03030102, benkeh, benkeh, 3-01-02
+Njagbema, njagbema, SLE03030705, njagbema, njagbema, 3-07-05
+Yeima, yeima, SLE03030707, yeima, yeima, 3-07-07
+Lower Ribbi, lowerribbi, SLE03031202, lower ribbi, lowerribbi, 3-12-02
+
+---- with Levensthein distance  1 found 61 -----
+
+source name, source unified, source id, matched name, matched unified, matched id
+Bagollay, bagollay, SLE03041201, balollay, balollay, 4-12-10
+Mathirie, mathirie, SLE02040513, mathire, mathire, 24-05-13
+Rogbla, rogbla, SLE02040113, rogbia, rogbia, 24-01-09
+Jakema II, jakemaii, SLE03040207, jakemo ii, jakemoii, 4-02-05
+Sewama, sewama, SLE03020605, sewoma, sewoma, 2-06-05
+Bohol, bohol, SLE03020802, bohal, bohal, 2-08-02
+Laimba, laimba, SLE03040105, laimaba, laimaba, 4-01-10
+Jakema I, jakemai, SLE03040206, jakemo i, jakemoi, 4-02-04
+Kortugbu, kortugbu, SLE03040210, kortuglu, kortuglu, 4-02-02
+Panga, panga, SLE03040406, pamga, pamga, 4-07-10
+Yargbe, yargbe, SLE03020208, yargre, yargre, 2-02-08
+Baryegbe, baryegbe, SLE03021101, baryege, baryege, 2-11-01
+Mobulie, mobulie, SLE03021104, mobuli, mobuli, 2-11-04
+Mofindor, mofindor, SLE01010809, mafindor, mafindor, 11-08-07
+Mokorewo, mokorewo, SLE03030804, mokerewo, mokerewo, 3-08-04
+Mosongla, mosongla, SLE03030806, mosonela, mosonela, 3-08-06
+Largoh, largoh, SLE03031103, lagoh, lagoh, 3-11-04
+Njagbahun, njagbahun, SLE03031108, niagbahun, niagbahun, 3-11-09
+Makera, makera, SLE03031203, mekera, mekera, 3-12-05
+Yapoma, yapoma, SLE03031312, vapoma, vapoma, 3-13-12
+Sonnie, sonnie, SLE01020504, sonie, sonie, 12-05-04
+Gboo, gboo, SLE01011105, gbao, gbao, 11-11-05
+Gegbwema, gegbwema, SLE01021502, gbegbwema, gbegbwema, 12-15-02
+Giewoma, giewoma, SLE01021503, giewama, giewama, 12-15-03
+Kumatandu, kumatandu, SLE01011203, kumantandu, kumantandu, 11-12-03
+Bunumbu, bunumbu, SLE01010701, bunjumbu, bunjumbu, 11-07-01
+Kpaewa, kpaewa, SLE01010703, kpawa, kpawa, 11-07-03
+Sei I, seii, SLE01011110, sei, sei, 11-11-10
+Upper Nyawa, uppernyawa, SLE01011112, upper nyawo, uppernyawo, 11-11-12
+Naiahun, naiahun, SLE01011306, niahun, niahun, 11-13-06
+Tissana, tissana, SLE03010207, tissawa, tissawa, 1-02-07
+Sonnah, sonnah, SLE03010407, sannah, sannah, 1-04-07
+Walihun, walihun, SLE03010509, wlihun, wlihun, 1-05-09
+Keisua, keisua, SLE03010901, kesua, kesua, 1-09-02
+Kabaia, kabaia, SLE02050201, kagbaia, kagbaia, 25-02-01
+Kumrabai, kumrabai, SLE02050401, kumkabai, kumkabai, 25-05-02
+Manewa, manewa, SLE02050805, menewa, menewa, 25-08-07
+Konta Kargbo, kontakargb, SLE02040303, konta kargob, kontakargo, 24-03-04
+Manungbu, manungbu, SLE02040207, manum gbu, manumgbu, 24-02-02
+Batpolon, batpolon, SLE02040701, botpolon, botpolon, 24-07-12
+Makorobolai, makorobola, SLE02040716, makorobolia, makoroboli, 24-07-23
+Magbolontor, magbolonto, SLE02041007, mogbolontor, mogbolonto, 24-10-03
+Gbane Kour, gbanekour, SLE01030302, gbane kgur, gbanekgur, 13-03-02
+Kunbulun 1, kunbuluni, SLE02030101, kunbulon i, kunbuloni, 23-01-01
+Kunbulun 2, kunbulunii, SLE02030102, kunbulon ii, kunbulonii, 23-01-02
+Kalangba, kalangba, SLE02020202, kalangbo, kalangbo, 22-01-02
+Kaliyereh, kaliyereh, SLE02030908, kaliyareh, kaliyareh, 23-09-08
+Laminaya, laminaya, SLE02010306, liminaya, liminaya, 21-03-06
+Makump, makump, SLE02010411, makumpa, makumpa, 21-04-13
+Kalangba, kalangba, SLE02010403, kalangna, kalangna, 21-04-05
+Mankene, mankene, SLE02010705, mankeni, mankeni, 21-07-05
+Masongbo A, masongboa, SLE02010706, masongbo i, masongboi, 21-07-06
+Yankabala, yankabala, SLE02011110, yankabana, yankabana, 21-11-10
+Bombe, bombe, SLE02020301, bumbe, bumbe, 22-03-01
+Kamba, kamba, SLE02020302, kaamba, kaamba, 22-03-02
+Kargbulor, kargbulor, SLE02020304, korgbulor, korgbulor, 22-03-04
+Kayenkassa, kayenkassa, SLE02020504, kayankassa, kayankassa, 22-05-04
+Mamankoh, mamankoh, SLE02020705, mamanakoh, mamanakoh, 22-07-05
+Sinkongofeh, sinkongofe, SLE01031107, simkongofeh, simkongofe, 13-11-07
+Yawatanda, yawatanda, SLE01031110, yawantanda, yawantanda, 13-11-10
+
+---- with Levensthein distance  2 found 13 -----
+
+source name, source unified, source id, matched name, matched unified, matched id
+Yikie Karbay, yikiekarba, SLE03020707, yike karbay, yikekarbay, 2-07-02
+Turttle Islands, turttleisl, SLE03020303, turtle island, turtleisla, 2-03-03
+Kpatawa, kpatawa, SLE01021002, kpaiawo, kpaiawo, 12-10-03
+Damai, damai, SLE03010101, damia, damia, 1-01-01
+Kakallain, kakallain, SLE02050302, kakallaw, kakallaw, 25-03-02
+Magbengbe, magbengbe, SLE02040206, magbemgbeh, magbemgbeh, 24-02-05
+Kamasundu, kamasundu, SLE02040203, kamasondo, kamasondo, 24-02-06
+Maconteh, maconteh, SLE02040904, maconthe, maconthe, 24-09-04
+Layamantmetank, layamantme, SLE02041006, layamatmetank, layamatmet, 24-10-08
+Tensendakor, tensendako, SLE01031208, tensedakor, tensedakor, 13-12-07
+Masongbo B, masongbob, SLE02010707, masongbo ii, masongboii, 21-07-07
+Waterloo Village A, waterloovi, SLE04010305, waterloo, waterloo, 32-03  --> removed
+
+-------

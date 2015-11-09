@@ -39,6 +39,7 @@ changes:
 - kambia: exchange `bramaia` with `gbinle dixin`
 - koinadugu NOTE making `dembelia musaia` === `folosaba dembelia` see comments in https://github.com/eHealthAfrica/sl-ebola-call-admin/issues/959
 - pujehun  Kpanga - Kabonde  moved after `Mano Sakrim`. `Futa Pejeh` moved after `Panga Krim`
+- moyamba: fix Gbengbasoke -> Gbengbatoke
 
 3)  Execute the script:
 
