@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this
 file. This file is structured according to http://keepachangelog.com/
 
 - - -
+## unreleased
+
+### Changed
+- reordered sl json file by `id`
+
 ## 3.1.3 03.11.2015
 
 ###Fixed
