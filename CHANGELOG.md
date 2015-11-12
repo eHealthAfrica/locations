@@ -4,10 +4,17 @@ All notable changes to this project will be documented in this
 file. This file is structured according to http://keepachangelog.com/
 
 - - -
-## unreleased
+## 3.2.0 11.11.2015
+### Added
+- (SL) added ochaId
+- (SL) added coordinates to section
 
 ### Changed
 - reordered sl json file by `id`
+
+###Fixed
+- removed dummy entry: added dummy line for `bombali sebora`
+- corrected in moyamba: fix Gbengbasoke -> Gbengbatoke
 
 ## 3.1.3 03.11.2015
 

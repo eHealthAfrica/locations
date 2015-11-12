@@ -51,7 +51,7 @@ Bagruwa,Benkeh,Weifakai
 Bagruwa,Benkeh,Centelo Timdale
 Bagruwa,Kawaya,Semabu
 Bagruwa,Kawaya,Fomaya
-Bagruwa,Kawaya,Kawaya 
+Bagruwa,Kawaya,Kawaya
 Bagruwa,Kawaya,Pujuhun
 Bagruwa,Kawaya,Bambwbu
 Bagruwa,Kawaya,Gbangbama
@@ -144,7 +144,7 @@ Bagruwa,Sembehun,Dodo
 Bagruwa,Sembehun,Kibbie
 Bagruwa,Sembehun,Machar
 Bagruwa,Sembehun,Senegai
-Bagruwa,Sembehun,Sembehun 
+Bagruwa,Sembehun,Sembehun
 Bagruwa,Sembehun,Kpetewona
 Bumpeh,Bellentin,Mokamem
 Bumpeh,Bellentin,Mosampa
@@ -343,7 +343,7 @@ Dasse,Kenema,Semabu
 Dasse,Kenema,Kowama
 Dasse,Kenema,Kotuhun
 Dasse,Kenema,Funima
-Dasse,Mano,Mano 
+Dasse,Mano,Mano
 Dasse,Niti Korley,Nitikorley
 Dasse,Niti Korley,Naiaguehun
 Dasse,Niti Korley,Mosenesie
@@ -472,7 +472,7 @@ Fakunya,To-Ndambalenga,Mogbondo
 Fakunya,To-Ndambalenga,Kpetema - Junction
 Fakunya,To-Ndambalenga,Kondayama
 Fakunya,To-Ndambalenga,Gbahama - Togbie
-Fakunya,To-Ndambalenga,Waterloo 
+Fakunya,To-Ndambalenga,Waterloo
 Fakunya,Tullu,Moyolo
 Fakunya,Tullu,Njala - Gojoe
 Fakunya,Tullu,Kowama
@@ -695,7 +695,7 @@ Kaiyamba,Waliwahun,Kpatema
 Kaiyamba,Waliwahun,Motapu
 Kaiyamba,Waliwahun,Guabu
 Kaiyamba,Waliwahun,Sembehun
-Kaiyamba,Waliwahun,Kangahun  
+Kaiyamba,Waliwahun,Kangahun
 Kaiyamba,Waliwahun,Wopo
 Kaiyamba,Waliwahun,Periwahun
 Kaiyamba,Waliwahun,Bambuibu Junction
@@ -704,13 +704,13 @@ Kaiyamba,Waliwahun,Fabaina
 Kamajie,Kowama,Blama (New Town)
 Kamajie,Kowama,Jabama
 Kamajie,Kowama,Katema
-Kamajie,Kowama,Gondama 
+Kamajie,Kowama,Gondama
 Kamajie,Kowama,Yandu
 Kamajie,Mogbuama,Yoni
 Kamajie,Mogbuama,Bandajuma
 Kamajie,Mogbuama,Bontiwo
 Kamajie,Mogbuama,Tentihun (Old)
-Kamajie,Mogbuama,Mogbuama 
+Kamajie,Mogbuama,Mogbuama
 Kamajie,Mogbuama,Mokoyo
 Kamajie,Ngiegombu,Foya - Togbie
 Kamajie,Ngiegombu,Manahun
@@ -732,7 +732,7 @@ Kamajie,Tawovehun,Senehun
 Kamajie,Tawovehun,Benduma
 Kamajie,Tawovehun,Ngiehun
 Kamajie,Tawovehun,Ngolehun
-Kamajie,Tawovehun,Kotumahun 
+Kamajie,Tawovehun,Kotumahun
 Kamajie,Tawovehun,Jayehun
 Kamajie,Yeima,Gbageima
 Kamajie,Yeima,Moindu
@@ -746,7 +746,7 @@ Kamajie,Yeima,Benduma
 Kamajie,Yeima,Gandorhun
 Kamajie,Yeima,Bendehun
 Kamajie,Yeima,Bandama
-Kongbora,Gibina,Bauya 
+Kongbora,Gibina,Bauya
 Kongbora,Gondama,Gondama
 Kongbora,Gondama,Mogbondo
 Kongbora,Mobonor,Mobonor
@@ -863,7 +863,7 @@ Kori,Zone Seven,Gbonjema
 Kori,Zone Seven,Gangama
 Kori,Zone Seven,Njala Junction
 Kori,Zone Seven,Baoma
-Kori,Zone Seven,Mokonde 
+Kori,Zone Seven,Mokonde
 Kori,Zone Seven,Mosongo
 Kori,Zone Seven,Momenga
 Kori,Zone Six,Kania
@@ -874,7 +874,7 @@ Kori,Zone Six,Banda
 Kori,Zone Six,Banda - Madina
 Kori,Zone Six,Njaguma
 Kori,Zone Six,Bondayelahun
-Kori,Zone Six,Manjehun 
+Kori,Zone Six,Manjehun
 Kori,Zone Six,Bondiwo
 Kori,Zone Six,Faama
 Kori,Zone Six,Mossellah
@@ -913,7 +913,7 @@ Kori,Zone Two,Lagor
 Kori,Zone Two,Gborijema
 Kori,Zone Two,Messima
 Kori,Zone Two,Mokaba
-Kori,Zone Two,Taiama 
+Kori,Zone Two,Taiama
 Kori,Zone One,Peepor
 Kori,Zone One,Mobai
 Kori,Zone One,Njala - Kapuima
@@ -952,7 +952,7 @@ Kowa,Njagbahun,Fallah
 Kowa,Njagbahun,Maata
 Kowa,Njagbahun,Perewahun Keneh
 Kowa,Njagbahun,Kpetema
-Kowa,Njama,Njama 
+Kowa,Njama,Njama
 Kowa,Tabe,Tabe
 Kowa,Tawoveihun,Mokojo
 Kowa,Tawoveihun,Timdale
@@ -983,7 +983,7 @@ Lower Banta,Gbangbatoke,Shenge
 Lower Banta,Gbangbatoke,Kabati
 Lower Banta,Gbangbatoke,Pambamawa
 Lower Banta,Gbangbatoke,Mokambay
-Lower Banta,Gbangbatoke,Gbangbatoke 
+Lower Banta,Gbangbatoke,Gbangbatoke
 Lower Banta,Gbengbasoke,Sembehun
 Lower Banta,Gbengbasoke,Momengi
 Lower Banta,Gbengbasoke,Foya
@@ -1013,7 +1013,7 @@ Lower Banta,Mofindoh,Mofindoh
 Lower Banta,Mofindoh,Mosogboma
 Lower Banta,Mofindoh,Mondogor
 Lower Banta,Mofindoh,Mogawo
-Lower Banta,Mokotawa,Mokanji 
+Lower Banta,Mokotawa,Mokanji
 Lower Banta,Mokotawa,Gogoima
 Lower Banta,Mokotawa,Kotumahun
 Lower Banta,Mokotawa,Yoiyahun
@@ -1032,7 +1032,7 @@ Lower Banta,Ndendemoya,Ndendemoya
 Lower Banta,Ndendemoya,Belebu
 Lower Banta,Ndendemoya,Gibima
 Lower Banta,Ndendemoya,Mokpandimoh
-Lower Banta,Ndendemoya,Kpendebu 
+Lower Banta,Ndendemoya,Kpendebu
 Lower Banta,Ngolala,Moyogboh
 Lower Banta,Ngolala,Mile - 45
 Lower Banta,Ngolala,Ngibiabahun
@@ -1157,7 +1157,7 @@ Ribbi,Motoni,Maburima
 Ribbi,Motoni,Bandajuma
 Ribbi,Motoni,Masabis
 Ribbi,Motoni,Mabobo
-Ribbi,Motoni,Brandford 
+Ribbi,Motoni,Brandford
 Ribbi,Motoni,Moyambabasi
 Ribbi,Motoni,Motoni
 Ribbi,Motonkoh,Mosampa
@@ -1202,7 +1202,7 @@ Timdale,Gambia,Gambia
 Timdale,Gambia,Mosunga
 Timdale,Gambia,Lantibul
 Timdale,Gbehan,Mogben
-Timdale,Gbehan,Mosagbe 
+Timdale,Gbehan,Mosagbe
 Timdale,Gbehan,Senehun
 Timdale,Gbehan,Tissana
 Timdale,Gbehan,Machan
@@ -1306,7 +1306,7 @@ Upper Banta,Mogongbe,Mogongbe
 Upper Banta,Songbo,Vaama
 Upper Banta,Songbo,Bandavulahun
 Upper Banta,Songbo,Mombawa
-Upper Banta,Songbo,Mongeriwo 
+Upper Banta,Songbo,Mongeriwo
 Upper Banta,Songbo,Mosapor
 Upper Banta,Songbo,Kpetewoma
 Upper Banta,Songbo,Julehun

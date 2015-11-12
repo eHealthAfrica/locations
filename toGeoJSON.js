@@ -22,9 +22,16 @@ var getSubRegions = function (index, parentId, isLast) {
   }
 }
 
+function rgb2hex(r,g,b) {
+	if (g !== undefined)
+		return Number(0x1000000 + r*0x10000 + g*0x100 + b).toString(16).substring(1);
+	else
+		return Number(0x1000000 + r[0]*0x10000 + r[1]*0x100 + r[2]).toString(16).substring(1);
+}
 /*
 *
 * maps a region to a GeoJSON object
+* produces a different colored marked for levels 1/2/3
 *
 * @param region {Object} with coordinates.lon, coordinates.lat name and id required fields
 * @param index {integer} the admin divison level
@@ -35,11 +42,23 @@ var getSubRegions = function (index, parentId, isLast) {
 var geojsonFeatures = []
 var geojsonFeature = function (region, index) {
   var LEVEL1 = 1
+  var LEVEL2 = 2
+  var LEVEL3 = 3
   var options
-  if (index === LEVEL1) {
-    options = { marker_color: '#6a142e', marker_size: 'medium' }
+  // an effort to make the markers have a different color by id.
+  // may be easier just to use the id(`-` removed) modulo 255
+  if (index === LEVEL3) {
+	var r = 123 * parseInt(region.parentId.split('-')[0]) % 255
+	var g = 413 * parseInt(region.parentId.split('-')[0]) % 255
+	var b = 123 * parseInt(region.parentId.split('-')[1]) % 255
+    options = { marker_color: '#' + rgb2hex(r, g, b), marker_size: 'small' }
+  } else if (index === LEVEL2) {
+	var r = 123 * parseInt(region.id.split('-')[0]) % 255
+	var g = 413 * parseInt(region.id.split('-')[0]) % 255
+	var b = 123 * parseInt(region.id.split('-')[1]) % 255
+    options = { marker_color: '#' + rgb2hex(r, g, b), marker_size: 'medium' }
   } else {
-    options = { marker_color: '#dbc156', marker_size: 'small' }
+    options = { marker_color: '#6a142e', marker_size: 'large' }
   }
   return {
     geometry: {
