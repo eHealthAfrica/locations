@@ -1693,7 +1693,7 @@
       {
         "name": "east i",
         "id": "31-01",
-	"ochaId": "SLE040203",
+        "ochaId": "SLE040203",
         "parentId": "31",
         "coordinates": {
           "lat": 8.48847896579152,
@@ -1703,7 +1703,7 @@
       {
         "name": "east ii",
         "id": "31-02",
-	"ochaId": "SLE040204",
+        "ochaId": "SLE040204",
         "parentId": "31",
         "coordinates": {
           "lat": 8.48154503642979,
@@ -1733,7 +1733,7 @@
       {
         "name": "central ii",
         "id": "31-05",
-        "ochaId": "SLE040205",
+        "ochaId": "SLE040202",
         "parentId": "31",
         "coordinates": {
           "lat": 8.48540135491406,
@@ -1743,7 +1743,7 @@
       {
         "name": "west i",
         "id": "31-06",
-	"ochaId": "SLE040206",
+        "ochaId": "SLE040206",
         "parentId": "31",
         "coordinates": {
           "lat": 8.4838685167465,
@@ -1753,7 +1753,7 @@
       {
         "name": "west ii",
         "id": "31-07",
-	"ochaId": "SLE040207",
+        "ochaId": "SLE040207",
         "parentId": "31",
         "coordinates": {
           "lat": 8.46914564263616,
@@ -1771,639 +1771,9 @@
         }
       },
       {
-        "name": "aberdeen",
-        "id": "31-10",
-        "ochaId": "SLE04020801",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "albert academy",
-        "id": "31-11",
-        "ochaId": "SLE04020101",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "allen town i",
-        "id": "31-12",
-        "ochaId": "SLE04020502",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "allen town ii",
-        "id": "31-13",
-        "ochaId": "SLE04020501",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "ascension town",
-        "id": "31-14",
-        "ochaId": "SLE04020601",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "bombay",
-        "id": "31-15",
-        "ochaId": "SLE04020401",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "bottom oku",
-        "id": "31-16",
-        "ochaId": "SLE04020503",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "brookfields",
-        "id": "31-17",
-        "ochaId": "SLE04020702",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "brookfields-congo",
-        "id": "31-18",
-        "ochaId": "SLE04020701",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "brookfields-red pu",
-        "id": "31-19",
-        "ochaId": "SLE04020602",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "cline town",
-        "id": "31-20",
-        "ochaId": "SLE04020301",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "cockerill-aberdeen",
-        "id": "31-21",
-        "ochaId": "SLE04020802",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "cockle-bay / colleg",
-        "id": "31-22",
-        "ochaId": "SLE04020803",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "coconut farm / asho",
-        "id": "31-23",
-        "ochaId": "SLE04020402",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "congo town",
-        "id": "31-24",
-        "ochaId": "SLE04020703",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "congo water i",
-        "id": "31-25",
-        "ochaId": "SLE04020505",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "congo water ii",
-        "id": "31-26",
-        "ochaId": "SLE04020504",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "foulah town",
-        "id": "31-27",
-        "ochaId": "SLE04020403",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "fourah bay",
-        "id": "31-28",
-        "ochaId": "SLE04020302",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "george brook",
-        "id": "31-29",
-        "ochaId": "SLE04020704",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "ginger hall",
-        "id": "31-30",
-        "ochaId": "SLE04020404",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "grass field",
-        "id": "31-31",
-        "ochaId": "SLE04020506",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "hill station",
-        "id": "31-32",
-        "ochaId": "SLE04020804",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "industrial estate (wellington)",
-        "id": "31-33",
-        "ochaId": "SLE04020507",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "jalloh terrace",
-        "id": "31-34",
-        "ochaId": "SLE04020508",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "juba / kaningo",
-        "id": "31-35",
-        "ochaId": "SLE04020805",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "kingtom",
-        "id": "31-36",
-        "ochaId": "SLE04020603",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "kissy brook",
-        "id": "31-37",
-        "ochaId": "SLE04020405",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "kissy bye pass i",
-        "id": "31-38",
-        "ochaId": "SLE04020511",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "kissy bye pass ii",
-        "id": "31-39",
-        "ochaId": "SLE04020510",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "kissy mental",
-        "id": "31-40",
-        "ochaId": "SLE04020512",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "kissy mess mess",
-        "id": "31-41",
-        "ochaId": "SLE04020513",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "kossoh town",
-        "id": "31-42",
-        "ochaId": "SLE04020303",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "kroo town",
-        "id": "31-43",
-        "ochaId": "SLE04020604",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "kuntolor",
-        "id": "31-44",
-        "ochaId": "SLE04020514",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "lowcost housing",
-        "id": "31-45",
-        "ochaId": "SLE04020515",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "lumley",
-        "id": "31-46",
-        "ochaId": "SLE04020806",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "magazine",
-        "id": "31-47",
-        "ochaId": "SLE04020406",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "malama / kamayama",
-        "id": "31-48",
-        "ochaId": "SLE04020807",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "mamba ridge i",
-        "id": "31-49",
-        "ochaId": "SLE04020517",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "mamba ridge ii",
-        "id": "31-50",
-        "ochaId": "SLE04020516",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "mayenkineh",
-        "id": "31-51",
-        "ochaId": "SLE04020518",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "mount aureol",
-        "id": "31-52",
-        "ochaId": "SLE04020407",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "mountain regent",
-        "id": "31-53",
-        "ochaId": "SLE04020102",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "murray town",
-        "id": "31-54",
-        "ochaId": "SLE04020808",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "new england - hannes",
-        "id": "31-55",
-        "ochaId": "SLE04020706",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "new england - hill c",
-        "id": "31-56",
-        "ochaId": "SLE04020705",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "old warf",
-        "id": "31-57",
-        "ochaId": "SLE04020519",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "pamuronko",
-        "id": "31-58",
-        "ochaId": "SLE04020520",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "pipelin / wilkinson",
-        "id": "31-59",
-        "ochaId": "SLE04020809",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "portee",
-        "id": "31-60",
-        "ochaId": "SLE04020521",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "quarry",
-        "id": "31-61",
-        "ochaId": "SLE04020408",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "robis",
-        "id": "31-62",
-        "ochaId": "SLE04020522",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "rokupa",
-        "id": "31-63",
-        "ochaId": "SLE04020523",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "sanders brook",
-        "id": "31-64",
-        "ochaId": "SLE04020202",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "shell",
-        "id": "31-65",
-        "ochaId": "SLE04020524",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "sorie town",
-        "id": "31-66",
-        "ochaId": "SLE04020103",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "susan's bay",
-        "id": "31-67",
-        "ochaId": "SLE04020104",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "tasso island",
-        "id": "31-68",
-        "ochaId": "SLE04020525",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "tengbeh town",
-        "id": "31-69",
-        "ochaId": "SLE04020707",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "thunderhill",
-        "id": "31-70",
-        "ochaId": "SLE04020526",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "tower hill",
-        "id": "31-71",
-        "ochaId": "SLE04020105",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "wilberforce",
-        "id": "31-72",
-        "ochaId": "SLE04020810",
-        "parentId": "31",
-        "coordinates": {
-          "lat": 8.46451240712045,
-          "lon": -13.1990776868318
-        }
-      },
-      {
-        "name": "koya",
+        "name": "koya rural",
         "id": "32-01",
-        "ochaId": "SLE020405",
+        "ochaId": "SLE040101",
         "parentId": "32",
         "coordinates": {
           "lat": 8.45627580580882,
@@ -2411,9 +1781,9 @@
         }
       },
       {
-        "name": "mountain",
+        "name": "mountain rural",
         "id": "32-02",
-	"ochaId": "SLE040102",
+        "ochaId": "SLE040102",
         "parentId": "32",
         "coordinates": {
           "lon": -13.2088936197622,
@@ -2421,9 +1791,9 @@
         }
       },
       {
-        "name": "waterloo",
+        "name": "waterloo rural",
         "id": "32-03",
-	"ochaId": "SLE040103",
+        "ochaId": "SLE040103",
         "parentId": "32",
         "coordinates": {
           "lon": -13.1013860139795,
@@ -2431,233 +1801,13 @@
         }
       },
       {
-        "name": "york",
+        "name": "york rural",
         "id": "32-04",
-	"ochaId": "SLE040102",
+        "ochaId": "SLE040104",
         "parentId": "32",
         "coordinates": {
           "lon": -13.1618315770272,
           "lat": 8.29971112615566
-        }
-      },
-      {
-        "name": "koya - fabaina area",
-        "id": "32-11",
-        "ochaId": "SLE04010101",
-        "parentId": "32",
-        "coordinates": {
-          "lat": 8.32370413787741,
-          "lon": -13.0997193508203
-        }
-      },
-      {
-        "name": "koya - madonkeh",
-        "id": "32-12",
-        "ochaId": "SLE04010102",
-        "parentId": "32",
-        "coordinates": {
-          "lat": 8.32370413787741,
-          "lon": -13.0997193508203
-        }
-      },
-      {
-        "name": "koya - magbafti",
-        "id": "32-13",
-        "ochaId": "SLE04010103",
-        "parentId": "32",
-        "coordinates": {
-          "lat": 8.32370413787741,
-          "lon": -13.0997193508203
-        }
-      },
-      {
-        "name": "koya - malambay",
-        "id": "32-14",
-        "ochaId": "SLE04010104",
-        "parentId": "32",
-        "coordinates": {
-          "lat": 8.32370413787741,
-          "lon": -13.0997193508203
-        }
-      },
-      {
-        "name": "koya - newton",
-        "id": "32-15",
-        "ochaId": "SLE04010105",
-        "parentId": "32",
-        "coordinates": {
-          "lat": 8.32370413787741,
-          "lon": -13.0997193508203
-        }
-      },
-      {
-        "name": "koya - songo",
-        "id": "32-16",
-        "ochaId": "SLE04010106",
-        "parentId": "32",
-        "coordinates": {
-          "lat": 8.32370413787741,
-          "lon": -13.0997193508203
-        }
-      },
-      {
-        "name": "mountain - bathurst",
-        "id": "32-17",
-        "ochaId": "SLE04010201",
-        "parentId": "32",
-        "coordinates": {
-          "lat": 8.32370413787741,
-          "lon": -13.0997193508203
-        }
-      },
-      {
-        "name": "mountain - charlotte",
-        "id": "32-18",
-        "ochaId": "SLE04010202",
-        "parentId": "32",
-        "coordinates": {
-          "lat": 8.32370413787741,
-          "lon": -13.0997193508203
-        }
-      },
-      {
-        "name": "mountain - gloucester",
-        "id": "32-19",
-        "ochaId": "SLE04010203",
-        "parentId": "32",
-        "coordinates": {
-          "lat": 8.32370413787741,
-          "lon": -13.0997193508203
-        }
-      },
-      {
-        "name": "mountain - leicester",
-        "id": "32-20",
-        "ochaId": "SLE04010204",
-        "parentId": "32",
-        "coordinates": {
-          "lat": 8.32370413787741,
-          "lon": -13.0997193508203
-        }
-      },
-      {
-        "name": "mountain - regent",
-        "id": "32-21",
-        "ochaId": "SLE04010205",
-        "parentId": "32",
-        "coordinates": {
-          "lat": 8.32370413787741,
-          "lon": -13.0997193508203
-        }
-      },
-      {
-        "name": "waterloo - benguema village a",
-        "id": "32-22",
-        "ochaId": "SLE04010301",
-        "parentId": "32",
-        "coordinates": {
-          "lat": 8.32370413787741,
-          "lon": -13.0997193508203
-        }
-      },
-      {
-        "name": "waterloo - campbell town viii",
-        "id": "32-23",
-        "ochaId": "SLE04010302",
-        "parentId": "32",
-        "coordinates": {
-          "lat": 8.32370413787741,
-          "lon": -13.0997193508203
-        }
-      },
-      {
-        "name": "waterloo - hastings village a",
-        "id": "32-24",
-        "ochaId": "SLE04010303",
-        "parentId": "32",
-        "coordinates": {
-          "lat": 8.32370413787741,
-          "lon": -13.0997193508203
-        }
-      },
-      {
-        "name": "waterloo - waterloo village a",
-        "id": "32-25",
-        "ochaId": "SLE04010305",
-        "parentId": "32",
-        "coordinates": {
-          "lat": 8.32370413787741,
-          "lon": -13.0997193508203
-        }
-      },
-      {
-        "name": "york - gbendembu",
-        "id": "32-26",
-        "ochaId": "SLE04010401",
-        "parentId": "32",
-        "coordinates": {
-          "lat": 8.32370413787741,
-          "lon": -13.0997193508203
-        }
-      },
-      {
-        "name": "york - goderich - adonkia/m",
-        "id": "32-27",
-        "ochaId": "SLE04010402",
-        "parentId": "32",
-        "coordinates": {
-          "lat": 8.32370413787741,
-          "lon": -13.0997193508203
-        }
-      },
-      {
-        "name": "york - goderich - funkia",
-        "id": "32-28",
-        "ochaId": "SLE04010403",
-        "parentId": "32",
-        "coordinates": {
-          "lat": 8.32370413787741,
-          "lon": -13.0997193508203
-        }
-      },
-      {
-        "name": "york - hamilton",
-        "id": "32-29",
-        "ochaId": "SLE04010404",
-        "parentId": "32",
-        "coordinates": {
-          "lat": 8.32370413787741,
-          "lon": -13.0997193508203
-        }
-      },
-      {
-        "name": "york - kent",
-        "id": "32-30",
-        "ochaId": "SLE04010405",
-        "parentId": "32",
-        "coordinates": {
-          "lat": 8.32370413787741,
-          "lon": -13.0997193508203
-        }
-      },
-      {
-        "name": "york - sattia / tombo",
-        "id": "32-31",
-        "ochaId": "SLE04010406",
-        "parentId": "32",
-        "coordinates": {
-          "lat": 8.32370413787741,
-          "lon": -13.0997193508203
-        }
-      },
-      {
-        "name": "york - york",
-        "id": "32-32",
-        "ochaId": "SLE04010407",
-        "parentId": "32",
-        "coordinates": {
-          "lat": 8.32370413787741,
-          "lon": -13.0997193508203
         }
       }
     ]
@@ -2707,7 +1857,7 @@
         }
       },
       {
-        "name": "sei",
+        "name": "sei i",
         "id": "1-01-05",
         "ochaId": "SLE03010105",
         "parentId": "1-01",
@@ -4129,6 +3279,7 @@
       },
       {
         "name": "bonthe central",
+        "ochaId": "SLE030291",
         "id": "2-09-01",
         "parentId": "2-09"
       },
@@ -5748,14 +4899,14 @@
         }
       },
       {
-        "name": "laimaba 1",
+        "name": "laimaba",
         "id": "4-01-01",
-	"ochaId": "SLE03040105",
+        "ochaId": "SLE03040105",
         "parentId": "4-01",
-	"coordinates": {
-		"lat": 7.44913195420178,
-		"lon": -11.4278556999302
-		}
+        "coordinates": {
+          "lat": 7.44913195420178,
+          "lon": -11.4278556999302
+        }
       },
       {
         "name": "jougba",
@@ -5835,16 +4986,6 @@
         "coordinates": {
           "lat": 7.4993596402918,
           "lon": -11.4793599440775
-        }
-      },
-      {
-        "name": "laimaba",
-        "id": "4-01-10",
-        "ochaId": "SLE03040105",
-        "parentId": "4-01",
-        "coordinates": {
-          "lat": 7.44913195420178,
-          "lon": -11.4278556999302
         }
       },
       {
@@ -6180,7 +5321,7 @@
       {
         "name": "pullie section",
         "id": "4-06-02",
-	"ochaId": "SLE03040706",
+        "ochaId": "SLE03040706",
         "parentId": "4-06",
         "coordinates": {
           "lat": 7.18289989855528,
@@ -6450,21 +5591,21 @@
       {
         "name": "massaquoi i",
         "id": "4-10-04",
-        "ochaId": "SLE03041006",
-        "parentId": "4-10",
-        "coordinates": {
-          "lat": 7.00445841055237,
-          "lon": -11.5218569703819
-        }
-      },
-      {
-        "name": "massaquoi ii",
-        "id": "4-10-05",
         "ochaId": "SLE03041005",
         "parentId": "4-10",
         "coordinates": {
           "lat": 7.12066105267566,
           "lon": -11.4870499212535
+        }
+      },
+      {
+        "name": "massaquoi ii",
+        "id": "4-10-05",
+        "ochaId": "SLE03041006",
+        "parentId": "4-10",
+        "coordinates": {
+          "lat": 7.00445841055237,
+          "lon": -11.5218569703819
         }
       },
       {
@@ -7313,7 +6454,7 @@
         }
       },
       {
-        "name": "sei",
+        "name": "sei i",
         "id": "11-11-10",
         "ochaId": "SLE01011110",
         "parentId": "11-11",
@@ -7425,12 +6566,12 @@
       {
         "name": "guma bomaru",
         "id": "11-13-04",
-	"ochaId": "SLE01011302",
+        "ochaId": "SLE01011302",
         "parentId": "11-13",
-	"coordinates": {
-	  "lat": 8.02186923637146,
-	  "lon": -10.6249666226688
-	}
+        "coordinates": {
+          "lat": 8.02186923637146,
+          "lon": -10.6249666226688
+        }
       },
       {
         "name": "korbu",
@@ -12939,13 +12080,13 @@
       },
       {
         "name": "mines - lunsar",
-	"ochaId": "SLE02040807",
         "id": "24-08-01",
+        "ochaId": "SLE02040807",
         "parentId": "24-08",
-	"coordinates": {
+        "coordinates": {
           "lat": 8.67543711496508,
           "lon": -12.5131833069009
-	}
+        }
       },
       {
         "name": "rolankonoh",
@@ -14165,6 +13306,881 @@
         "coordinates": {
           "lat": 8.44134338795962,
           "lon": -12.2534569126884
+        }
+      },
+      {
+        "name": "cline town",
+        "id": "31-01-01",
+        "ochaId": "SLE04020301",
+        "parentId": "31-01",
+        "coordinates": {
+          "lat": 8.48742789258564,
+          "lon": -13.2082555231182
+        }
+      },
+      {
+        "name": "fourah bay",
+        "id": "31-01-02",
+        "ochaId": "SLE04020302",
+        "parentId": "31-01",
+        "coordinates": {
+          "lat": 8.48927273719202,
+          "lon": -13.2134063002287
+        }
+      },
+      {
+        "name": "kossoh town",
+        "id": "31-01-03",
+        "ochaId": "SLE04020303",
+        "parentId": "31-01",
+        "coordinates": {
+          "lat": 8.48868862884329,
+          "lon": -13.2190698937852
+        }
+      },
+      {
+        "name": "bombay",
+        "id": "31-02-01",
+        "ochaId": "SLE04020401",
+        "parentId": "31-02",
+        "coordinates": {
+          "lat": 8.48536283852001,
+          "lon": -13.2228755514125
+        }
+      },
+      {
+        "name": "coconut farm/ ashobi corner",
+        "id": "31-02-02",
+        "ochaId": "SLE04020402",
+        "parentId": "31-02",
+        "coordinates": {
+          "lat": 8.47758514101307,
+          "lon": -13.2129169092359
+        }
+      },
+      {
+        "name": "foulah town",
+        "id": "31-02-03",
+        "ochaId": "SLE04020403",
+        "parentId": "31-02",
+        "coordinates": {
+          "lat": 8.48400662040449,
+          "lon": -13.2256339638519
+        }
+      },
+      {
+        "name": "ginger hall",
+        "id": "31-02-04",
+        "ochaId": "SLE04020404",
+        "parentId": "31-02",
+        "coordinates": {
+          "lat": 8.48353197475171,
+          "lon": -13.2178223462753
+        }
+      },
+      {
+        "name": "kissy brook",
+        "id": "31-02-05",
+        "ochaId": "SLE04020405",
+        "parentId": "31-02",
+        "coordinates": {
+          "lat": 8.47378567936961,
+          "lon": -13.2116436592294
+        }
+      },
+      {
+        "name": "magazine",
+        "id": "31-02-06",
+        "ochaId": "SLE04020406",
+        "parentId": "31-02",
+        "coordinates": {
+          "lat": 8.48938064041027,
+          "lon": -13.2245238613244
+        }
+      },
+      {
+        "name": "mount aureol",
+        "id": "31-02-07",
+        "ochaId": "SLE04020407",
+        "parentId": "31-02",
+        "coordinates": {
+          "lat": 8.48145848720863,
+          "lon": -13.2199180696249
+        }
+      },
+      {
+        "name": "quarry/ kissy",
+        "id": "31-02-08",
+        "ochaId": "SLE04020408",
+        "parentId": "31-02",
+        "coordinates": {
+          "lat": 8.48066835399625,
+          "lon": -13.2149994726644
+        }
+      },
+      {
+        "name": "allen town i",
+        "id": "31-03-01",
+        "ochaId": "SLE04020501",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.42342715363719,
+          "lon": -13.161173506625
+        }
+      },
+      {
+        "name": "allen town ii",
+        "id": "31-03-02",
+        "ochaId": "SLE04020502",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.41226396100204,
+          "lon": -13.1520717328363
+        }
+      },
+      {
+        "name": "bottom oku/ wellington",
+        "id": "31-03-03",
+        "ochaId": "SLE04020503",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.45128005510098,
+          "lon": -13.1646373618353
+        }
+      },
+      {
+        "name": "congo water i",
+        "id": "31-03-04",
+        "ochaId": "SLE04020504",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.45471134695285,
+          "lon": -13.1729981647035
+        }
+      },
+      {
+        "name": "congo water ii",
+        "id": "31-03-05",
+        "ochaId": "SLE04020505",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.44775721650545,
+          "lon": -13.1782112844559
+        }
+      },
+      {
+        "name": "grass field/ wellinghton",
+        "id": "31-03-06",
+        "ochaId": "SLE04020506",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.46802165416818,
+          "lon": -13.1783335712458
+        }
+      },
+      {
+        "name": "industrial estate/ wellington",
+        "id": "31-03-07",
+        "ochaId": "SLE04020507",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.44004813118885,
+          "lon": -13.1794114555722
+        }
+      },
+      {
+        "name": "jalloh terrace",
+        "id": "31-03-08",
+        "ochaId": "SLE04020508",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.45674733085371,
+          "lon": -13.1860282539645
+        }
+      },
+      {
+        "name": "kissy brook",
+        "id": "31-03-09",
+        "ochaId": "SLE04020509",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.47013017882287,
+          "lon": -13.2091947442563
+        }
+      },
+      {
+        "name": "kissy bye pass i",
+        "id": "31-03-10",
+        "ochaId": "SLE04020510",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.47936233441544,
+          "lon": -13.2023740625163
+        }
+      },
+      {
+        "name": "kissy bye pass ii",
+        "id": "31-03-11",
+        "ochaId": "SLE04020511",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.47613094304347,
+          "lon": -13.1882888239339
+        }
+      },
+      {
+        "name": "kissy mental",
+        "id": "31-03-12",
+        "ochaId": "SLE04020512",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.46558890623987,
+          "lon": -13.1958625204923
+        }
+      },
+      {
+        "name": "kissy mess mess",
+        "id": "31-03-13",
+        "ochaId": "SLE04020513",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.46404696373472,
+          "lon": -13.1879246076673
+        }
+      },
+      {
+        "name": "kuntolor",
+        "id": "31-03-14",
+        "ochaId": "SLE04020514",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.45411286252305,
+          "lon": -13.1823820747804
+        }
+      },
+      {
+        "name": "lowcost housing",
+        "id": "31-03-15",
+        "ochaId": "SLE04020515",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.47042140507076,
+          "lon": -13.1860761118657
+        }
+      },
+      {
+        "name": "mamba ridge i",
+        "id": "31-03-16",
+        "ochaId": "SLE04020516",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.47053164808267,
+          "lon": -13.2048858652458
+        }
+      },
+      {
+        "name": "mamba ridge ii",
+        "id": "31-03-17",
+        "ochaId": "SLE04020517",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.46600940648885,
+          "lon": -13.2010130230363
+        }
+      },
+      {
+        "name": "mayenkineh",
+        "id": "31-03-18",
+        "ochaId": "SLE04020518",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.4304448385222,
+          "lon": -13.1662024232587
+        }
+      },
+      {
+        "name": "old warf",
+        "id": "31-03-19",
+        "ochaId": "SLE04020519",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.4449498223115,
+          "lon": -13.1596538168905
+        }
+      },
+      {
+        "name": "pamuronko",
+        "id": "31-03-20",
+        "ochaId": "SLE04020520",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.4339940038241,
+          "lon": -13.1523906315912
+        }
+      },
+      {
+        "name": "portee",
+        "id": "31-03-21",
+        "ochaId": "SLE04020521",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.46477504341522,
+          "lon": -13.1741058805534
+        }
+      },
+      {
+        "name": "robis",
+        "id": "31-03-22",
+        "ochaId": "SLE04020522",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.43448846240638,
+          "lon": -13.1709481811007
+        }
+      },
+      {
+        "name": "rokupa",
+        "id": "31-03-23",
+        "ochaId": "SLE04020523",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.46033182434115,
+          "lon": -13.1715290806212
+        }
+      },
+      {
+        "name": "shell",
+        "id": "31-03-24",
+        "ochaId": "SLE04020524",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.46823066087433,
+          "lon": -13.1917196428888
+        }
+      },
+      {
+        "name": "tasso island",
+        "id": "31-03-25",
+        "ochaId": "SLE04020525",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.55370586391848,
+          "lon": -13.0747752757269
+        }
+      },
+      {
+        "name": "thunderhill",
+        "id": "31-03-26",
+        "ochaId": "SLE04020526",
+        "parentId": "31-03",
+        "coordinates": {
+          "lat": 8.45612161842292,
+          "lon": -13.1955572923939
+        }
+      },
+      {
+        "name": "albert academy",
+        "id": "31-04-01",
+        "ochaId": "SLE04020101",
+        "parentId": "31-04",
+        "coordinates": {
+          "lat": 8.47684167404902,
+          "lon": -13.2320160756987
+        }
+      },
+      {
+        "name": "mountain regent",
+        "id": "31-04-02",
+        "ochaId": "SLE04020102",
+        "parentId": "31-04",
+        "coordinates": {
+          "lat": 8.48136945231445,
+          "lon": -13.2283378387086
+        }
+      },
+      {
+        "name": "sorie town",
+        "id": "31-04-03",
+        "ochaId": "SLE04020103",
+        "parentId": "31-04",
+        "coordinates": {
+          "lat": 8.4732681839413,
+          "lon": -13.2263936485776
+        }
+      },
+      {
+        "name": "susan's bay",
+        "id": "31-04-04",
+        "ochaId": "SLE04020104",
+        "parentId": "31-04",
+        "coordinates": {
+          "lat": 8.48863240970486,
+          "lon": -13.2296647311032
+        }
+      },
+      {
+        "name": "tower hill",
+        "id": "31-04-05",
+        "ochaId": "SLE04020105",
+        "parentId": "31-04",
+        "coordinates": {
+          "lat": 8.48283624221038,
+          "lon": -13.2329994679372
+        }
+      },
+      {
+        "name": "connaught hospital",
+        "id": "31-05-01",
+        "ochaId": "SLE04020201",
+        "parentId": "31-05",
+        "coordinates": {
+          "lat": 8.48909269219692,
+          "lon": -13.2356815695265
+        }
+      },
+      {
+        "name": "sanders brook",
+        "id": "31-05-02",
+        "ochaId": "SLE04020202",
+        "parentId": "31-05",
+        "coordinates": {
+          "lat": 8.48170819524654,
+          "lon": -13.2377589916708
+        }
+      },
+      {
+        "name": "ascension town",
+        "id": "31-06-01",
+        "ochaId": "SLE04020601",
+        "parentId": "31-06",
+        "coordinates": {
+          "lat": 8.48347568423071,
+          "lon": -13.2478199282899
+        }
+      },
+      {
+        "name": "brookfields",
+        "id": "31-06-02",
+        "ochaId": "SLE04020602",
+        "parentId": "31-06",
+        "coordinates": {
+          "lat": 8.47766934057693,
+          "lon": -13.2481049864635
+        }
+      },
+      {
+        "name": "kingtom",
+        "id": "31-06-03",
+        "ochaId": "SLE04020603",
+        "parentId": "31-06",
+        "coordinates": {
+          "lat": 8.4888600578973,
+          "lon": -13.2472446510372
+        }
+      },
+      {
+        "name": "kroo town",
+        "id": "31-06-04",
+        "ochaId": "SLE04020604",
+        "parentId": "31-06",
+        "coordinates": {
+          "lat": 8.48189634970445,
+          "lon": -13.2419426986651
+        }
+      },
+      {
+        "name": "brookfields-congo cross",
+        "id": "31-07-01",
+        "ochaId": "SLE04020701",
+        "parentId": "31-07",
+        "coordinates": {
+          "lat": 8.47525414964464,
+          "lon": -13.2405502465031
+        }
+      },
+      {
+        "name": "brookfields-red pump",
+        "id": "31-07-02",
+        "ochaId": "SLE04020702",
+        "parentId": "31-07",
+        "coordinates": {
+          "lat": 8.47079931080214,
+          "lon": -13.247533050478
+        }
+      },
+      {
+        "name": "congo town",
+        "id": "31-07-03",
+        "ochaId": "SLE04020703",
+        "parentId": "31-07",
+        "coordinates": {
+          "lat": 8.48091791546076,
+          "lon": -13.2550355769318
+        }
+      },
+      {
+        "name": "george brook (dwarzark)",
+        "id": "31-07-04",
+        "ochaId": "SLE04020704",
+        "parentId": "31-07",
+        "coordinates": {
+          "lat": 8.46493014283345,
+          "lon": -13.2307179103949
+        }
+      },
+      {
+        "name": "new england-hannes",
+        "id": "31-07-05",
+        "ochaId": "SLE04020705",
+        "parentId": "31-07",
+        "coordinates": {
+          "lat": 8.46626816937082,
+          "lon": -13.2380218170263
+        }
+      },
+      {
+        "name": "new england-hill cot",
+        "id": "31-07-06",
+        "ochaId": "SLE04020706",
+        "parentId": "31-07",
+        "coordinates": {
+          "lat": 8.46516334313951,
+          "lon": -13.2445272048742
+        }
+      },
+      {
+        "name": "tengbeh town",
+        "id": "31-07-07",
+        "ochaId": "SLE04020707",
+        "parentId": "31-07",
+        "coordinates": {
+          "lat": 8.472378804619,
+          "lon": -13.2543803505988
+        }
+      },
+      {
+        "name": "aberdeen",
+        "id": "31-08-01",
+        "ochaId": "SLE04020801",
+        "parentId": "31-08",
+        "coordinates": {
+          "lat": 8.4855775190295,
+          "lon": -13.2848813440573
+        }
+      },
+      {
+        "name": "cockerill-aberdeen",
+        "id": "31-08-02",
+        "ochaId": "SLE04020802",
+        "parentId": "31-08",
+        "coordinates": {
+          "lat": 8.46467964729633,
+          "lon": -13.2752053221017
+        }
+      },
+      {
+        "name": "cockle-bay /collegiate",
+        "id": "31-08-03",
+        "ochaId": "SLE04020803",
+        "parentId": "31-08",
+        "coordinates": {
+          "lat": 8.48291930242941,
+          "lon": -13.2723750308229
+        }
+      },
+      {
+        "name": "hill station",
+        "id": "31-08-04",
+        "ochaId": "SLE04020804",
+        "parentId": "31-08",
+        "coordinates": {
+          "lat": 8.45931539141237,
+          "lon": -13.2553406039974
+        }
+      },
+      {
+        "name": "juba / kaningo",
+        "id": "31-08-05",
+        "ochaId": "SLE04020805",
+        "parentId": "31-08",
+        "coordinates": {
+          "lat": 8.44504865704094,
+          "lon": -13.2660460818101
+        }
+      },
+      {
+        "name": "lumley",
+        "id": "31-08-06",
+        "ochaId": "SLE04020806",
+        "parentId": "31-08",
+        "coordinates": {
+          "lat": 8.45875992291628,
+          "lon": -13.2676302555642
+        }
+      },
+      {
+        "name": "malama / kamayama",
+        "id": "31-08-07",
+        "ochaId": "SLE04020807",
+        "parentId": "31-08",
+        "coordinates": {
+          "lat": 8.4486795017255,
+          "lon": -13.2514071060987
+        }
+      },
+      {
+        "name": "murray town",
+        "id": "31-08-08",
+        "ochaId": "SLE04020808",
+        "parentId": "31-08",
+        "coordinates": {
+          "lat": 8.49041210998515,
+          "lon": -13.2650618230324
+        }
+      },
+      {
+        "name": "pipeline/wilkinson",
+        "id": "31-08-09",
+        "ochaId": "SLE04020809",
+        "parentId": "31-08",
+        "coordinates": {
+          "lat": 8.47398620350349,
+          "lon": -13.2696383687657
+        }
+      },
+      {
+        "name": "wilberforce",
+        "id": "31-08-11",
+        "ochaId": "SLE04020810",
+        "parentId": "31-08",
+        "coordinates": {
+          "lat": 8.47317746528472,
+          "lon": -13.2604780511677
+        }
+      },
+      {
+        "name": "quarry/wilkinson road",
+        "id": "31-08-12",
+        "parentId": "31-08"
+      },
+      {
+        "name": "fabaina area",
+        "id": "32-01-01",
+        "ochaId": "SLE04010101",
+        "parentId": "32-01",
+        "coordinates": {
+          "lat": 8.30276080032698,
+          "lon": -12.9408217829474
+        }
+      },
+      {
+        "name": "magbafti",
+        "id": "32-01-02",
+        "ochaId": "SLE04010103",
+        "parentId": "32-01",
+        "coordinates": {
+          "lat": 8.28112082425348,
+          "lon": -12.9909298806336
+        }
+      },
+      {
+        "name": "malambay",
+        "id": "32-01-03",
+        "ochaId": "SLE04010104",
+        "parentId": "32-01",
+        "coordinates": {
+          "lat": 8.30717812979875,
+          "lon": -13.0311091985146
+        }
+      },
+      {
+        "name": "newton",
+        "id": "32-01-04",
+        "ochaId": "SLE04010105",
+        "parentId": "32-01",
+        "coordinates": {
+          "lat": 8.33513238865888,
+          "lon": -12.9893972030679
+        }
+      },
+      {
+        "name": "songo",
+        "id": "32-01-05",
+        "ochaId": "SLE04010106",
+        "parentId": "32-01",
+        "coordinates": {
+          "lat": 8.35301785090176,
+          "lon": -12.9429388729719
+        }
+      },
+      {
+        "name": "madonkeh",
+        "id": "32-01-06",
+        "ochaId": "SLE04010102",
+        "parentId": "32-01",
+        "coordinates": {
+          "lat": 8.36131824437957,
+          "lon": -13.0079393717974
+        }
+      },
+      {
+        "name": "bathurst",
+        "id": "32-02-01",
+        "ochaId": "SLE04010201",
+        "parentId": "32-02",
+        "coordinates": {
+          "lat": 8.42765417600887,
+          "lon": -13.2064340642886
+        }
+      },
+      {
+        "name": "charlotte",
+        "id": "32-02-02",
+        "ochaId": "SLE04010202",
+        "parentId": "32-02",
+        "coordinates": {
+          "lat": 8.40893719224412,
+          "lon": -13.1922302179846
+        }
+      },
+      {
+        "name": "gloucester",
+        "id": "32-02-03",
+        "ochaId": "SLE04010203",
+        "parentId": "32-02",
+        "coordinates": {
+          "lat": 8.45207182890313,
+          "lon": -13.2116990450878
+        }
+      },
+      {
+        "name": "leicester",
+        "id": "32-02-04",
+        "ochaId": "SLE04010204",
+        "parentId": "32-02",
+        "coordinates": {
+          "lat": 8.4631109447305,
+          "lon": -13.2207154085333
+        }
+      },
+      {
+        "name": "regent",
+        "id": "32-02-05",
+        "ochaId": "SLE04010205",
+        "parentId": "32-02",
+        "coordinates": {
+          "lat": 8.44099464285771,
+          "lon": -13.2288304994744
+        }
+      },
+      {
+        "name": "benguema village a",
+        "id": "32-03-01",
+        "ochaId": "SLE04010301",
+        "parentId": "32-03",
+        "coordinates": {
+          "lat": 8.29844365146577,
+          "lon": -13.0779837015157
+        }
+      },
+      {
+        "name": "campbell town vill",
+        "id": "32-03-02",
+        "ochaId": "SLE04010302",
+        "parentId": "32-03",
+        "coordinates": {
+          "lat": 8.29407788653229,
+          "lon": -13.0513160071179
+        }
+      },
+      {
+        "name": "hastings village a",
+        "id": "32-03-03",
+        "ochaId": "SLE04010303",
+        "parentId": "32-03",
+        "coordinates": {
+          "lat": 8.36368965622548,
+          "lon": -13.1227344328308
+        }
+      },
+      {
+        "name": "waterloo village a",
+        "id": "32-03-04",
+        "ochaId": "SLE04010305",
+        "parentId": "32-03",
+        "coordinates": {
+          "lat": 8.3482954435074,
+          "lon": -13.0555060787937
+        }
+      },
+      {
+        "name": "gbendembu",
+        "id": "32-04-01",
+        "ochaId": "SLE04010401",
+        "parentId": "32-04",
+        "coordinates": {
+          "lat": 8.43295563356949,
+          "lon": -13.2647708778921
+        }
+      },
+      {
+        "name": "goderich-adonkia/m",
+        "id": "32-04-02",
+        "ochaId": "SLE04010402",
+        "parentId": "32-04",
+        "coordinates": {
+          "lat": 8.42177755380733,
+          "lon": -13.2608841205075
+        }
+      },
+      {
+        "name": "goderich-funkia",
+        "id": "32-04-03",
+        "ochaId": "SLE04010403",
+        "parentId": "32-04",
+        "coordinates": {
+          "lat": 8.435341082089,
+          "lon": -13.2856282666138
+        }
+      },
+      {
+        "name": "hamilton",
+        "id": "32-04-04",
+        "ochaId": "SLE04010404",
+        "parentId": "32-04",
+        "coordinates": {
+          "lat": 8.3761440783313,
+          "lon": -13.2198424660872
+        }
+      },
+      {
+        "name": "kent",
+        "id": "32-04-05",
+        "ochaId": "SLE04010405",
+        "parentId": "32-04",
+        "coordinates": {
+          "lat": 8.17794854343793,
+          "lon": -13.1618996977272
+        }
+      },
+      {
+        "name": "sattia/tombo",
+        "id": "32-04-06",
+        "ochaId": "SLE04010406",
+        "parentId": "32-04",
+        "coordinates": {
+          "lat": 8.24550002494904,
+          "lon": -13.0748549306632
+        }
+      },
+      {
+        "name": "york",
+        "id": "32-04-07",
+        "ochaId": "SLE04010407",
+        "parentId": "32-04",
+        "coordinates": {
+          "lat": 8.28309661367024,
+          "lon": -13.1493810075475
         }
       }
     ]

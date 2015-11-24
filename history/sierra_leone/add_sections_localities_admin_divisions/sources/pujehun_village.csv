@@ -1,19 +1,19 @@
 CHIEFDOM,SECTION,LOCALITY
-Barri,Laimaba 1,Busu
-Barri,Laimaba 1,Konia
-Barri,Laimaba 1,Waima
-Barri,Laimaba 1,Masaila
-Barri,Laimaba 1,Kamaru
-Barri,Laimaba 1,Nongowa
-Barri,Laimaba 1,Gbella
-Barri,Laimaba 1,Kanbama
-Barri,Laimaba 1,Yombowolo
-Barri,Laimaba 1,Golawoma
-Barri,Laimaba 1,Gnaiaguhun
-Barri,Laimaba 1,Kotumahun
-Barri,Laimaba 1,Kandor
-Barri,Laimaba 1,Madina
-Barri,Laimaba 1,Tuba
+Barri,Laimaba,Busu
+Barri,Laimaba,Konia
+Barri,Laimaba,Waima
+Barri,Laimaba,Masaila
+Barri,Laimaba,Kamaru
+Barri,Laimaba,Nongowa
+Barri,Laimaba,Gbella
+Barri,Laimaba,Kanbama
+Barri,Laimaba,Yombowolo
+Barri,Laimaba,Golawoma
+Barri,Laimaba,Gnaiaguhun
+Barri,Laimaba,Kotumahun
+Barri,Laimaba,Kandor
+Barri,Laimaba,Madina
+Barri,Laimaba,Tuba
 Barri,Jougba,Nongowa
 Barri,Jougba,Niagolihun
 Barri,Jougba,Tualu
@@ -94,9 +94,6 @@ Barri,Fallay,Jaiyahun
 Barri,Fallay,Yuabu
 Barri,Fallay,Bevehun
 Barri,Fallay,Nyaiama
-Barri,Laimaba,Kandor
-Barri,Laimaba,Madina
-Barri,Laimaba,Tuba
 Gallinas Peri,Joya,Sagwehun
 Gallinas Peri,Joya,Vaama
 Gallinas Peri,Joya,Thaifa
