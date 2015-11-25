@@ -66,8 +66,10 @@ var geojsonFeature = function (region, index) {
       type: 'Point'
     },
     properties: {
-      'marker-color': options.marker_color,
-      'marker-size': options.marker_size,
+      // 'marker-color': options.marker_color,
+      // 'marker-size': options.marker_size,
+      ochaId: region.ochaId || null,
+      parentId: region.parentId,
       name: region.name,
       id: region.id
     },
