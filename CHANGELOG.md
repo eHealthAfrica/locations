@@ -4,13 +4,19 @@ All notable changes to this project will be documented in this
 file. This file is structured according to http://keepachangelog.com/
 
 - - -
+## unreleased
+### Changed
+- (SL) reorganize tree for western region: use chiefdoms and sections in Western Urban and Western Rural
+### Fixed,
+- (SL) pujehun district remove duplicated: Laimaba 1, Laimaba
+
 ## 3.2.0 11.11.2015
 ### Added
 - (SL) added ochaId
 - (SL) added coordinates to section
 
 ### Changed
-- reordered sl json file by `id`
+- (SL) reordered json file by `id`
 
 ###Fixed
 - removed dummy entry: added dummy line for `bombali sebora`
