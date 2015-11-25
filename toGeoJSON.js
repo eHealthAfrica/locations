@@ -77,10 +77,10 @@ var geojsonFeature = function (region, index) {
   }
 }
 
-var iterateThroughRegions = function () {
-  if (data[0]) {
-    data[0].items.forEach(function (region, listNumber) {
-      getSubRegions(1, region.id, false)
+var iterateThroughRegions = function (level) {
+  if (data[level-1]) {
+    data[level-1].items.forEach(function (region, listNumber) {
+      getSubRegions(level, region.id, false)
     })
   }
 }
@@ -99,7 +99,7 @@ if (process.argv.length === 2) {
     process.exit(1)
   }
   data = JSON.parse(dataString)
-  iterateThroughRegions()
+  iterateThroughRegions(process.argv[3])
 
   console.log(JSON.stringify(
     { type: 'FeatureCollection', features: geojsonFeatures },

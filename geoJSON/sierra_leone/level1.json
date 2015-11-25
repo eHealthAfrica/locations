@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -10.6935678546489,
+          8.08778993310664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE11",
+        "parentId": "E",
+        "name": "kailahun",
+        "id": "11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.1961678904605,
+          7.94623190282982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE12",
+        "parentId": "E",
+        "name": "kenema",
+        "id": "12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.9395436641229,
+          8.6934229701536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE13",
+        "parentId": "E",
+        "name": "kono",
+        "id": "13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.1664340441872,
+          9.31924294734618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE21",
+        "parentId": "N",
+        "name": "bombali",
+        "id": "21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.8092451667966,
+          9.18416019513434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE22",
+        "parentId": "N",
+        "name": "kambia",
+        "id": "22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.3432788947695,
+          9.44997930513683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE23",
+        "parentId": "N",
+        "name": "koinadugu",
+        "id": "23"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.743056637234,
+          8.72599068493539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE24",
+        "parentId": "N",
+        "name": "port loko",
+        "id": "24"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.882454265453,
+          8.66821758743615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE25",
+        "parentId": "N",
+        "name": "tonkolili",
+        "id": "25"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.7196907051462,
+          7.96276438159488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE31",
+        "parentId": "S",
+        "name": "bo",
+        "id": "1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.2806091679861,
+          7.50289333102348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE32",
+        "parentId": "S",
+        "name": "bonthe",
+        "id": "2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.4261830981779,
+          8.06365373534222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE33",
+        "parentId": "S",
+        "name": "moyamba",
+        "id": "3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.5730377996412,
+          7.30967720828693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE34",
+        "parentId": "S",
+        "name": "pujehun",
+        "id": "4"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -13.1990776868318,
+          8.46451240712045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE42",
+        "parentId": "W",
+        "name": "western urban",
+        "id": "31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -13.0997193508203,
+          8.32370413787741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE41",
+        "parentId": "W",
+        "name": "western rural",
+        "id": "32"
+      },
+      "type": "Feature"
+    }
+  ]
+}
