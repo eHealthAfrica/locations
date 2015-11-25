@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  {
+      "geometry": {
+        "coordinates": [
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE1",
+        "name": "east",
+        "id": "E"
+      },
+      "type": "Feature"
+    },
+
+  {
+      "geometry": {
+        "coordinates": [
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE2",
+        "name": "north",
+        "id": "N"
+      },
+      "type": "Feature"
+    },
+
+  {
+      "geometry": {
+        "coordinates": [
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE3",
+        "name": "south",
+        "id": "S"
+      },
+      "type": "Feature"
+    },
+
+  {
+      "geometry": {
+        "coordinates": [
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE4",
+        "name": "west",
+        "id": "W"
+      },
+      "type": "Feature"
+    }
+  ]
+}
