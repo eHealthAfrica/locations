@@ -441,6 +441,15 @@
         }
       },
       {
+        "name": "bonthe island",
+        "id": "2-12",
+        "parentId": "2",
+        "coordinates": {
+          "lat": 7.50289333102348,
+          "lon": -12.2806091679861
+        }
+      },
+      {
         "name": "bagruwa",
         "id": "3-01",
         "ochaId": "SLE030301",
@@ -699,11 +708,6 @@
           "lat": 7.22481020824499,
           "lon": -11.7783295037863
         }
-      },
-      {
-        "name": "bonthe island",
-        "id": "5-01",
-        "parentId": "5"
       },
       {
         "name": "bonthe town",
