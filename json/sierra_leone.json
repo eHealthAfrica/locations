@@ -710,16 +710,6 @@
         }
       },
       {
-        "name": "bonthe town",
-        "id": "5-02",
-        "ochaId": "SLE03029101",
-        "parentId": "5",
-        "coordinates": {
-          "lat": 7.53259164124122,
-          "lon": -12.5013369911515
-        }
-      },
-      {
         "name": "york island",
         "id": "5-03",
         "parentId": "5"
