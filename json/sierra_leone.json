@@ -3275,7 +3275,11 @@
         "name": "bonthe central",
         "ochaId": "SLE030291",
         "id": "2-09-01",
-        "parentId": "2-09"
+        "parentId": "2-09",
+        "coordinates": {
+          "lat": 7.53259164124122,
+          "lon": -12.5013369911515
+        }
       },
       {
         "name": "yoni",
