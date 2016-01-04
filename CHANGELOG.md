@@ -9,6 +9,8 @@ file. This file is structured according to http://keepachangelog.com/
 - (SL) reorganize tree for western region: use chiefdoms and sections in Western Urban and Western Rural
 ### Fixed,
 - (SL) pujehun district remove duplicated: Laimaba 1, Laimaba
+### Removed
+- (SL) West > Western Urban > West III >  quarry/wilkinson road [https://github.com/eHealthAfrica/sl-ebola-call-admin/issues/1206]
 
 ## 3.2.0 11.11.2015
 ### Added

@@ -13939,7 +13939,7 @@
         }
       },
       {
-        "name": "pipeline/wilkinson",
+        "name": "wilkinson road",
         "id": "31-08-09",
         "ochaId": "SLE04020809",
         "parentId": "31-08",
@@ -13957,11 +13957,6 @@
           "lat": 8.47317746528472,
           "lon": -13.2604780511677
         }
-      },
-      {
-        "name": "quarry/wilkinson road",
-        "id": "31-08-12",
-        "parentId": "31-08"
       },
       {
         "name": "fabaina area",
