@@ -4,13 +4,25 @@ All notable changes to this project will be documented in this
 file. This file is structured according to http://keepachangelog.com/
 
 - - -
+## unreleased
+### Removed
+- (SL):
+	- West > Western Urban > West III >  quarry/wilkinson road [https://github.com/eHealthAfrica/sl-ebola-call-admin/issues/1206]
+        - bonthe town (we don't use localities).
+
+### Changed
+- (SL): moved
+	- York Island as section of `Dema` chiefdom.
+	- Bonthe Central as section of `Sittia` chiefdom.
+	- Bonthe Island as chiefdom of `Bonthe` district.
+
 ## 3.3.0 [25.12.2015]
+
 ### Changed
 - (SL) reorganize tree for western region: use chiefdoms and sections in Western Urban and Western Rural
-### Fixed,
+
+### Fixed
 - (SL) pujehun district remove duplicated: Laimaba 1, Laimaba
-### Removed
-- (SL) West > Western Urban > West III >  quarry/wilkinson road [https://github.com/eHealthAfrica/sl-ebola-call-admin/issues/1206]
 
 ## 3.2.0 11.11.2015
 ### Added
