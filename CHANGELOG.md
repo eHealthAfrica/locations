@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this
 file. This file is structured according to http://keepachangelog.com/
 
 - - -
-## unreleased
+## 3.3.0 [25.12.2015]
 ### Changed
 - (SL) reorganize tree for western region: use chiefdoms and sections in Western Urban and Western Rural
 ### Fixed,
