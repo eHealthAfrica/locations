@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this
 file. This file is structured according to http://keepachangelog.com/
 
 - - -
-## unreleased
+## 3.4.0 [05.01.2016]
 ### Removed
 - (SL):
 	- West > Western Urban > West III >  quarry/wilkinson road [https://github.com/eHealthAfrica/sl-ebola-call-admin/issues/1206]
