@@ -16,6 +16,9 @@ file. This file is structured according to http://keepachangelog.com/
 	- Bonthe Central as section of `Sittia` chiefdom.
 	- Bonthe Island as chiefdom of `Bonthe` district.
 
+### Added
+- (SL): add Grass Field / lumley (31-08-10)
+
 ## 3.3.0 [25.12.2015]
 
 ### Changed
