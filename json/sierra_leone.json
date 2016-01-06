@@ -2483,13 +2483,8 @@
         }
       },
       {
-        "name": "kaduawo",
-        "id": "1-11-01",
-        "parentId": "1-11"
-      },
-      {
         "name": "lower niawa",
-        "id": "1-11-02",
+        "id": "1-11-01",
         "ochaId": "SLE03011102",
         "parentId": "1-11",
         "coordinates": {
@@ -2498,13 +2493,8 @@
         }
       },
       {
-        "name": "mokpendeh",
-        "id": "1-11-03",
-        "parentId": "1-11"
-      },
-      {
         "name": "upper niawa",
-        "id": "1-11-04",
+        "id": "1-11-02",
         "ochaId": "SLE03011103",
         "parentId": "1-11",
         "coordinates": {
@@ -2514,7 +2504,7 @@
       },
       {
         "name": "yalenga",
-        "id": "1-11-05",
+        "id": "1-11-03",
         "ochaId": "SLE03011104",
         "parentId": "1-11",
         "coordinates": {
