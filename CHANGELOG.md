@@ -4,17 +4,20 @@ All notable changes to this project will be documented in this
 file. This file is structured according to http://keepachangelog.com/
 
 - - -
-## 3.4.0 [05.01.2016]
+## 4.0.0 [06.12.2015]
+
+This version is breaking
+
 ### Removed
 - (SL):
-	- West > Western Urban > West III >  quarry/wilkinson road [https://github.com/eHealthAfrica/sl-ebola-call-admin/issues/1206]
-        - bonthe town (we don't use localities).
+  - West > Western Urban > West III >  quarry/wilkinson road [https://github.com/eHealthAfrica/sl-ebola-call-admin/issues/1206] (not breaking, previous version didn't go to prod)
+  - Bonthe Town (we don't use localities), and deprecated original. (BREAKING)
 
 ### Changed
-- (SL): moved
-	- York Island as section of `Dema` chiefdom.
-	- Bonthe Central as section of `Sittia` chiefdom.
-	- Bonthe Island as chiefdom of `Bonthe` district.
+- (SL): copied, and deprecated original. (BREAKING)
+  - York Island as section of `Dema` chiefdom.
+  - Bonthe Central as section of `Sittia` chiefdom.
+  - Bonthe Island as chiefdom of `Bonthe` district.
 
 ### Added
 - (SL): add Grass Field / lumley (31-08-10)
