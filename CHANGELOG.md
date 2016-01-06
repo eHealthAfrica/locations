@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this
 file. This file is structured according to http://keepachangelog.com/
 
 - - -
+
+## 4.0.0 [06.12.2015]
+
+This version is breaking
+
+### Added
+   the following are restored after being removed in 3.3.0 and flaged as deprecated
+  - Bonthe Town
+  - York Island as section of `Dema` chiefdom.
+  - Bonthe Central as section of `Sittia` chiefdom.
+  - Bonthe Island as chiefdom of `Bonthe` district.
+
+
 ## 3.4.0 [05.01.2016]
 ### Removed
 - (SL):
