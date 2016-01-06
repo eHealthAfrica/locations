@@ -7,7 +7,12 @@ file. This file is structured according to http://keepachangelog.com/
 
 ## 4.0.0 [06.12.2015]
 
-This version is breaking
+This version is breaking, and adds `deprecated`
+flag to help clients making the breaks compatible.
+Follow-up of changes in version 3.4.0
+
+### Changed
+  - sections with missing coordinates get the parent's coordinates as a default.
 
 ### Added
    the following are restored after being removed in 3.3.0 and flaged as deprecated
@@ -15,6 +20,11 @@ This version is breaking
   - York Island as section of `Dema` chiefdom.
   - Bonthe Central as section of `Sittia` chiefdom.
   - Bonthe Island as chiefdom of `Bonthe` district.
+
+### Removed
+  - Mokpedeh & Kaduawo repeated, fixed with OCHA reference.
+    - https://github.com/eHealthAfrica/locations/issues/60
+    - https://github.com/eHealthAfrica/locations/issues/59
 
 
 ## 3.4.0 [05.01.2016]
