@@ -1972,8 +1972,12 @@
       {
         "name": "niawa",
         "id": "1-03-03",
-        "ochaId": "SLE010210",
-        "parentId": "1-03"
+        "ochaId": "SLE03010303",
+        "parentId": "1-03",
+        "coordinates": {
+          "lat": 7.94623190282982,
+          "lon": -11.1961678904605
+        }
       },
       {
         "name": "nyallay",
@@ -2413,12 +2417,20 @@
       {
         "name": "baimba",
         "id": "1-10-01",
-        "parentId": "1-10"
+        "parentId": "1-10",
+        "coordinates": {
+          "lat": 7.68821110830645,
+          "lon": -11.8878829629775
+        }
       },
       {
         "name": "yalenga",
         "id": "1-10-02",
-        "parentId": "1-10"
+        "parentId": "1-10",
+        "coordinates": {
+          "lat": 7.68821110830645,
+          "lon": -11.8878829629775
+        }
       },
       {
         "name": "kamba",
