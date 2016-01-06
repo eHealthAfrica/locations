@@ -2402,7 +2402,11 @@
       {
         "name": "gao",
         "id": "1-09-04",
-        "parentId": "1-09"
+        "parentId": "1-09",
+        "coordinates": {
+          "lat": 8.24515829163489,
+          "lon": -11.4897519207918
+        }
       },
       {
         "name": "sei",
@@ -2525,7 +2529,11 @@
       {
         "name": "bainyawa",
         "id": "1-12-02",
-        "parentId": "1-12"
+        "parentId": "1-12",
+        "coordinates": {
+          "lat": 8.11497666085749,
+          "lon": -11.7289372161948
+        }
       },
       {
         "name": "kaduawo",
@@ -2540,7 +2548,11 @@
       {
         "name": "mambawa",
         "id": "1-12-04",
-        "parentId": "1-12"
+        "parentId": "1-12",
+        "coordinates": {
+          "lat": 8.11497666085749,
+          "lon": -11.7289372161948
+        }
       },
       {
         "name": "mokpendeh",
@@ -2635,7 +2647,11 @@
       {
         "name": "lower kargoi",
         "id": "1-14-03",
-        "parentId": "1-14"
+        "parentId": "1-14",
+        "coordinates": {
+          "lat": 8.31766492201109,
+          "lon": -11.682005355684
+        }
       },
       {
         "name": "lunia",
@@ -2650,7 +2666,11 @@
       {
         "name": "manyeh",
         "id": "1-14-05",
-        "parentId": "1-14"
+        "parentId": "1-14",
+        "coordinates": {
+          "lat": 8.31766492201109,
+          "lon": -11.682005355684
+        }
       },
       {
         "name": "ngovo",
@@ -3674,7 +3694,11 @@
       {
         "name": "moryah",
         "id": "3-02-08",
-        "parentId": "3-02"
+        "parentId": "3-02",
+        "coordinates": {
+          "lat": 8.12666182495,
+          "lon": -12.7165067813221
+        }
       },
       {
         "name": "motobon",
@@ -6199,7 +6223,11 @@
       {
         "name": "seimaya",
         "id": "11-07-05",
-        "parentId": "11-07"
+        "parentId": "11-07",
+        "coordinates": {
+          "lat": 8.19076804037337,
+          "lon": -10.8290987515547
+        }
       },
       {
         "name": "baoma",
@@ -7164,7 +7192,11 @@
       {
         "name": "gboro-lokoma",
         "id": "12-10-02",
-        "parentId": "12-10"
+        "parentId": "12-10",
+        "coordinates": {
+          "lat": 7.66816289493839,
+          "lon": -11.4050806516531
+        }
       },
       {
         "name": "kpaiawo",
@@ -7229,7 +7261,11 @@
       {
         "name": "njeiwoma",
         "id": "12-11-03",
-        "parentId": "12-11"
+        "parentId": "12-11",
+        "coordinates": {
+          "lat": 7.56636643485661,
+          "lon": -10.9366817453321
+        }
       },
       {
         "name": "dagbanya",
@@ -11244,7 +11280,11 @@
       {
         "name": "mange",
         "id": "24-01-16",
-        "parentId": "24-01"
+        "parentId": "24-01",
+        "coordinates": {
+          "lat": 8.93636836580952,
+          "lon": -12.787158032448
+        }
       },
       {
         "name": "worreh mapoteh",
