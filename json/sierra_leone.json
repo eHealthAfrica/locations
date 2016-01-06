@@ -70,6 +70,12 @@
         }
       },
       {
+        "name": "bonthe island",
+        "id": "5",
+        "parentId": "S",
+        "deprecated": true
+      },
+      {
         "name": "kailahun",
         "id": "11",
         "ochaId": "SLE11",
@@ -704,7 +710,30 @@
           "lon": -11.7783295037863
         }
       },
-    {
+      {
+        "name": "bonthe island",
+        "id": "5-01",
+        "parentId": "5",
+        "deprecated": true
+      },
+      {
+        "name": "bonthe town",
+        "id": "5-02",
+        "ochaId": "SLE03029101",
+        "parentId": "5",
+        "coordinates": {
+          "lat": 7.53259164124122,
+          "lon": -12.5013369911515
+        },
+        "deprecated": true
+      },
+      {
+        "name": "york island",
+        "id": "5-03",
+        "parentId": "5",
+        "deprecated": true
+      },
+      {
         "name": "dia",
         "id": "11-01",
         "ochaId": "SLE010101",
@@ -1943,8 +1972,12 @@
       {
         "name": "niawa",
         "id": "1-03-03",
-        "ochaId": "SLE010210",
-        "parentId": "1-03"
+        "ochaId": "SLE03010303",
+        "parentId": "1-03",
+        "coordinates": {
+          "lat": 8.02998604248367,
+          "lon": -11.5728360909021
+        }
       },
       {
         "name": "nyallay",
@@ -2369,7 +2402,11 @@
       {
         "name": "gao",
         "id": "1-09-04",
-        "parentId": "1-09"
+        "parentId": "1-09",
+        "coordinates": {
+          "lat": 8.24515829163489,
+          "lon": -11.4897519207918
+        }
       },
       {
         "name": "sei",
@@ -2384,12 +2421,20 @@
       {
         "name": "baimba",
         "id": "1-10-01",
-        "parentId": "1-10"
+        "parentId": "1-10",
+        "coordinates": {
+          "lat": 7.68821110830645,
+          "lon": -11.8878829629775
+        }
       },
       {
         "name": "yalenga",
         "id": "1-10-02",
-        "parentId": "1-10"
+        "parentId": "1-10",
+        "coordinates": {
+          "lat": 7.68821110830645,
+          "lon": -11.8878829629775
+        }
       },
       {
         "name": "kamba",
@@ -2442,13 +2487,8 @@
         }
       },
       {
-        "name": "kaduawo",
-        "id": "1-11-01",
-        "parentId": "1-11"
-      },
-      {
         "name": "lower niawa",
-        "id": "1-11-02",
+        "id": "1-11-01",
         "ochaId": "SLE03011102",
         "parentId": "1-11",
         "coordinates": {
@@ -2457,13 +2497,8 @@
         }
       },
       {
-        "name": "mokpendeh",
-        "id": "1-11-03",
-        "parentId": "1-11"
-      },
-      {
         "name": "upper niawa",
-        "id": "1-11-04",
+        "id": "1-11-02",
         "ochaId": "SLE03011103",
         "parentId": "1-11",
         "coordinates": {
@@ -2473,7 +2508,7 @@
       },
       {
         "name": "yalenga",
-        "id": "1-11-05",
+        "id": "1-11-03",
         "ochaId": "SLE03011104",
         "parentId": "1-11",
         "coordinates": {
@@ -2494,7 +2529,11 @@
       {
         "name": "bainyawa",
         "id": "1-12-02",
-        "parentId": "1-12"
+        "parentId": "1-12",
+        "coordinates": {
+          "lat": 8.11497666085749,
+          "lon": -11.7289372161948
+        }
       },
       {
         "name": "kaduawo",
@@ -2509,7 +2548,11 @@
       {
         "name": "mambawa",
         "id": "1-12-04",
-        "parentId": "1-12"
+        "parentId": "1-12",
+        "coordinates": {
+          "lat": 8.11497666085749,
+          "lon": -11.7289372161948
+        }
       },
       {
         "name": "mokpendeh",
@@ -2604,7 +2647,11 @@
       {
         "name": "lower kargoi",
         "id": "1-14-03",
-        "parentId": "1-14"
+        "parentId": "1-14",
+        "coordinates": {
+          "lat": 8.31766492201109,
+          "lon": -11.682005355684
+        }
       },
       {
         "name": "lunia",
@@ -2619,7 +2666,11 @@
       {
         "name": "manyeh",
         "id": "1-14-05",
-        "parentId": "1-14"
+        "parentId": "1-14",
+        "coordinates": {
+          "lat": 8.31766492201109,
+          "lon": -11.682005355684
+        }
       },
       {
         "name": "ngovo",
@@ -3643,7 +3694,11 @@
       {
         "name": "moryah",
         "id": "3-02-08",
-        "parentId": "3-02"
+        "parentId": "3-02",
+        "coordinates": {
+          "lat": 8.12666182495,
+          "lon": -12.7165067813221
+        }
       },
       {
         "name": "motobon",
@@ -6168,7 +6223,11 @@
       {
         "name": "seimaya",
         "id": "11-07-05",
-        "parentId": "11-07"
+        "parentId": "11-07",
+        "coordinates": {
+          "lat": 8.19076804037337,
+          "lon": -10.8290987515547
+        }
       },
       {
         "name": "baoma",
@@ -7133,7 +7192,11 @@
       {
         "name": "gboro-lokoma",
         "id": "12-10-02",
-        "parentId": "12-10"
+        "parentId": "12-10",
+        "coordinates": {
+          "lat": 7.66816289493839,
+          "lon": -11.4050806516531
+        }
       },
       {
         "name": "kpaiawo",
@@ -7198,7 +7261,11 @@
       {
         "name": "njeiwoma",
         "id": "12-11-03",
-        "parentId": "12-11"
+        "parentId": "12-11",
+        "coordinates": {
+          "lat": 7.56636643485661,
+          "lon": -10.9366817453321
+        }
       },
       {
         "name": "dagbanya",
@@ -11213,7 +11280,11 @@
       {
         "name": "mange",
         "id": "24-01-16",
-        "parentId": "24-01"
+        "parentId": "24-01",
+        "coordinates": {
+          "lat": 8.93636836580952,
+          "lon": -12.787158032448
+        }
       },
       {
         "name": "worreh mapoteh",
