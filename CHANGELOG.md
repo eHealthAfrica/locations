@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this
 file. This file is structured according to http://keepachangelog.com/
 
 - - -
+## 4.0.1 [07.12.2015]
+
+### Added
+  - Mokpedeh & Kaduawo, removed in previous version.
+  They also get the parent's coordinates.
 
 ## 4.0.0 [06.12.2015]
 
