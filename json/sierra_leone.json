@@ -2489,7 +2489,11 @@
       {
         "name": "kaduawo",
         "id": "1-11-01",
-        "parentId": "1-11"
+        "parentId": "1-11",
+        "coordinates": {
+          "lat": 8.13849605328231,
+          "lon": -11.6209023955563
+        }
       },
       {
         "name": "lower niawa",
@@ -2504,7 +2508,11 @@
       {
         "name": "mokpendeh",
         "id": "1-11-03",
-        "parentId": "1-11"
+        "parentId": "1-11",
+        "coordinates": {
+          "lat": 8.13849605328231,
+          "lon": -11.6209023955563
+        }
       },
       {
         "name": "upper niawa",
