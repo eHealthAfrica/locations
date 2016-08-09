@@ -4,6 +4,18 @@ All notable changes to this project will be documented in this
 file. This file is structured according to http://keepachangelog.com/
 
 - - -
+
+## 4.0.2 2016-08-09
+
+### Fixed
+
+  - In Sierra Leone, renamed chiefdom "Dembelia Musaia" to "Musaia"
+    and renamed section "Musaia" to "Folosaba Dembelia", according to
+    ticket CCSL-1701. Due to the locations being parsed by id, this
+    can be considered as a fix, which will not change anything to the
+    user, besides a small bug described in CCSL-1757 which can be
+    eliminated with a migration
+
 ## 4.0.1 [07.12.2015]
 
 ### Added

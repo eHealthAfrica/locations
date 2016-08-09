@@ -1,6 +1,6 @@
 {
   "name": "locations",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "JSON location data",
   "main": "readable.js",
   "license": "Apache-2.0",
