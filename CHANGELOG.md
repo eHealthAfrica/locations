@@ -5,6 +5,11 @@ file. This file is structured according to http://keepachangelog.com/
 
 - - -
 
+## 4.1.0 12-12-2016
+
+- In Sierra Leone, Chiefdom and Section level values for Region West have changed.
+
+
 ## 4.0.2 2016-08-09
 
 ### Fixed

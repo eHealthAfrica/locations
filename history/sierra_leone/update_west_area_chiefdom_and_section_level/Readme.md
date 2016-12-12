@@ -1,0 +1,8 @@
+- downloaded from [source](https://jira.ehealthafrica.org/secure/attachment/11185/RegionWest.xlsx)
+- exported to csv
+- split file into files per region, removing the region column and having a region name name the file.
+- create script script on (../../../lib/history/sierra_leone/update_west_area_chiefdom_and_section_level.js)
+- run script with `cd lib/history/sierra_leone && node update_west_area_chiefdom_and_section_level.js`
+- set previous chiefdoms and sections as `deprecated: true`
+- renumber the new chiefdoms and sections manually, departing from previous ids of the deprecated chiefdoms & sections
+- add the new sections and chiefdoms to the sierra_leone.json file

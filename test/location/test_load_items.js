@@ -28,11 +28,11 @@ test('loading our json representation', function (t) {
 })
 
 test('toJSON outputs an ordered by id representation', function (t) {
-  t.plan(3)
+  t.plan(2)
   var fixture = require('../../json/sierra_leone.json')
   var res = Location.loadFlatten(fixture)
   t.equal((JSON.parse(JSON.stringify(res)))[4].items[0].id, '1-01-01', 'should be well ordered')
   var items = (JSON.parse(JSON.stringify(res)))[3].items
-  t.equal(items[items.length-1].id, '32-04', 'last section has id 32-04')
-  t.equal(items[items.length-1].coordinates.lat, 8.29971112615566, 'last section has 8.29971112615566 latitude')
+  console.log(items)
+  t.equal(items[items.length-1].id, '32-06', 'last section has id 32-06')
 })
