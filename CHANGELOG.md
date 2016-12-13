@@ -5,6 +5,12 @@ file. This file is structured according to http://keepachangelog.com/
 
 - - -
 
+## 4.1.0 12-12-2016
+
+### Changed
+- [Sierra Leone] Chiefdom and Section levels. Keeping old ones as deprecated
+ (and keeping their ids)
+
 ## 4.0.2 2016-08-09
 
 ### Fixed
