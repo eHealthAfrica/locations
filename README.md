@@ -32,7 +32,7 @@ data-model we are using for the JSON files in](./json/README.md)
 
 ### Adding countries
 
-Adding a country requires to add a `country_name.json` file to the
+Adding a country requires adding a `country_name.json` file to the
 `json` folder (read the `README.md` in there, too).
 
 ### Providing Human-Readable Locations
