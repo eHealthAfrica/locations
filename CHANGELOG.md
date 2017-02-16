@@ -5,7 +5,17 @@ file. This file is structured according to http://keepachangelog.com/
 
 - - -
 
-## 4.1.0 12-12-2016
+## 4.1.1 2017-02-14
+
+### Changed
+
+All changes are about Sierra Leone
+
+- Switch names in order to have chiefdom Folosaba Dembelia and section Musaia
+- Change the name of a chiefdom from Dia to Dea
+- Correct the spelling of Bumpe to Bumpeh in Moyamba
+
+## 4.1.0 2016-12-12
 
 ### Changed
 - [Sierra Leone] Chiefdom and Section levels. Keeping old ones as deprecated

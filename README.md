@@ -10,22 +10,30 @@ JSON files listing locations in
 - Sierra Leone
 - Madagascar
 
+Data is provided as JSON files in order to be used in all
+environments
+
+### New releases
+
+This repo is just about the JSON files, so there is no build step
+involved in creating a new release, just update the changelog and the
+version number in the Bower file.
+
+There are some consistency tests and they can be run with the command
+`npm test`. You might need to run `npm install` before that if it's
+the first time you are running tests on this repo
 
 ### Data Model
 
-We don't have an explicit (yet) data model for the json objects stored in the JSON files.
-Whenever data-models is referenced in the documentaiton of the project, it referes to the [informal-conventional data-model we
-are using for the JSON files in](./json/README.md)
+We don't have an explicit (yet) data model for the json objects stored
+in the JSON files. Whenever data-models is referenced in the
+documentaiton of the project, it referes to the [informal-conventional
+data-model we are using for the JSON files in](./json/README.md)
 
-### Adding locations
+### Adding countries
 
-Data is provided as JSON files in order to be used in all
-environments.
-
-Adding a country requires 3 steps:
-
-1. Add a `country_name.json` file to the `json` folder
-(read the `README.md` in there, too).
+Adding a country requires adding a `country_name.json` file to the
+`json` folder (read the `README.md` in there, too).
 
 ### Providing Human-Readable Locations
 

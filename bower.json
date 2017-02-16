@@ -1,13 +1,9 @@
 {
   "name": "locations",
-  "version": "4.1.0",
+  "version": "4.1.1",
   "homepage": "https://github.com/eHealthAfrica/locations",
-  "authors": [
-    "danse <f.occhipinti@gmail.com>"
-  ],
   "description": "JSON location data",
   "license": "Apache-2.0",
-  "main": "angular-modules/all.js",
   "ignore": [
     "**/.*",
     "node_modules",
