@@ -1,0 +1,2597 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -11.421396854888,
+          8.09095586362923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030101",
+        "parentId": "1",
+        "name": "badja",
+        "id": "1-01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.8587101865651,
+          7.5971708020872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030102",
+        "parentId": "1",
+        "name": "bagbo",
+        "id": "1-02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.5326750714972,
+          8.07914084680335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030103",
+        "parentId": "1",
+        "name": "bagwe",
+        "id": "1-03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.4852034757387,
+          7.93463545759822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030104",
+        "parentId": "1",
+        "name": "baoma",
+        "id": "1-04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.7165067813221,
+          8.12666182495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030105",
+        "parentId": "1",
+        "name": "bumpe",
+        "id": "1-05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.8426726509609,
+          8.08136417698752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030106",
+        "parentId": "1",
+        "name": "gbo",
+        "id": "1-06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.6249088651073,
+          7.7675984534537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030107",
+        "parentId": "1",
+        "name": "jaiama bongor",
+        "id": "1-07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.6710249023738,
+          7.98077194540206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030108",
+        "parentId": "1",
+        "name": "kakua",
+        "id": "1-08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.4897519207918,
+          8.24515829163489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030109",
+        "parentId": "1",
+        "name": "komboya",
+        "id": "1-09"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.8878829629775,
+          7.68821110830645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030110",
+        "parentId": "1",
+        "name": "lugbu",
+        "id": "1-10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.6209023955563,
+          8.13849605328231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030111",
+        "parentId": "1",
+        "name": "nyawa lenga",
+        "id": "1-11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.7289372161948,
+          8.11497666085749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030112",
+        "parentId": "1",
+        "name": "selenga",
+        "id": "1-12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.7905566552028,
+          7.85509415616666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030113",
+        "parentId": "1",
+        "name": "tikonko",
+        "id": "1-13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.682005355684,
+          8.31766492201109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030114",
+        "parentId": "1",
+        "name": "valunia",
+        "id": "1-14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.5477289611481,
+          7.69721699177454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030115",
+        "parentId": "1",
+        "name": "wunde",
+        "id": "1-15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.3833683440753,
+          7.47330235922791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030201",
+        "parentId": "2",
+        "name": "bendu cha",
+        "id": "2-01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.9675695773302,
+          7.43433617301128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030202",
+        "parentId": "2",
+        "name": "bum",
+        "id": "2-02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.8904426181597,
+          7.5934039802624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030203",
+        "parentId": "2",
+        "name": "dema",
+        "id": "2-03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.3855541925469,
+          7.66387155097725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030204",
+        "parentId": "2",
+        "name": "imperri",
+        "id": "2-04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.2092441510656,
+          7.58391455510996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030205",
+        "parentId": "2",
+        "name": "jong",
+        "id": "2-05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.0308262145756,
+          7.60404293654116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030206",
+        "parentId": "2",
+        "name": "kpando kemo",
+        "id": "2-06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.9861158874446,
+          7.27376000540606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030207",
+        "parentId": "2",
+        "name": "kwamebai krim",
+        "id": "2-07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.2411505408586,
+          7.36614557637767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030208",
+        "parentId": "2",
+        "name": "nongoba bullom",
+        "id": "2-08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.6458335712374,
+          7.54923932784156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030209",
+        "parentId": "2",
+        "name": "sitia",
+        "id": "2-09"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.093169780319,
+          7.5348141009903
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030210",
+        "parentId": "2",
+        "name": "sogbini",
+        "id": "2-10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.1257777890722,
+          7.43671921303693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030211",
+        "parentId": "2",
+        "name": "yawbeko",
+        "id": "2-11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.4723678985165,
+          7.90108779109818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030301",
+        "parentId": "3",
+        "name": "bagruwa",
+        "id": "3-01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.7165067813221,
+          8.12666182495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030302",
+        "parentId": "3",
+        "name": "bumpe",
+        "id": "3-02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.1548313910924,
+          8.01982687584591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030303",
+        "parentId": "3",
+        "name": "dasse",
+        "id": "3-03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.3056887140512,
+          8.24764602257344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030304",
+        "parentId": "3",
+        "name": "fakunya",
+        "id": "3-04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.7683969011186,
+          7.92612591358969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030305",
+        "parentId": "3",
+        "name": "kagboro",
+        "id": "3-05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.3880074713453,
+          8.11338033534323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030306",
+        "parentId": "3",
+        "name": "kaiyamba",
+        "id": "3-06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.8978258993061,
+          8.2402590798733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030307",
+        "parentId": "3",
+        "name": "kamajei",
+        "id": "3-07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.542516111895,
+          8.17103451619696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030308",
+        "parentId": "3",
+        "name": "kongbora",
+        "id": "3-08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.097041596766,
+          8.21578210720762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030309",
+        "parentId": "3",
+        "name": "kori",
+        "id": "3-09"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.9590312037785,
+          8.06952281278788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030310",
+        "parentId": "3",
+        "name": "kowa",
+        "id": "3-10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.2768071800597,
+          7.85241106959796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030311",
+        "parentId": "3",
+        "name": "lower banta",
+        "id": "3-11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.8098743415339,
+          8.25866083361523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030312",
+        "parentId": "3",
+        "name": "ribbi",
+        "id": "3-12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.6651950635922,
+          7.78436492296588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030313",
+        "parentId": "3",
+        "name": "timdel",
+        "id": "3-13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.1821769461887,
+          7.72959173157413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030314",
+        "parentId": "3",
+        "name": "upper banta",
+        "id": "3-14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.4195811539461,
+          7.45920029084239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030401",
+        "parentId": "4",
+        "name": "barri",
+        "id": "4-01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.5650170786058,
+          7.28867043491377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030402",
+        "parentId": "4",
+        "name": "gallinas perri",
+        "id": "4-02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.6366114489699,
+          7.16102621904818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030403",
+        "parentId": "4",
+        "name": "kpaka",
+        "id": "4-03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.2911004515079,
+          7.30574779130045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030405",
+        "parentId": "4",
+        "name": "makpele",
+        "id": "4-04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.8101422497085,
+          7.50400731646137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030406",
+        "parentId": "4",
+        "name": "malen",
+        "id": "4-05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.7732440681877,
+          7.15110494493873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030407",
+        "parentId": "4",
+        "name": "mano sakrim",
+        "id": "4-06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.7332012751525,
+          7.39664651744361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030404",
+        "parentId": "4",
+        "name": "panga kabonde",
+        "id": "4-07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.7687320532183,
+          7.31553271983379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030408",
+        "parentId": "4",
+        "name": "panga krim",
+        "id": "4-08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.5448028672897,
+          7.55118666506043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030409",
+        "parentId": "4",
+        "name": "peje",
+        "id": "4-09"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.4484893695079,
+          7.10694322251653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030410",
+        "parentId": "4",
+        "name": "soro gbema",
+        "id": "4-10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.6477319030409,
+          7.57198038515559
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030411",
+        "parentId": "4",
+        "name": "sowa",
+        "id": "4-11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.7783295037863,
+          7.22481020824499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE030412",
+        "parentId": "4",
+        "name": "yakemo kpukumu krim",
+        "id": "4-12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.5013369911515,
+          7.53259164124122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE03029101",
+        "parentId": "5",
+        "name": "bonthe town",
+        "id": "5-02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.6516021395881,
+          7.95251999013444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010101",
+        "parentId": "11",
+        "name": "dia",
+        "id": "11-01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.897685557937,
+          7.88200774864323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010102",
+        "parentId": "11",
+        "name": "jawi",
+        "id": "11-02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.4052864554888,
+          8.40626683686644
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010103",
+        "parentId": "11",
+        "name": "kissi kama",
+        "id": "11-03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.3572480758519,
+          8.3934599201706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010104",
+        "parentId": "11",
+        "name": "kissi teng",
+        "id": "11-04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.3478225796991,
+          8.26913968620363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010105",
+        "parentId": "11",
+        "name": "kissi tongi",
+        "id": "11-05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.777860252987,
+          8.1539492117763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010106",
+        "parentId": "11",
+        "name": "peje bongre",
+        "id": "11-06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.8290987515547,
+          8.19076804037337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010107",
+        "parentId": "11",
+        "name": "peje west (kpejewaa)",
+        "id": "11-07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.5582056968245,
+          8.22471705534719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010108",
+        "parentId": "11",
+        "name": "luawa",
+        "id": "11-08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.7712365976417,
+          7.77556502403447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010109",
+        "parentId": "11",
+        "name": "malema",
+        "id": "11-09"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.7496391101619,
+          7.98144326568059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010110",
+        "parentId": "11",
+        "name": "mandu",
+        "id": "11-10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.9227976154835,
+          8.00830355662304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010111",
+        "parentId": "11",
+        "name": "jaluahun",
+        "id": "11-11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.7145979597494,
+          8.36197564203402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010112",
+        "parentId": "11",
+        "name": "penguia",
+        "id": "11-12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.6772084553922,
+          8.09186111828376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010113",
+        "parentId": "11",
+        "name": "upper bambara",
+        "id": "11-13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.8226424757331,
+          8.325483518341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010114",
+        "parentId": "11",
+        "name": "yawei",
+        "id": "11-14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.1353171648653,
+          7.76395035968895
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010201",
+        "parentId": "12",
+        "name": "dama",
+        "id": "12-01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.2015888678404,
+          8.19553944905828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010202",
+        "parentId": "12",
+        "name": "dodo",
+        "id": "12-02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.025820071162,
+          7.6931279937642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010203",
+        "parentId": "12",
+        "name": "gaura",
+        "id": "12-03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.416081961093,
+          8.45306367428097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010204",
+        "parentId": "12",
+        "name": "gorama mende",
+        "id": "12-04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.2897760771262,
+          8.02523813556404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010205",
+        "parentId": "12",
+        "name": "kandu legbewama",
+        "id": "12-05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.8545223092469,
+          8.45627580580882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010206",
+        "parentId": "12",
+        "name": "koya",
+        "id": "12-06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.4756506371995,
+          7.66617666340137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010207",
+        "parentId": "12",
+        "name": "langrama",
+        "id": "12-07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.0503189775857,
+          8.22576316998081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010208",
+        "parentId": "12",
+        "name": "lower bambara",
+        "id": "12-08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.9207711839676,
+          8.23384155438569
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010209",
+        "parentId": "12",
+        "name": "malegohun",
+        "id": "12-09"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.4050806516531,
+          7.66816289493839
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010210",
+        "parentId": "12",
+        "name": "nyawa",
+        "id": "12-10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.9366817453321,
+          7.56636643485661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010211",
+        "parentId": "12",
+        "name": "nomo",
+        "id": "12-11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.123662743001,
+          7.96071344819894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010212",
+        "parentId": "12",
+        "name": "nongowa",
+        "id": "12-12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.3112083975351,
+          8.19571577199215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010213",
+        "parentId": "12",
+        "name": "simbaru",
+        "id": "12-13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.3457927447957,
+          7.85628471327287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010214",
+        "parentId": "12",
+        "name": "small bo",
+        "id": "12-14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.1650678365786,
+          7.48840252014192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010215",
+        "parentId": "12",
+        "name": "tunkia",
+        "id": "12-15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.3630455924502,
+          8.31499573224458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010216",
+        "parentId": "12",
+        "name": "wando",
+        "id": "12-16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.8357160803798,
+          8.6452253959683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010301",
+        "parentId": "13",
+        "name": "fiama",
+        "id": "13-01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.8478721492568,
+          8.47312023302179
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010302",
+        "parentId": "13",
+        "name": "gbaneh",
+        "id": "13-02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.5706800644889,
+          8.64103485379022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010303",
+        "parentId": "13",
+        "name": "gbaneh kandor",
+        "id": "13-03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.9218805476021,
+          8.72669169511254
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010304",
+        "parentId": "13",
+        "name": "gbenseh",
+        "id": "13-04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.0996771820643,
+          8.39655366462616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010305",
+        "parentId": "13",
+        "name": "gorama (ngorama)",
+        "id": "13-05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.0268733099821,
+          8.72173191134516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010306",
+        "parentId": "13",
+        "name": "kamara",
+        "id": "13-06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.6821435700952,
+          8.82720078940158
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010307",
+        "parentId": "13",
+        "name": "lei",
+        "id": "13-07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.5105270135485,
+          8.6852869254274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010308",
+        "parentId": "13",
+        "name": "mafindor",
+        "id": "13-08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.0975715438567,
+          8.56868578421003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010309",
+        "parentId": "13",
+        "name": "nimikoro",
+        "id": "13-09"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.2564367984052,
+          8.58235302565665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010310",
+        "parentId": "13",
+        "name": "nimiyama",
+        "id": "13-10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.078884821024,
+          8.8619901525792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010311",
+        "parentId": "13",
+        "name": "sandor",
+        "id": "13-11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.6861494895156,
+          8.59893607637397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010312",
+        "parentId": "13",
+        "name": "soa",
+        "id": "13-12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.9657732253433,
+          8.54623060984822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010313",
+        "parentId": "13",
+        "name": "tankoro",
+        "id": "13-13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.6322204993715,
+          8.98783883958195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE010314",
+        "parentId": "13",
+        "name": "toli",
+        "id": "13-14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.9212015942695,
+          9.25939373956015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020101",
+        "parentId": "21",
+        "name": "biriwa",
+        "id": "21-01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.0769416993634,
+          8.76881993215673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020102",
+        "parentId": "21",
+        "name": "bombali sebora",
+        "id": "21-02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.2928122528279,
+          9.28728673982367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020103",
+        "parentId": "21",
+        "name": "gbanti kamaranka",
+        "id": "21-03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.1750067324239,
+          9.0673033447309
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020104",
+        "parentId": "21",
+        "name": "gbendembu gowahun",
+        "id": "21-04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.4287842225799,
+          9.00427924042247
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020105",
+        "parentId": "21",
+        "name": "libeisaygahun",
+        "id": "21-05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.0615002139663,
+          9.29124841382777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020106",
+        "parentId": "21",
+        "name": "magbaiamba",
+        "id": "21-06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.1940413353021,
+          8.85166005338151
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020107",
+        "parentId": "21",
+        "name": "makari gbanti",
+        "id": "21-07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.9500945495831,
+          8.80627439618761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020108",
+        "parentId": "21",
+        "name": "paki masabong",
+        "id": "21-08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.9235633964043,
+          9.00062041326957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020109",
+        "parentId": "21",
+        "name": "safroko limba",
+        "id": "21-09"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.1433485318841,
+          9.4252095296875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020110",
+        "parentId": "21",
+        "name": "sanda loko",
+        "id": "21-10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.3112050672256,
+          9.16122861646113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020111",
+        "parentId": "21",
+        "name": "sanda tenraran",
+        "id": "21-11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.2533504028428,
+          9.50720586589162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020112",
+        "parentId": "21",
+        "name": "sella limba",
+        "id": "21-12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.237016923303,
+          9.7373593579359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020113",
+        "parentId": "21",
+        "name": "tambakha",
+        "id": "21-13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.9620289274529,
+          9.15000775700116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020202",
+        "parentId": "22",
+        "name": "gbinle dixing",
+        "id": "22-01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.6497046389726,
+          9.42803997842463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020201",
+        "parentId": "22",
+        "name": "bramaia",
+        "id": "22-02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.9070879791577,
+          9.04996595670007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020203",
+        "parentId": "22",
+        "name": "magbema",
+        "id": "22-03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -13.0345899102098,
+          8.88578573961767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020204",
+        "parentId": "22",
+        "name": "mambolo",
+        "id": "22-04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.7857834161966,
+          9.11155506344934
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020205",
+        "parentId": "22",
+        "name": "masungbala",
+        "id": "22-05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -13.1435862291626,
+          8.99761726093941
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020206",
+        "parentId": "22",
+        "name": "samu",
+        "id": "22-06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.5796773088896,
+          9.31269075138179
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020207",
+        "parentId": "22",
+        "name": "tonko limba",
+        "id": "22-07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.4720397491567,
+          9.87058911840065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020301",
+        "parentId": "23",
+        "name": "dembelia sinkunia",
+        "id": "23-01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.5874910822711,
+          9.28118603097033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020302",
+        "parentId": "23",
+        "name": "diang",
+        "id": "23-02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.6216792899483,
+          9.8340964565938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020303",
+        "parentId": "23",
+        "name": "dembelia musaia",
+        "id": "23-03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.8669340255131,
+          9.50439607867737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020304",
+        "parentId": "23",
+        "name": "kasunko",
+        "id": "23-04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.9575189803849,
+          9.45037620121123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020305",
+        "parentId": "23",
+        "name": "mongo",
+        "id": "23-05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -10.8798969673644,
+          9.12401125496838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020306",
+        "parentId": "23",
+        "name": "neya",
+        "id": "23-06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.2953942015239,
+          9.11230540885117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020307",
+        "parentId": "23",
+        "name": "nieni",
+        "id": "23-07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.3466330118593,
+          9.51858157195837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020308",
+        "parentId": "23",
+        "name": "sengbe",
+        "id": "23-08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.259302996866,
+          9.80887962345342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020309",
+        "parentId": "23",
+        "name": "sulima",
+        "id": "23-09"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.7822814467319,
+          9.76616576526503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020310",
+        "parentId": "23",
+        "name": "wara wara bafodea",
+        "id": "23-10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.6119150328517,
+          9.55660438420618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020311",
+        "parentId": "23",
+        "name": "wara wara yagala",
+        "id": "23-11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.787158032448,
+          8.93636836580952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020401",
+        "parentId": "24",
+        "name": "bureh kasseh mabonteh",
+        "id": "24-01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.4496184205805,
+          8.81994896276036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020402",
+        "parentId": "24",
+        "name": "buya romende",
+        "id": "24-02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.6168070874155,
+          8.93705018341116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020403",
+        "parentId": "24",
+        "name": "dibia",
+        "id": "24-03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -13.1755770269746,
+          8.62078868074391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020404",
+        "parentId": "24",
+        "name": "kaffu bullom",
+        "id": "24-04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.8545223092469,
+          8.45627580580882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020405",
+        "parentId": "24",
+        "name": "koya",
+        "id": "24-05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -13.0556759400933,
+          8.73088647689016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020406",
+        "parentId": "24",
+        "name": "loko masama",
+        "id": "24-06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.783248814424,
+          8.72440348197477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020407",
+        "parentId": "24",
+        "name": "maforki",
+        "id": "24-07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.5566615846065,
+          8.67378040927107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020408",
+        "parentId": "24",
+        "name": "marampa",
+        "id": "24-08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.4982648895577,
+          8.56399069407839
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020409",
+        "parentId": "24",
+        "name": "masimra",
+        "id": "24-09"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.5656710630204,
+          9.14080480933033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020410",
+        "parentId": "24",
+        "name": "sanda magbolonton",
+        "id": "24-10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.5820573460458,
+          8.86810082698142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020411",
+        "parentId": "24",
+        "name": "t. m. safroko",
+        "id": "24-11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.8905930072467,
+          8.47019500760511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020501",
+        "parentId": "25",
+        "name": "gbonkolenken",
+        "id": "25-01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.7356178599817,
+          8.85493124666163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020502",
+        "parentId": "25",
+        "name": "kafe simiria",
+        "id": "25-02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.743717072376,
+          9.09458233422136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020503",
+        "parentId": "25",
+        "name": "kalansongoia",
+        "id": "25-03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.0234985868938,
+          8.56243951677806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020505",
+        "parentId": "25",
+        "name": "kholifa",
+        "id": "25-04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.1678913859671,
+          8.54448903484266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020504",
+        "parentId": "25",
+        "name": "kholifa mabang",
+        "id": "25-05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.4654734286805,
+          8.63864522465553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020507",
+        "parentId": "25",
+        "name": "kunike",
+        "id": "25-06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.6505705711496,
+          8.58305125784299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020506",
+        "parentId": "25",
+        "name": "kunike barina",
+        "id": "25-07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.2547677374432,
+          8.66918458279075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020508",
+        "parentId": "25",
+        "name": "malal",
+        "id": "25-08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.5584756793349,
+          9.00536776594455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020509",
+        "parentId": "25",
+        "name": "sambaia",
+        "id": "25-09"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -11.8194881708252,
+          8.6614957690713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020510",
+        "parentId": "25",
+        "name": "tane",
+        "id": "25-10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.3277026786915,
+          8.40305299007881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE020511",
+        "parentId": "25",
+        "name": "yoni",
+        "id": "25-11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -13.2127543789937,
+          8.48847896579152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE040203",
+        "parentId": "31",
+        "name": "east i",
+        "id": "31-01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -13.2182994969562,
+          8.48154503642979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE040204",
+        "parentId": "31",
+        "name": "east ii",
+        "id": "31-02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -13.1719292372613,
+          8.44041385547874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE040205",
+        "parentId": "31",
+        "name": "east iii",
+        "id": "31-03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -13.2294763206835,
+          8.4793555530438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE040201",
+        "parentId": "31",
+        "name": "central i",
+        "id": "31-04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -13.2367200242601,
+          8.48540135491406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE040202",
+        "parentId": "31",
+        "name": "central ii",
+        "id": "31-05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -13.2465659625195,
+          8.4838685167465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE040206",
+        "parentId": "31",
+        "name": "west i",
+        "id": "31-06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -13.2414227399491,
+          8.46914564263616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE040207",
+        "parentId": "31",
+        "name": "west ii",
+        "id": "31-07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -13.2676599246947,
+          8.46624840135427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE040208",
+        "parentId": "31",
+        "name": "west iii",
+        "id": "31-08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -12.8545223092469,
+          8.45627580580882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE040101",
+        "parentId": "32",
+        "name": "koya rural",
+        "id": "32-01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -13.2088936197622,
+          8.4304628157938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE040102",
+        "parentId": "32",
+        "name": "mountain rural",
+        "id": "32-02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -13.1013860139795,
+          8.34559172364164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE040103",
+        "parentId": "32",
+        "name": "waterloo rural",
+        "id": "32-03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -13.1618315770272,
+          8.29971112615566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ochaId": "SLE040104",
+        "parentId": "32",
+        "name": "york rural",
+        "id": "32-04"
+      },
+      "type": "Feature"
+    }
+  ]
+}
