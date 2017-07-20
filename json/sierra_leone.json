@@ -8428,6 +8428,31 @@
 	}
       },
       {
+		"name": "makeni",
+		"id": "21-02-01",
+		"parentId": "21-02"
+	  },
+	  {
+		"name": "konta",
+		"id": "21-02-02",
+		"parentId": "21-02"
+	  },
+	  {
+		"name": "matotoka",
+		"id": "21-02-03",
+		"parentId": "21-02"
+	  },
+	  {
+		"name": "khafala",
+		"id": "21-02-04",
+		"parentId": "21-02"
+	  },
+	  {
+		"name": "ka gbara",
+		"id": "21-02-05",
+		"parentId": "21-02"
+	  },
+      {
 	"name": "gbenkfay",
 	"id": "21-03-01",
 	"ochaId": "SLE02010301",
