@@ -1,6 +1,6 @@
 {
   "name": "locations",
-  "version": "4.1.1",
+  "version": "4.1.2",
   "homepage": "https://github.com/eHealthAfrica/locations",
   "description": "JSON location data",
   "license": "Apache-2.0",

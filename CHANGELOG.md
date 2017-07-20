@@ -5,6 +5,12 @@ file. This file is structured according to http://keepachangelog.com/
 
 - - -
 
+## 4.1.2 2017-07-20
+
+### Added
+
+- Makeni, Konta, Matotoka, Khafala, and Ka Gbara Sections to Bombali Sebora Chiefdom (SL)
+
 ## 4.1.1 2017-02-14
 
 ### Changed
