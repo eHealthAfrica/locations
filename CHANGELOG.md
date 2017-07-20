@@ -5,7 +5,7 @@ file. This file is structured according to http://keepachangelog.com/
 
 - - -
 
-## 4.1.2 2017-07-20
+## 4.1.3 2017-07-20
 
 ### Added
 
