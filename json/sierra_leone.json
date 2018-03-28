@@ -1708,7 +1708,6 @@
 	"id": "31-01",
 	"ochaId": "SLE040203",
 	"parentId": "31",
-	"deprecated": true,
 	"coordinates": {
 	  "lat": 8.48847896579152,
 	  "lon": -13.2127543789937
@@ -1719,7 +1718,6 @@
 	"id": "31-02",
 	"ochaId": "SLE040204",
 	"parentId": "31",
-	"deprecated": true,
 	"coordinates": {
 	  "lat": 8.48154503642979,
 	  "lon": -13.2182994969562
@@ -1730,7 +1728,6 @@
 	"id": "31-03",
 	"ochaId": "SLE040205",
 	"parentId": "31",
-	"deprecated": true,
 	"coordinates": {
 	  "lat": 8.44041385547874,
 	  "lon": -13.1719292372613
@@ -1741,7 +1738,6 @@
 	"id": "31-04",
 	"ochaId": "SLE040201",
 	"parentId": "31",
-	"deprecated": true,
 	"coordinates": {
 	  "lat": 8.4793555530438,
 	  "lon": -13.2294763206835
@@ -1752,7 +1748,6 @@
 	"id": "31-05",
 	"ochaId": "SLE040202",
 	"parentId": "31",
-	"deprecated": true,
 	"coordinates": {
 	  "lat": 8.48540135491406,
 	  "lon": -13.2367200242601
@@ -1763,7 +1758,6 @@
 	"id": "31-06",
 	"ochaId": "SLE040206",
 	"parentId": "31",
-	"deprecated": true,
 	"coordinates": {
 	  "lat": 8.4838685167465,
 	  "lon": -13.2465659625195
@@ -1774,7 +1768,6 @@
 	"id": "31-07",
 	"ochaId": "SLE040207",
 	"parentId": "31",
-	"deprecated": true,
 	"coordinates": {
 	  "lat": 8.46914564263616,
 	  "lon": -13.2414227399491
@@ -1785,7 +1778,6 @@
 	"id": "31-08",
 	"ochaId": "SLE040208",
 	"parentId": "31",
-	"deprecated": true,
 	"coordinates": {
 	  "lat": 8.46624840135427,
 	  "lon": -13.2676599246947
@@ -1794,11 +1786,13 @@
       {
 	"id": "31-09",
 	"name": "urban east",
+	"deprecated": true,
 	"parentId": "31"
       },
       {
 	"id": "31-10",
 	"name": "urban west",
+	"deprecated": true,
 	"parentId": "31"
       },
       {
@@ -1806,7 +1800,6 @@
 	"id": "32-01",
 	"ochaId": "SLE040101",
 	"parentId": "32",
-	"deprecated": true,
 	"coordinates": {
 	  "lat": 8.45627580580882,
 	  "lon": -12.8545223092469
@@ -1817,7 +1810,6 @@
 	"id": "32-02",
 	"ochaId": "SLE040102",
 	"parentId": "32",
-	"deprecated": true,
 	"coordinates": {
 	  "lon": -13.2088936197622,
 	  "lat": 8.4304628157938
@@ -1828,7 +1820,6 @@
 	"id": "32-03",
 	"ochaId": "SLE040103",
 	"parentId": "32",
-	"deprecated": true,
 	"coordinates": {
 	  "lon": -13.1013860139795,
 	  "lat": 8.34559172364164
@@ -1839,7 +1830,6 @@
 	"id": "32-04",
 	"ochaId": "SLE040104",
 	"parentId": "32",
-	"deprecated": true,
 	"coordinates": {
 	  "lon": -13.1618315770272,
 	  "lat": 8.29971112615566
@@ -1848,11 +1838,13 @@
       {
 	"id": "32-05",
 	"name": "rural east",
+	"deprecated": true,
 	"parentId": "32"
       },
       {
 	"id": "32-06",
 	"name": "rural west",
+	"deprecated": true,
 	"parentId": "32"
       }
     ]
