@@ -13446,7 +13446,6 @@
       {
 	"name": "cline town",
 	"id": "31-01-01",
-	"deprecated": true,
 	"ochaId": "SLE04020301",
 	"parentId": "31-01",
 	"coordinates": {
@@ -13457,7 +13456,6 @@
       {
 	"name": "fourah bay",
 	"id": "31-01-02",
-	"deprecated": true,
 	"ochaId": "SLE04020302",
 	"parentId": "31-01",
 	"coordinates": {
@@ -13468,7 +13466,6 @@
       {
 	"name": "kossoh town",
 	"id": "31-01-03",
-	"deprecated": true,
 	"ochaId": "SLE04020303",
 	"parentId": "31-01",
 	"coordinates": {
@@ -13479,10 +13476,8 @@
       {
 	"name": "bombay",
 	"id": "31-02-01",
-	"deprecated": true,
 	"ochaId": "SLE04020401",
 	"parentId": "31-02",
-	"deprecated": true,
 	"coordinates": {
 	  "lat": 8.48536283852001,
 	  "lon": -13.2228755514125
@@ -13491,7 +13486,6 @@
       {
 	"name": "coconut farm/ ashobi corner",
 	"id": "31-02-02",
-	"deprecated": true,
 	"ochaId": "SLE04020402",
 	"parentId": "31-02",
 	"coordinates": {
@@ -13502,7 +13496,6 @@
       {
 	"name": "foulah town",
 	"id": "31-02-03",
-	"deprecated": true,
 	"ochaId": "SLE04020403",
 	"parentId": "31-02",
 	"coordinates": {
@@ -13513,7 +13506,6 @@
       {
 	"name": "ginger hall",
 	"id": "31-02-04",
-	"deprecated": true,
 	"ochaId": "SLE04020404",
 	"parentId": "31-02",
 	"coordinates": {
@@ -13524,7 +13516,6 @@
       {
 	"name": "kissy brook",
 	"id": "31-02-05",
-	"deprecated": true,
 	"ochaId": "SLE04020405",
 	"parentId": "31-02",
 	"coordinates": {
@@ -13546,7 +13537,6 @@
       {
 	"name": "mount aureol",
 	"id": "31-02-07",
-	"deprecated": true,
 	"ochaId": "SLE04020407",
 	"parentId": "31-02",
 	"coordinates": {
@@ -13555,9 +13545,8 @@
 	}
       },
       {
-	"name": "quarry/ kissy",
+	"name": "quarry/kissy",
 	"id": "31-02-08",
-	"deprecated": true,
 	"ochaId": "SLE04020408",
 	"parentId": "31-02",
 	"coordinates": {
@@ -13566,31 +13555,18 @@
 	}
       },
       {
-	"name": "allen town i",
+	"name": "allen town i&ii",
 	"id": "31-03-01",
-	"deprecated": true,
 	"ochaId": "SLE04020501",
 	"parentId": "31-03",
 	"coordinates": {
 	  "lat": 8.42342715363719,
 	  "lon": -13.161173506625
 	}
-      },
+    },
       {
-	"name": "allen town ii",
-	"id": "31-03-02",
-	"deprecated": true,
-	"ochaId": "SLE04020502",
-	"parentId": "31-03",
-	"coordinates": {
-	  "lat": 8.41226396100204,
-	  "lon": -13.1520717328363
-	}
-      },
-      {
-	"name": "bottom oku/ wellington",
+	"name": "bottom oku/wellington",
 	"id": "31-03-03",
-	"deprecated": true,
 	"ochaId": "SLE04020503",
 	"parentId": "31-03",
 	"coordinates": {
@@ -13599,25 +13575,13 @@
 	}
       },
       {
-	"name": "congo water i",
+	"name": "congo water i&ii",
 	"id": "31-03-04",
-	"deprecated": true,
 	"ochaId": "SLE04020504",
 	"parentId": "31-03",
 	"coordinates": {
 	  "lat": 8.45471134695285,
 	  "lon": -13.1729981647035
-	}
-      },
-      {
-	"name": "congo water ii",
-	"id": "31-03-05",
-	"deprecated": true,
-	"ochaId": "SLE04020505",
-	"parentId": "31-03",
-	"coordinates": {
-	  "lat": 8.44775721650545,
-	  "lon": -13.1782112844559
 	}
       },
       {
@@ -13645,7 +13609,6 @@
       {
 	"name": "jalloh terrace",
 	"id": "31-03-08",
-	"deprecated": true,
 	"ochaId": "SLE04020508",
 	"parentId": "31-03",
 	"coordinates": {
@@ -13667,7 +13630,6 @@
       {
 	"name": "kissy bye pass i",
 	"id": "31-03-10",
-	"deprecated": true,
 	"ochaId": "SLE04020510",
 	"parentId": "31-03",
 	"coordinates": {
@@ -13678,7 +13640,6 @@
       {
 	"name": "kissy bye pass ii",
 	"id": "31-03-11",
-	"deprecated": true,
 	"ochaId": "SLE04020511",
 	"parentId": "31-03",
 	"coordinates": {
@@ -13689,7 +13650,6 @@
       {
 	"name": "kissy mental",
 	"id": "31-03-12",
-	"deprecated": true,
 	"ochaId": "SLE04020512",
 	"parentId": "31-03",
 	"coordinates": {
@@ -13700,7 +13660,6 @@
       {
 	"name": "kissy mess mess",
 	"id": "31-03-13",
-	"deprecated": true,
 	"ochaId": "SLE04020513",
 	"parentId": "31-03",
 	"coordinates": {
@@ -13711,7 +13670,6 @@
       {
 	"name": "kuntolor",
 	"id": "31-03-14",
-	"deprecated": true,
 	"ochaId": "SLE04020514",
 	"parentId": "31-03",
 	"coordinates": {
@@ -13722,7 +13680,6 @@
       {
 	"name": "lowcost housing",
 	"id": "31-03-15",
-	"deprecated": true,
 	"ochaId": "SLE04020515",
 	"parentId": "31-03",
 	"coordinates": {
@@ -13733,7 +13690,6 @@
       {
 	"name": "mamba ridge i",
 	"id": "31-03-16",
-	"deprecated": true,
 	"ochaId": "SLE04020516",
 	"parentId": "31-03",
 	"coordinates": {
@@ -13744,7 +13700,6 @@
       {
 	"name": "mamba ridge ii",
 	"id": "31-03-17",
-	"deprecated": true,
 	"ochaId": "SLE04020517",
 	"parentId": "31-03",
 	"coordinates": {
@@ -13755,7 +13710,6 @@
       {
 	"name": "mayenkineh",
 	"id": "31-03-18",
-	"deprecated": true,
 	"ochaId": "SLE04020518",
 	"parentId": "31-03",
 	"coordinates": {
@@ -13766,7 +13720,6 @@
       {
 	"name": "old warf",
 	"id": "31-03-19",
-	"deprecated": true,
 	"ochaId": "SLE04020519",
 	"parentId": "31-03",
 	"coordinates": {
@@ -13777,7 +13730,6 @@
       {
 	"name": "pamuronko",
 	"id": "31-03-20",
-	"deprecated": true,
 	"ochaId": "SLE04020520",
 	"parentId": "31-03",
 	"coordinates": {
@@ -13788,7 +13740,6 @@
       {
 	"name": "portee",
 	"id": "31-03-21",
-	"deprecated": true,
 	"ochaId": "SLE04020521",
 	"parentId": "31-03",
 	"coordinates": {
@@ -13799,7 +13750,6 @@
       {
 	"name": "robis",
 	"id": "31-03-22",
-	"deprecated": true,
 	"ochaId": "SLE04020522",
 	"parentId": "31-03",
 	"coordinates": {
@@ -13810,7 +13760,6 @@
       {
 	"name": "rokupa",
 	"id": "31-03-23",
-	"deprecated": true,
 	"ochaId": "SLE04020523",
 	"parentId": "31-03",
 	"coordinates": {
@@ -13821,7 +13770,6 @@
       {
 	"name": "shell",
 	"id": "31-03-24",
-	"deprecated": true,
 	"ochaId": "SLE04020524",
 	"parentId": "31-03",
 	"coordinates": {
@@ -13865,7 +13813,6 @@
       {
 	"name": "mountain regent",
 	"id": "31-04-02",
-	"deprecated": true,
 	"ochaId": "SLE04020102",
 	"parentId": "31-04",
 	"coordinates": {
@@ -13876,7 +13823,6 @@
       {
 	"name": "sorie town",
 	"id": "31-04-03",
-	"deprecated": true,
 	"ochaId": "SLE04020103",
 	"parentId": "31-04",
 	"coordinates": {
@@ -13887,7 +13833,6 @@
       {
 	"name": "susan's bay",
 	"id": "31-04-04",
-	"deprecated": true,
 	"ochaId": "SLE04020104",
 	"parentId": "31-04",
 	"coordinates": {
@@ -13898,7 +13843,6 @@
       {
 	"name": "tower hill",
 	"id": "31-04-05",
-	"deprecated": true,
 	"ochaId": "SLE04020105",
 	"parentId": "31-04",
 	"coordinates": {
@@ -13909,7 +13853,6 @@
       {
 	"name": "connaught hospital",
 	"id": "31-05-01",
-	"deprecated": true,
 	"ochaId": "SLE04020201",
 	"parentId": "31-05",
 	"coordinates": {
@@ -14099,7 +14042,7 @@
 	}
       },
       {
-	"name": "malama / kamayama",
+	"name": "malama/kamayama",
 	"id": "31-08-07",
 	"ochaId": "SLE04020807",
 	"parentId": "31-08",
@@ -14147,60 +14090,90 @@
 	  "lon": -13.2604780511677
 	}
       },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       {
 	"id": "31-09-01",
 	"name": "allen town 1&2",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-02",
 	"name": "bombay",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-03",
 	"name": "bottom oku",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-04",
 	"name": "calaba town",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-05",
 	"name": "cline town",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-06",
 	"name": "coconut farm / asho",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-07",
 	"name": "congo water 1&2",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-08",
 	"name": "consider lane",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-09",
 	"name": "foulah town",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-10",
 	"name": "fourah bay",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-11",
 	"name": "grass field",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-12",
@@ -14210,207 +14183,245 @@
       {
 	"id": "31-09-13",
 	"name": "jalloh tarrace",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-14",
 	"name": "kissy brook",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-15",
 	"name": "kissy bye pass i",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-16",
 	"name": "kissy bye pass ii",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-17",
 	"name": "kissy mental",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-18",
 	"name": "kissy mental area",
-	"parentId": "31-09"
+	"parentId": "31-03"
       },
       {
 	"id": "31-09-19",
 	"name": "kissy mess mess",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-20",
 	"name": "kuntolor",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-21",
 	"name": "lowcost housing",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-22",
 	"name": "mamba ridge i",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-23",
 	"name": "mamba ridge ii",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-24",
 	"name": "mayenkineh",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-25",
 	"name": "mount aureol",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-26",
 	"name": "odch",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-27",
 	"name": "old warf",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-28",
 	"name": "pamuronko",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-29",
 	"name": "pcmh",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-30",
 	"name": "portee",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-31",
 	"name": "quarry",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-32",
 	"name": "robis",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-33",
 	"name": "rokupa",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-09-34",
 	"name": "shell",
-	"parentId": "31-09"
+	"parentId": "31-09",
+	"deprecated": true
       },
       {
 	"id": "31-10-01",
 	"name": "aberdeen",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-02",
 	"name": "albert academy",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-03",
 	"name": "ascension town",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-04",
 	"name": "bathurst",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-05",
 	"name": "brookfields",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-06",
 	"name": "brookfields-red",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-07",
 	"name": "charlotte",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-08",
 	"name": "cockerill-aberdeen",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-09",
 	"name": "cockle-bay/college",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-10",
 	"name": "congo cross area",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-11",
 	"name": "congo town",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-12",
 	"name": "connaught hospital",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-13",
 	"name": "dwurzak",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-14",
 	"name": "george brook",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-15",
 	"name": "ginger hall",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-16",
 	"name": "gloucester",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
-	"id": "31-10-17",
+	"id": "31-08-17",
 	"name": "hill station (uw1)",
-	"parentId": "31-10"
+	"parentId": "31-08"
       },
       {
 	"id": "31-10-18",
-	"name": "juba/ kaningo",
-	"parentId": "31-10"
+	"name": "juba/kaningo",
+	"parentId": "31-08",
       },
       {
 	"id": "31-10-19",
 	"name": "kingtom",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-20",
@@ -14420,97 +14431,113 @@
       {
 	"id": "31-10-21",
 	"name": "leicester",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-22",
 	"name": "lumley",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-23",
 	"name": "malama/kamayama",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-24",
 	"name": "mount aureol",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-25",
 	"name": "mountain regent",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-26",
 	"name": "murray town",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-27",
 	"name": "new england-hannes",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-28",
 	"name": "new england-hill c (uw2)",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-29",
 	"name": "pipeline/wilkinson",
-	"parentId": "31-10"
+	"parentId": "31-08"
       },
       {
 	"id": "31-10-30",
 	"name": "regent",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-31",
 	"name": "sanders street",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-32",
 	"name": "sanders street area",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-33",
 	"name": "sorie town",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-34",
 	"name": "susan's bay",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-35",
 	"name": "susan's town",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-36",
 	"name": "tengbeh town",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-37",
 	"name": "tower hill",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"id": "31-10-38",
 	"name": "wilberforce",
-	"parentId": "31-10"
+	"parentId": "31-10",
+	"deprecated": true
       },
       {
 	"name": "fabaina area",
 	"id": "32-01-01",
-	"deprecated": true,
 	"ochaId": "SLE04010101",
 	"parentId": "32-01",
 	"coordinates": {
@@ -14521,7 +14548,6 @@
       {
 	"name": "magbafti",
 	"id": "32-01-02",
-	"deprecated": true,
 	"ochaId": "SLE04010103",
 	"parentId": "32-01",
 	"coordinates": {
@@ -14541,9 +14567,8 @@
 	}
       },
       {
-	"name": "newton",
+	"name": "newton area",
 	"id": "32-01-04",
-	"deprecated": true,
 	"ochaId": "SLE04010105",
 	"parentId": "32-01",
 	"coordinates": {
@@ -14552,9 +14577,8 @@
 	}
       },
       {
-	"name": "songo",
+	"name": "songo area",
 	"id": "32-01-05",
-	"deprecated": true,
 	"ochaId": "SLE04010106",
 	"parentId": "32-01",
 	"coordinates": {
@@ -14565,7 +14589,6 @@
       {
 	"name": "madonkeh",
 	"id": "32-01-06",
-	"deprecated": true,
 	"ochaId": "SLE04010102",
 	"parentId": "32-01",
 	"coordinates": {
@@ -14576,7 +14599,7 @@
       {
 	"name": "bathurst",
 	"id": "32-02-01",
-	"deprecated": true,
+	"deprecated": false,
 	"ochaId": "SLE04010201",
 	"parentId": "32-02",
 	"coordinates": {
@@ -14598,7 +14621,6 @@
       {
 	"name": "gloucester",
 	"id": "32-02-03",
-	"deprecated": true,
 	"ochaId": "SLE04010203",
 	"parentId": "32-02",
 	"coordinates": {
@@ -14620,7 +14642,6 @@
       {
 	"name": "regent",
 	"id": "32-02-05",
-	"deprecated": true,
 	"ochaId": "SLE04010205",
 	"parentId": "32-02",
 	"coordinates": {
@@ -14651,7 +14672,7 @@
 	}
       },
       {
-	"name": "hastings village a",
+	"name": "hastings village area",
 	"id": "32-03-03",
 	"deprecated": true,
 	"ochaId": "SLE04010303",
@@ -14708,7 +14729,6 @@
       {
 	"name": "hamilton",
 	"id": "32-04-04",
-	"deprecated": true,
 	"ochaId": "SLE04010404",
 	"parentId": "32-04",
 	"coordinates": {
@@ -14753,117 +14773,130 @@
       {
 	"id": "32-05-01",
 	"name": "fabaina area",
-	"parentId": "32-05"
+	"parentId": "32-05",
+	"deprecated": true
       },
       {
-	"id": "32-05-02",
+	"id": "32-03-02",
 	"name": "hasting village area",
-	"parentId": "32-05"
+	"parentId": "32-03"
       },
       {
-	"id": "32-05-03",
+	"id": "32-03-03",
 	"name": "hastings village area (grafton - deep eye water lower)",
-	"parentId": "32-05"
+	"parentId": "32-03"
       },
       {
-	"id": "32-05-04",
+	"id": "32-03-04",
 	"name": "hastings village area (jui to deep eye water - upper)",
-	"parentId": "32-05"
+	"parentId": "32-03"
       },
       {
 	"id": "32-05-05",
 	"name": "kerry town",
-	"parentId": "32-05"
+	"parentId": "32-05",
+	"deprecated": true
       },
       {
 	"id": "32-05-06",
 	"name": "kossoh town",
-	"parentId": "32-05"
+	"parentId": "32-05",
+	"deprecated": true
       },
       {
-	"id": "32-05-07",
+	"id": "32-01-07",
 	"name": "limba corner",
-	"parentId": "32-05"
+	"parentId": "32-01"
       },
       {
 	"id": "32-05-08",
 	"name": "madonkeh",
-	"parentId": "32-05"
+	"parentId": "32-05",
+	"deprecated": true
       },
       {
 	"id": "32-05-09",
 	"name": "magbafti",
-	"parentId": "32-05"
+	"parentId": "32-05",
+	"deprecated": true
       },
       {
-	"id": "32-05-10",
+	"id": "32-01-10",
 	"name": "mile 9",
-	"parentId": "32-05"
+	"parentId": "32-01"
       },
       {
 	"id": "32-05-11",
 	"name": "newton area",
-	"parentId": "32-05"
+	"parentId": "32-05",
+	"deprecated": true
       },
       {
 	"id": "32-05-12",
 	"name": "songo area",
-	"parentId": "32-05"
+	"parentId": "32-05",
+	"deprecated": true
       },
       {
-	"id": "32-05-13",
+	"id": "32-03-13",
 	"name": "waterloo area 1",
-	"parentId": "32-05"
+	"parentId": "32-03"
       },
       {
-	"id": "32-05-14",
+	"id": "32-03-14",
 	"name": "waterloo area ii",
-	"parentId": "32-05"
+	"parentId": "32-03"
       },
       {
-	"id": "32-05-15",
+	"id": "32-03-15",
 	"name": "waterloo freetown park",
-	"parentId": "32-05"
+	"parentId": "32-03"
       },
       {
-	"id": "32-05-16",
+	"id": "32-03-16",
 	"name": "waterloo village (mabureh ",
-	  "parentId": "32-05"
+	  "parentId": "32-03"
       },
       {
-	"id": "32-05-17",
+	"id": "32-03-17",
 	"name": "waterloo village area (lumpa",
-	  "parentId": "32-05"
+	  "parentId": "32-03"
       },
       {
 	"id": "32-06-01",
 	"name": "benguima area",
-	"parentId": "32-06"
+	"parentId": "32-06",
+	"deprecated": true
       },
       {
 	"id": "32-06-02",
 	"name": "black johnson",
-	"parentId": "32-06"
+	"parentId": "32-06",
+	"deprecated": true
       },
       {
 	"id": "32-06-03",
 	"name": "during town",
-	"parentId": "32-06"
+	"parentId": "32-06",
+	"deprecated": true
       },
       {
 	"id": "32-06-04",
 	"name": "fonima",
-	"parentId": "32-06"
+	"parentId": "32-06",
+	"deprecated": true
       },
       {
 	"id": "32-06-05",
 	"name": "gbendebu",
-	"parentId": "32-06"
+	"parentId": "32-06",
+	"deprecated": true
       },
       {
 	"id": "32-06-06",
 	"name": "goderich -mechem",
-	"parentId": "32-06"
+	"parentId": "32-06",
+	"deprecated": true
       },
       {
 	"id": "32-06-07",
@@ -14878,42 +14911,43 @@
       {
 	"id": "32-06-09",
 	"name": "hamilton",
-	"parentId": "32-06"
+	"parentId": "32-06",
+	"deprecated": true
       },
       {
-	"id": "32-06-10",
+	"id": "32-04-10",
 	"name": "kent & york",
-	"parentId": "32-06"
+	"parentId": "32-04"
       },
       {
-	"id": "32-06-11",
+	"id": "32-04-11",
 	"name": "milton margai",
 	"parentId": "32-06"
       },
       {
-	"id": "32-06-12",
+	"id": "32-04-12",
 	"name": "russel",
-	"parentId": "32-06"
+	"parentId": "32-04"
       },
       {
-	"id": "32-06-13",
+	"id": "32-04-13",
 	"name": "sattia",
-	"parentId": "32-06"
+	"parentId": "32-04"
       },
       {
-	"id": "32-06-14",
+	"id": "32-04-14",
 	"name": "tisana",
-	"parentId": "32-06"
+	"parentId": "32-04"
       },
       {
-	"id": "32-06-15",
+	"id": "32-04-15",
 	"name": "tokeh",
-	"parentId": "32-06"
+	"parentId": "32-04"
       },
       {
-	"id": "32-06-16",
+	"id": "32-04-16",
 	"name": "tombo (fishing ground)",
-	"parentId": "32-06"
+	"parentId": "32-04"
       }
     ]
   }
