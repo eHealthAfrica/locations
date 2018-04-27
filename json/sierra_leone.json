@@ -13545,7 +13545,7 @@
 	}
       },
       {
-	"name": "quarry/kissy",
+	"name": "quarry",
 	"id": "31-02-08",
 	"ochaId": "SLE04020408",
 	"parentId": "31-02",
@@ -14170,27 +14170,24 @@
 	"deprecated": true
       },
       {
-	"id": "31-09-11",
+	"id": "31-02-11",
 	"name": "grass field",
-	"parentId": "31-09",
-	"deprecated": true
+	"parentId": "31-02"
       },
       {
-	"id": "31-09-12",
+	"id": "31-02-12",
 	"name": "industral estate",
-	"parentId": "31-09"
+	"parentId": "31-02"
       },
       {
-	"id": "31-09-13",
+	"id": "31-02-13",
 	"name": "jalloh tarrace",
-	"parentId": "31-09",
-	"deprecated": true
+	"parentId": "31-02"
       },
       {
-	"id": "31-09-14",
+	"id": "31-02-14",
 	"name": "kissy brook",
-	"parentId": "31-09",
-	"deprecated": true
+	"parentId": "31-02"
       },
       {
 	"id": "31-09-15",
@@ -14258,10 +14255,9 @@
 	"deprecated": true
       },
       {
-	"id": "31-09-26",
+	"id": "31-01-26",
 	"name": "odch",
-	"parentId": "31-09",
-	"deprecated": true
+	"parentId": "31-01"
       },
       {
 	"id": "31-09-27",
@@ -14276,10 +14272,9 @@
 	"deprecated": true
       },
       {
-	"id": "31-09-29",
+	"id": "31-01-29",
 	"name": "pcmh",
-	"parentId": "31-09",
-	"deprecated": true
+	"parentId": "31-01"
       },
       {
 	"id": "31-09-30",
@@ -14342,10 +14337,9 @@
 	"deprecated": true
       },
       {
-	"id": "31-10-06",
+	"id": "31-06-06",
 	"name": "brookfields-red",
-	"parentId": "31-10",
-	"deprecated": true
+	"parentId": "31-06"
       },
       {
 	"id": "31-10-07",
@@ -14384,10 +14378,9 @@
 	"deprecated": true
       },
       {
-	"id": "31-10-13",
+	"id": "31-06-13",
 	"name": "dwurzak",
-	"parentId": "31-10",
-	"deprecated": true
+	"parentId": "31-06"
       },
       {
 	"id": "31-10-14",
@@ -14415,7 +14408,7 @@
       {
 	"id": "31-10-18",
 	"name": "juba/kaningo",
-	"parentId": "31-08",
+	"parentId": "31-08"
       },
       {
 	"id": "31-10-19",
@@ -14471,10 +14464,9 @@
 	"deprecated": true
       },
       {
-	"id": "31-10-28",
+	"id": "31-07-28",
 	"name": "new england-hill c (uw2)",
-	"parentId": "31-10",
-	"deprecated": true
+	"parentId": "31-07"
       },
       {
 	"id": "31-10-29",
@@ -14488,16 +14480,14 @@
 	"deprecated": true
       },
       {
-	"id": "31-10-31",
+	"id": "31-05-31",
 	"name": "sanders street",
-	"parentId": "31-10",
-	"deprecated": true
+	"parentId": "31-05"
       },
       {
-	"id": "31-10-32",
+	"id": "31-05-32",
 	"name": "sanders street area",
-	"parentId": "31-10",
-	"deprecated": true
+	"parentId": "31-05"
       },
       {
 	"id": "31-10-33",
@@ -14863,50 +14853,44 @@
 	  "parentId": "32-03"
       },
       {
-	"id": "32-06-01",
+	"id": "32-03-01",
 	"name": "benguima area",
-	"parentId": "32-06",
-	"deprecated": true
+	"parentId": "32-03"
       },
       {
-	"id": "32-06-02",
+	"id": "32-03-05",
 	"name": "black johnson",
-	"parentId": "32-06",
-	"deprecated": true
+	"parentId": "32-03"
       },
       {
-	"id": "32-06-03",
+	"id": "32-03-06",
 	"name": "during town",
-	"parentId": "32-06",
-	"deprecated": true
+	"parentId": "32-03"
       },
       {
-	"id": "32-06-04",
+	"id": "32-04-08",
 	"name": "fonima",
-	"parentId": "32-06",
-	"deprecated": true
+	"parentId": "32-04"
       },
       {
-	"id": "32-06-05",
+	"id": "32-04-09",
 	"name": "gbendebu",
-	"parentId": "32-06",
-	"deprecated": true
+	"parentId": "32-04"
       },
       {
-	"id": "32-06-06",
+	"id": "32-04-17",
 	"name": "goderich -mechem",
-	"parentId": "32-06",
-	"deprecated": true
+	"parentId": "32-04"
       },
       {
-	"id": "32-06-07",
+	"id": "32-04-18",
 	"name": "goderich-funkia/tafuna",
-	"parentId": "32-06"
+	"parentId": "32-04"
       },
       {
-	"id": "32-06-08",
+	"id": "32-04-19",
 	"name": "godrich-adonkia/mia room",
-	"parentId": "32-06"
+	"parentId": "32-04"
       },
       {
 	"id": "32-06-09",
