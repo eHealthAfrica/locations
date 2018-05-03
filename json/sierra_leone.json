@@ -13628,106 +13628,6 @@
 	}
       },
       {
-	"name": "kissy bye pass i",
-	"id": "31-03-10",
-	"ochaId": "SLE04020510",
-	"parentId": "31-03",
-	"coordinates": {
-	  "lat": 8.47936233441544,
-	  "lon": -13.2023740625163
-	}
-      },
-      {
-	"name": "kissy bye pass ii",
-	"id": "31-03-11",
-	"ochaId": "SLE04020511",
-	"parentId": "31-03",
-	"coordinates": {
-	  "lat": 8.47613094304347,
-	  "lon": -13.1882888239339
-	}
-      },
-      {
-	"name": "kissy mental",
-	"id": "31-03-12",
-	"ochaId": "SLE04020512",
-	"parentId": "31-03",
-	"coordinates": {
-	  "lat": 8.46558890623987,
-	  "lon": -13.1958625204923
-	}
-      },
-      {
-	"name": "kissy mess mess",
-	"id": "31-03-13",
-	"ochaId": "SLE04020513",
-	"parentId": "31-03",
-	"coordinates": {
-	  "lat": 8.46404696373472,
-	  "lon": -13.1879246076673
-	}
-      },
-      {
-	"name": "kuntolor",
-	"id": "31-03-14",
-	"ochaId": "SLE04020514",
-	"parentId": "31-03",
-	"coordinates": {
-	  "lat": 8.45411286252305,
-	  "lon": -13.1823820747804
-	}
-      },
-      {
-	"name": "lowcost housing",
-	"id": "31-03-15",
-	"ochaId": "SLE04020515",
-	"parentId": "31-03",
-	"coordinates": {
-	  "lat": 8.47042140507076,
-	  "lon": -13.1860761118657
-	}
-      },
-      {
-	"name": "mamba ridge i",
-	"id": "31-03-16",
-	"ochaId": "SLE04020516",
-	"parentId": "31-03",
-	"coordinates": {
-	  "lat": 8.47053164808267,
-	  "lon": -13.2048858652458
-	}
-      },
-      {
-	"name": "mamba ridge ii",
-	"id": "31-03-17",
-	"ochaId": "SLE04020517",
-	"parentId": "31-03",
-	"coordinates": {
-	  "lat": 8.46600940648885,
-	  "lon": -13.2010130230363
-	}
-      },
-      {
-	"name": "mayenkineh",
-	"id": "31-03-18",
-	"ochaId": "SLE04020518",
-	"parentId": "31-03",
-	"coordinates": {
-	  "lat": 8.4304448385222,
-	  "lon": -13.1662024232587
-	}
-      },
-      {
-	"name": "old warf",
-	"id": "31-03-19",
-	"ochaId": "SLE04020519",
-	"parentId": "31-03",
-	"coordinates": {
-	  "lat": 8.4449498223115,
-	  "lon": -13.1596538168905
-	}
-      },
-      {
 	"name": "pamuronko",
 	"id": "31-03-20",
 	"ochaId": "SLE04020520",
@@ -13735,46 +13635,6 @@
 	"coordinates": {
 	  "lat": 8.4339940038241,
 	  "lon": -13.1523906315912
-	}
-      },
-      {
-	"name": "portee",
-	"id": "31-03-21",
-	"ochaId": "SLE04020521",
-	"parentId": "31-03",
-	"coordinates": {
-	  "lat": 8.46477504341522,
-	  "lon": -13.1741058805534
-	}
-      },
-      {
-	"name": "robis",
-	"id": "31-03-22",
-	"ochaId": "SLE04020522",
-	"parentId": "31-03",
-	"coordinates": {
-	  "lat": 8.43448846240638,
-	  "lon": -13.1709481811007
-	}
-      },
-      {
-	"name": "rokupa",
-	"id": "31-03-23",
-	"ochaId": "SLE04020523",
-	"parentId": "31-03",
-	"coordinates": {
-	  "lat": 8.46033182434115,
-	  "lon": -13.1715290806212
-	}
-      },
-      {
-	"name": "shell",
-	"id": "31-03-24",
-	"ochaId": "SLE04020524",
-	"parentId": "31-03",
-	"coordinates": {
-	  "lat": 8.46823066087433,
-	  "lon": -13.1917196428888
 	}
       },
       {
@@ -14090,25 +13950,6 @@
 	  "lon": -13.2604780511677
 	}
       },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       {
 	"id": "31-09-01",
 	"name": "allen town 1&2",
@@ -14188,7 +14029,138 @@
 	"id": "31-02-14",
 	"name": "kissy brook",
 	"parentId": "31-02"
-      },
+			},
+			{
+				"name": "kissy bye pass i",
+				"id": "31-02-15",
+				"parentId": "31-02",
+				"coordinates": {
+					"lat": 8.47936233441544,
+					"lon": -13.2023740625163
+				}
+			},
+			{
+				"name": "kissy bye pass ii",
+				"id": "31-02-16",
+				"parentId": "31-02",
+				"coordinates": {
+					"lat": 8.47613094304347,
+					"lon": -13.1882888239339
+				}
+			},
+			{
+				"name": "kissy mental",
+				"id": "31-02-17",
+				"parentId": "31-02",
+				"coordinates": {
+					"lat": 8.46558890623987,
+					"lon": -13.1958625204923
+				}
+			},
+			{
+				"name": "kissy mess mess",
+				"id": "31-02-18",
+				"parentId": "31-02",
+				"coordinates": {
+					"lat": 8.46404696373472,
+					"lon": -13.1879246076673
+				}
+			},
+			{
+				"name": "kuntolor",
+				"id": "31-02-19",
+				"parentId": "31-02",
+				"coordinates": {
+					"lat": 8.45411286252305,
+					"lon": -13.1823820747804
+				}
+			},
+			{
+				"name": "lowcost housing",
+				"id": "31-02-20",
+				"parentId": "31-02",
+				"coordinates": {
+					"lat": 8.47042140507076,
+					"lon": -13.1860761118657
+				}
+			},
+			{
+				"name": "mamba ridge i",
+				"id": "31-02-21",
+				"parentId": "31-02",
+				"coordinates": {
+					"lat": 8.47053164808267,
+					"lon": -13.2048858652458
+				}
+			},
+			{
+				"name": "mamba ridge ii",
+				"id": "31-02-22",
+				"parentId": "31-02",
+				"coordinates": {
+					"lat": 8.46600940648885,
+					"lon": -13.2010130230363
+				}
+			},
+			{
+				"name": "mayenkineh",
+				"id": "31-02-23",
+				"parentId": "31-02",
+				"coordinates": {
+					"lat": 8.4304448385222,
+					"lon": -13.1662024232587
+				}
+			},
+			{
+				"name": "old warf",
+				"id": "31-02-24",
+				"parentId": "31-02",
+				"coordinates": {
+					"lat": 8.4449498223115,
+					"lon": -13.1596538168905
+				}
+			},
+			{
+				"name": "portee",
+				"id": "31-02-25",
+				"parentId": "31-02",
+				"coordinates": {
+					"lat": 8.46477504341522,
+					"lon": -13.1741058805534
+				}
+			},
+			{
+				"name": "robis",
+				"id": "31-02-26",
+				"parentId": "31-02",
+				"coordinates": {
+					"lat": 8.43448846240638,
+					"lon": -13.1709481811007
+				}
+			},
+			{
+				"name": "rokupa",
+				"id": "31-02-27",
+				"parentId": "31-02",
+				"coordinates": {
+					"lat": 8.46033182434115,
+					"lon": -13.1715290806212
+				}
+			},
+			{
+				"name": "shell",
+				"id": "31-02-28",
+				"parentId": "31-02",
+				"coordinates": {
+					"lat": 8.46823066087433,
+					"lon": -13.1917196428888
+				}
+			},
+			{
+				"id": "31-02-29",
+				"name": "kissy mental area",
+				"parentId": "31-02"
+			},
       {
 	"id": "31-09-15",
 	"name": "kissy bye pass i",
@@ -14206,11 +14178,6 @@
 	"name": "kissy mental",
 	"parentId": "31-09",
 	"deprecated": true
-      },
-      {
-	"id": "31-09-18",
-	"name": "kissy mental area",
-	"parentId": "31-03"
       },
       {
 	"id": "31-09-19",
