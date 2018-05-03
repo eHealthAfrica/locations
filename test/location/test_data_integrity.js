@@ -80,7 +80,7 @@ test('all sections have correct ochaId hierarchy', function (t) {
     if (found) {
       var right = (found.ADM3_CODE == location.parent.ochaId) && (found.ADM2_CODE == location.parent.parent.ochaId || found.ADM2_CODE ==="")
       if (!right) {
-	console.log(child.level() + '  ' + child.name + ' ' + child.ochaId);
+	console.log(location.level() + '  ' + location.name + ' ' + location.ochaId);
       }
       return right
     } else { return true }

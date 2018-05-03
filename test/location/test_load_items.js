@@ -33,6 +33,5 @@ test('toJSON outputs an ordered by id representation', function (t) {
   var res = Location.loadFlatten(fixture)
   t.equal((JSON.parse(JSON.stringify(res)))[4].items[0].id, '1-01-01', 'should be well ordered')
   var items = (JSON.parse(JSON.stringify(res)))[3].items
-  console.log(items)
   t.equal(items[items.length-1].id, '32-06', 'last section has id 32-06')
 })
