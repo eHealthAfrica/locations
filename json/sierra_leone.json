@@ -13804,7 +13804,7 @@
 	}
       },
       {
-	"name": "george brook (dwarzark)",
+	"name": "george brook",
 	"id": "31-07-04",
 	"ochaId": "SLE04020704",
 	"parentId": "31-07",
@@ -13886,7 +13886,7 @@
 	}
       },
       {
-	"name": "juba / kaningo",
+	"name": "juba/kaningo",
 	"id": "31-08-05",
 	"ochaId": "SLE04020805",
 	"parentId": "31-08",
@@ -13975,10 +13975,9 @@
 	"deprecated": true
       },
       {
-	"id": "31-09-04",
+	"id": "31-02-07",
 	"name": "calaba town",
-	"parentId": "31-09",
-	"deprecated": true
+	"parentId": "31-02"
       },
       {
 	"id": "31-09-05",
@@ -14474,10 +14473,9 @@
 	"deprecated": true
       },
       {
-	"id": "31-10-35",
+	"id": "31-04-35",
 	"name": "susan's town",
-	"parentId": "31-10",
-	"deprecated": true
+	"parentId": "31-04"
       },
       {
 	"id": "31-10-36",
